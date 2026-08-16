@@ -1,0 +1,337 @@
+{
+ "gra:articoli": {
+  "label": "Articoli",
+  "count": 178,
+  "kind": "concept"
+ },
+ "gra:nomi-genere-plurale": {
+  "label": "Genere e plurale dei nomi",
+  "count": 449,
+  "kind": "concept"
+ },
+ "gra:ortografia-accenti": {
+  "label": "Ortografia e accenti",
+  "count": 34,
+  "kind": "concept"
+ },
+ "area:grammatica-a1": {
+  "label": "Grammatica A1",
+  "count": 745,
+  "kind": "area"
+ },
+ "conj-presente": {
+  "label": "Presente indicativo",
+  "count": 227,
+  "kind": "conj"
+ },
+ "gra:aggettivi-accordo": {
+  "label": "Accordo degli aggettivi",
+  "count": 154,
+  "kind": "concept"
+ },
+ "conj-passato-prossimo": {
+  "label": "Passato prossimo",
+  "count": 340,
+  "kind": "conj"
+ },
+ "gra:pronomi-clitici": {
+  "label": "Pronomi e clitici",
+  "count": 420,
+  "kind": "concept"
+ },
+ "gra:interrogativi": {
+  "label": "Interrogativi",
+  "count": 28,
+  "kind": "concept"
+ },
+ "gra:numeri-tempo": {
+  "label": "Numeri, ore e date",
+  "count": 201,
+  "kind": "concept"
+ },
+ "gra:dimostrativi": {
+  "label": "Dimostrativi",
+  "count": 143,
+  "kind": "concept"
+ },
+ "gra:preposizioni": {
+  "label": "Preposizioni (semplici e articolate)",
+  "count": 172,
+  "kind": "concept"
+ },
+ "gra:avverbi": {
+  "label": "Avverbi",
+  "count": 46,
+  "kind": "concept"
+ },
+ "phon:geminate": {
+  "label": "Consonanti doppie (geminate)",
+  "count": 86,
+  "kind": "phon"
+ },
+ "phon:s-z": {
+  "label": "S sonora e sorda, z",
+  "count": 9,
+  "kind": "phon"
+ },
+ "phon:vocali": {
+  "label": "Vocali aperte e chiuse",
+  "count": 31,
+  "kind": "phon"
+ },
+ "area:fonologia": {
+  "label": "Fonologia",
+  "count": 168,
+  "kind": "area"
+ },
+ "phon:c-g": {
+  "label": "C e g dure e dolci",
+  "count": 4,
+  "kind": "phon"
+ },
+ "area:lettura-a1": {
+  "label": "Lettura A1",
+  "count": 189,
+  "kind": "area"
+ },
+ "voc:cucina": {
+  "label": "Vocabolario: cucina",
+  "count": 364,
+  "kind": "vocab"
+ },
+ "area:vocabolario-a1": {
+  "label": "Vocabolario A1",
+  "count": 1717,
+  "kind": "area"
+ },
+ "voc:natura-animali": {
+  "label": "Vocabolario: natura animali",
+  "count": 240,
+  "kind": "vocab"
+ },
+ "voc:verbi-comuni": {
+  "label": "Vocabolario: verbi comuni",
+  "count": 337,
+  "kind": "vocab"
+ },
+ "voc:citta-trasporti": {
+  "label": "Vocabolario: citta trasporti",
+  "count": 228,
+  "kind": "vocab"
+ },
+ "voc:abbigliamento": {
+  "label": "Vocabolario: abbigliamento",
+  "count": 197,
+  "kind": "vocab"
+ },
+ "voc:lavoro-scuola": {
+  "label": "Vocabolario: lavoro scuola",
+  "count": 146,
+  "kind": "vocab"
+ },
+ "voc:famiglia-persone": {
+  "label": "Vocabolario: famiglia persone",
+  "count": 291,
+  "kind": "vocab"
+ },
+ "voc:tempo-numeri": {
+  "label": "Vocabolario: tempo numeri",
+  "count": 259,
+  "kind": "vocab"
+ },
+ "voc:corpo-salute": {
+  "label": "Vocabolario: corpo salute",
+  "count": 236,
+  "kind": "vocab"
+ },
+ "voc:astratto-societa": {
+  "label": "Vocabolario: astratto societa",
+  "count": 164,
+  "kind": "vocab"
+ },
+ "voc:casa": {
+  "label": "Vocabolario: casa",
+  "count": 320,
+  "kind": "vocab"
+ },
+ "voc:tecnologia-ufficio": {
+  "label": "Vocabolario: tecnologia ufficio",
+  "count": 8,
+  "kind": "vocab"
+ },
+ "area:grammatica-a2": {
+  "label": "Grammatica A2",
+  "count": 816,
+  "kind": "area"
+ },
+ "conj-imperfetto": {
+  "label": "Imperfetto",
+  "count": 147,
+  "kind": "conj"
+ },
+ "gra:possessivi": {
+  "label": "Possessivi",
+  "count": 52,
+  "kind": "concept"
+ },
+ "gra:comparativi": {
+  "label": "Comparativi e superlativi",
+  "count": 61,
+  "kind": "concept"
+ },
+ "conj-imperativo": {
+  "label": "Imperativo",
+  "count": 100,
+  "kind": "conj"
+ },
+ "gra:negazione": {
+  "label": "Negazione",
+  "count": 32,
+  "kind": "concept"
+ },
+ "conj-congiuntivo": {
+  "label": "Congiuntivo presente",
+  "count": 183,
+  "kind": "conj"
+ },
+ "gra:relativi": {
+  "label": "Pronomi relativi",
+  "count": 42,
+  "kind": "concept"
+ },
+ "phon:gn-gli": {
+  "label": "Suoni gn e gli",
+  "count": 19,
+  "kind": "phon"
+ },
+ "phon:accento": {
+  "label": "Accento tonico",
+  "count": 24,
+  "kind": "phon"
+ },
+ "phon:sc": {
+  "label": "Suono sc",
+  "count": 11,
+  "kind": "phon"
+ },
+ "area:lettura-a2": {
+  "label": "Lettura A2",
+  "count": 189,
+  "kind": "area"
+ },
+ "area:vocabolario-a2": {
+  "label": "Vocabolario A2",
+  "count": 1185,
+  "kind": "area"
+ },
+ "voc:strumenti-lavoro": {
+  "label": "Vocabolario: strumenti lavoro",
+  "count": 10,
+  "kind": "vocab"
+ },
+ "area:grammatica-b1": {
+  "label": "Grammatica B1",
+  "count": 755,
+  "kind": "area"
+ },
+ "conj-gerundio": {
+  "label": "Stare + gerundio",
+  "count": 53,
+  "kind": "conj"
+ },
+ "conj-trapassato": {
+  "label": "Trapassato prossimo",
+  "count": 82,
+  "kind": "conj"
+ },
+ "gra:impersonale": {
+  "label": "Si impersonale",
+  "count": 20,
+  "kind": "concept"
+ },
+ "conj-condizionale": {
+  "label": "Condizionale presente",
+  "count": 88,
+  "kind": "conj"
+ },
+ "conj-futuro": {
+  "label": "Futuro semplice",
+  "count": 136,
+  "kind": "conj"
+ },
+ "conj-futuro-anteriore": {
+  "label": "Futuro anteriore",
+  "count": 31,
+  "kind": "conj"
+ },
+ "gra:ipotetico": {
+  "label": "Periodo ipotetico",
+  "count": 31,
+  "kind": "concept"
+ },
+ "gra:piacere": {
+  "label": "Piacere e verbi simili",
+  "count": 30,
+  "kind": "concept"
+ },
+ "conj-cong-imperfetto": {
+  "label": "Congiuntivo imperfetto",
+  "count": 37,
+  "kind": "conj"
+ },
+ "area:lettura-b1": {
+  "label": "Lettura B1",
+  "count": 214,
+  "kind": "area"
+ },
+ "area:vocabolario-b1": {
+  "label": "Vocabolario B1",
+  "count": 799,
+  "kind": "area"
+ },
+ "gra:discorso-indiretto": {
+  "label": "Discorso indiretto",
+  "count": 32,
+  "kind": "concept"
+ },
+ "area:grammatica-b2": {
+  "label": "Grammatica B2",
+  "count": 149,
+  "kind": "area"
+ },
+ "gra:passivo": {
+  "label": "Forma passiva",
+  "count": 50,
+  "kind": "concept"
+ },
+ "conj-cond-passato": {
+  "label": "Condizionale passato",
+  "count": 45,
+  "kind": "conj"
+ },
+ "conj-cong-passato": {
+  "label": "Congiuntivo passato",
+  "count": 16,
+  "kind": "conj"
+ },
+ "area:lettura-b2": {
+  "label": "Lettura B2",
+  "count": 210,
+  "kind": "area"
+ },
+ "area:vocabolario-b2": {
+  "label": "Vocabolario B2",
+  "count": 98,
+  "kind": "area"
+ },
+ "voc:frequenza-nomi": {
+  "label": "Vocabolario: nomi frequenti",
+  "count": 500,
+  "kind": "vocab"
+ },
+ "voc:frequenza-verbi": {
+  "label": "Vocabolario: verbi frequenti",
+  "count": 499,
+  "kind": "vocab"
+ }
+}

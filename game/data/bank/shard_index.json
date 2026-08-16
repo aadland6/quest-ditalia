@@ -1,0 +1,54 @@
+{
+ "Fonologia": {
+  "file": "fonologia.json",
+  "count": 168
+ },
+ "Grammatica A1": {
+  "file": "grammatica-a1.json",
+  "count": 745
+ },
+ "Grammatica A2": {
+  "file": "grammatica-a2.json",
+  "count": 816
+ },
+ "Grammatica B1": {
+  "file": "grammatica-b1.json",
+  "count": 755
+ },
+ "Grammatica B2": {
+  "file": "grammatica-b2.json",
+  "count": 149
+ },
+ "Lettura A1": {
+  "file": "lettura-a1.json",
+  "count": 189
+ },
+ "Lettura A2": {
+  "file": "lettura-a2.json",
+  "count": 189
+ },
+ "Lettura B1": {
+  "file": "lettura-b1.json",
+  "count": 214
+ },
+ "Lettura B2": {
+  "file": "lettura-b2.json",
+  "count": 210
+ },
+ "Vocabolario A1": {
+  "file": "vocabolario-a1.json",
+  "count": 1717
+ },
+ "Vocabolario A2": {
+  "file": "vocabolario-a2.json",
+  "count": 1185
+ },
+ "Vocabolario B1": {
+  "file": "vocabolario-b1.json",
+  "count": 799
+ },
+ "Vocabolario B2": {
+  "file": "vocabolario-b2.json",
+  "count": 98
+ }
+}

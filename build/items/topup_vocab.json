@@ -1,0 +1,5588 @@
+[
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "cucina",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "🥪",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'panino' is masculine: il panino. Plural panini. Refers to a filled bread roll, the classic Italian sandwich.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "panino",
+      "gender": "m",
+      "article": "il",
+      "plural": "panini",
+      "ipa": "paˈni.no",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "panino = sandwich, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "cucina",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "🥪",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "o",
+      "q",
+      "n",
+      "a",
+      "p",
+      "l",
+      "n",
+      "i"
+    ],
+    "correct": [
+      4,
+      3,
+      2,
+      7,
+      6,
+      0
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il panino', meaning 'sandwich'.",
+    "distractor_rationales": [
+      "'l' is an extra letter — it does not appear in 'panino'.",
+      "'q' is an extra letter — it does not appear in 'panino'."
+    ],
+    "italian": {
+      "lemma": "panino",
+      "gender": "m",
+      "article": "il",
+      "plural": "panini",
+      "ipa": "paˈni.no",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "panino = sandwich, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "cucina",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🍰",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "As a noun, 'dolce' is masculine: il dolce (a dessert/sweet). Plural dolci. Same word also works as an adjective meaning 'sweet'.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "dolce",
+      "gender": "m",
+      "article": "il",
+      "plural": "dolci",
+      "ipa": "ˈdol.tʃe",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "dolce = dessert / sweet, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "cucina",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🍰",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "c",
+      "o",
+      "p",
+      "e",
+      "v",
+      "l",
+      "d"
+    ],
+    "correct": [
+      6,
+      1,
+      5,
+      0,
+      3
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il dolce', meaning 'dessert / sweet'.",
+    "distractor_rationales": [
+      "'v' is an extra letter — it does not appear in 'dolce'.",
+      "'p' is an extra letter — it does not appear in 'dolce'."
+    ],
+    "italian": {
+      "lemma": "dolce",
+      "gender": "m",
+      "article": "il",
+      "plural": "dolci",
+      "ipa": "ˈdol.tʃe",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "dolce = dessert / sweet, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "cucina",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🥝",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'kiwi' is masculine and invariable: il kiwi / i kiwi (no separate plural form, like most foreign loanwords).",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "kiwi",
+      "gender": "m",
+      "article": "il",
+      "plural": "kiwi",
+      "ipa": "ˈki.wi",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "kiwi = kiwi fruit, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "cucina",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🥝",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "k",
+      "i",
+      "g",
+      "e",
+      "w",
+      "i"
+    ],
+    "correct": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il kiwi', meaning 'kiwi fruit'.",
+    "distractor_rationales": [
+      "'g' is an extra letter — it does not appear in 'kiwi'.",
+      "'e' is an extra letter — it does not appear in 'kiwi'."
+    ],
+    "italian": {
+      "lemma": "kiwi",
+      "gender": "m",
+      "article": "il",
+      "plural": "kiwi",
+      "ipa": "ˈki.wi",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "kiwi = kiwi fruit, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "cucina",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🥥",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'cocco' is masculine: il cocco, plural cocchi (double c kept throughout). Don't confuse with 'cocco' meaning 'darling'.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "cocco",
+      "gender": "m",
+      "article": "il",
+      "plural": "cocchi",
+      "ipa": "ˈkɔk.ko",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "cocco = coconut, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "cucina",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🥥",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "a",
+      "c",
+      "o",
+      "o",
+      "c",
+      "c",
+      "t"
+    ],
+    "correct": [
+      4,
+      3,
+      5,
+      1,
+      2
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il cocco', meaning 'coconut'.",
+    "distractor_rationales": [
+      "'t' is an extra letter — it does not appear in 'cocco'.",
+      "'a' is an extra letter — it does not appear in 'cocco'."
+    ],
+    "italian": {
+      "lemma": "cocco",
+      "gender": "m",
+      "article": "il",
+      "plural": "cocchi",
+      "ipa": "ˈkɔk.ko",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "cocco = coconut, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "cucina",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🥒",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'cetriolo' is masculine: il cetriolo, plural cetrioli.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "cetriolo",
+      "gender": "m",
+      "article": "il",
+      "plural": "cetrioli",
+      "ipa": "tʃeˈtrjɔ.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "cetriolo = cucumber, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "cucina",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🥒",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "u",
+      "c",
+      "e",
+      "l",
+      "d",
+      "o",
+      "o",
+      "i",
+      "r",
+      "t"
+    ],
+    "correct": [
+      1,
+      2,
+      9,
+      8,
+      7,
+      6,
+      3,
+      5
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il cetriolo', meaning 'cucumber'.",
+    "distractor_rationales": [
+      "'d' is an extra letter — it does not appear in 'cetriolo'.",
+      "'u' is an extra letter — it does not appear in 'cetriolo'."
+    ],
+    "italian": {
+      "lemma": "cetriolo",
+      "gender": "m",
+      "article": "il",
+      "plural": "cetrioli",
+      "ipa": "tʃeˈtrjɔ.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "cetriolo = cucumber, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "cucina",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🎃",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'zucca' is feminine: la zucca. Plural adds an 'h' to keep the hard /k/ sound: zucche, not zucce.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "zucca",
+      "gender": "f",
+      "article": "la",
+      "plural": "zucche",
+      "ipa": "ˈdzuk.ka",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "zucca = pumpkin / squash, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "cucina",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🎃",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "l",
+      "u",
+      "c",
+      "c",
+      "r",
+      "z",
+      "a"
+    ],
+    "correct": [
+      5,
+      1,
+      3,
+      2,
+      6
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la zucca', meaning 'pumpkin / squash'.",
+    "distractor_rationales": [
+      "'r' is an extra letter — it does not appear in 'zucca'.",
+      "'l' is an extra letter — it does not appear in 'zucca'."
+    ],
+    "italian": {
+      "lemma": "zucca",
+      "gender": "f",
+      "article": "la",
+      "plural": "zucche",
+      "ipa": "ˈdzuk.ka",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "zucca = pumpkin / squash, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "cucina",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🦐",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'gambero' is masculine: il gambero, plural gamberi.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "gambero",
+      "gender": "m",
+      "article": "il",
+      "plural": "gamberi",
+      "ipa": "ˈɡam.be.ro",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "gambero = shrimp / prawn, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "cucina",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🦐",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "h",
+      "e",
+      "r",
+      "g",
+      "o",
+      "m",
+      "a",
+      "b",
+      "l"
+    ],
+    "correct": [
+      3,
+      6,
+      5,
+      7,
+      1,
+      2,
+      4
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il gambero', meaning 'shrimp / prawn'.",
+    "distractor_rationales": [
+      "'h' is an extra letter — it does not appear in 'gambero'.",
+      "'l' is an extra letter — it does not appear in 'gambero'."
+    ],
+    "italian": {
+      "lemma": "gambero",
+      "gender": "m",
+      "article": "il",
+      "plural": "gamberi",
+      "ipa": "ˈɡam.be.ro",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "cucina",
+      "support": "gambero = shrimp / prawn, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "casa",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🧽",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'spugna' is feminine: la spugna, plural spugne. The 'gn' spells the single sound /ɲ/, as in 'gnomo'.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "spugna",
+      "gender": "f",
+      "article": "la",
+      "plural": "spugne",
+      "ipa": "ˈspuɲ.ɲa",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "casa",
+      "support": "spugna = sponge, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "casa",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🧽",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "s",
+      "d",
+      "t",
+      "p",
+      "n",
+      "g",
+      "a",
+      "u"
+    ],
+    "correct": [
+      0,
+      3,
+      7,
+      5,
+      4,
+      6
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la spugna', meaning 'sponge'.",
+    "distractor_rationales": [
+      "'t' is an extra letter — it does not appear in 'spugna'.",
+      "'d' is an extra letter — it does not appear in 'spugna'."
+    ],
+    "italian": {
+      "lemma": "spugna",
+      "gender": "f",
+      "article": "la",
+      "plural": "spugne",
+      "ipa": "ˈspuɲ.ɲa",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "casa",
+      "support": "spugna = sponge, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "casa",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🧺",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'cesto' is masculine: il cesto, plural cesti.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "cesto",
+      "gender": "m",
+      "article": "il",
+      "plural": "cesti",
+      "ipa": "ˈtʃɛs.to",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "casa",
+      "support": "cesto = basket, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "casa",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🧺",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "t",
+      "o",
+      "b",
+      "e",
+      "d",
+      "s",
+      "c"
+    ],
+    "correct": [
+      6,
+      3,
+      5,
+      0,
+      1
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il cesto', meaning 'basket'.",
+    "distractor_rationales": [
+      "'b' is an extra letter — it does not appear in 'cesto'.",
+      "'d' is an extra letter — it does not appear in 'cesto'."
+    ],
+    "italian": {
+      "lemma": "cesto",
+      "gender": "m",
+      "article": "il",
+      "plural": "cesti",
+      "ipa": "ˈtʃɛs.to",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "casa",
+      "support": "cesto = basket, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "casa",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🫙",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'barattolo' is masculine: il barattolo, plural barattoli. Used for jars and tins alike.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "barattolo",
+      "gender": "m",
+      "article": "il",
+      "plural": "barattoli",
+      "ipa": "baˈrat.to.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "casa",
+      "support": "barattolo = jar, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "casa",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🫙",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "t",
+      "g",
+      "b",
+      "o",
+      "t",
+      "h",
+      "a",
+      "l",
+      "r",
+      "o",
+      "a"
+    ],
+    "correct": [
+      2,
+      6,
+      8,
+      10,
+      0,
+      4,
+      3,
+      7,
+      9
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il barattolo', meaning 'jar'.",
+    "distractor_rationales": [
+      "'g' is an extra letter — it does not appear in 'barattolo'.",
+      "'h' is an extra letter — it does not appear in 'barattolo'."
+    ],
+    "italian": {
+      "lemma": "barattolo",
+      "gender": "m",
+      "article": "il",
+      "plural": "barattoli",
+      "ipa": "baˈrat.to.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "casa",
+      "support": "barattolo = jar, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": "Sidewalk",
+      "emoji": null,
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'marciapiede' is masculine: il marciapiede, plural marciapiedi (invariable stem, just add -i). No single emoji depicts it clearly, so the English gloss is used instead.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "marciapiede",
+      "gender": "m",
+      "article": "il",
+      "plural": "marciapiedi",
+      "ipa": "mar.tʃaˈpjɛ.de",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "marciapiede = sidewalk, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": "Sidewalk",
+      "emoji": null,
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "r",
+      "m",
+      "e",
+      "p",
+      "i",
+      "i",
+      "d",
+      "e",
+      "c",
+      "a",
+      "a",
+      "g"
+    ],
+    "correct": [
+      1,
+      9,
+      0,
+      8,
+      5,
+      10,
+      3,
+      4,
+      7,
+      6,
+      2
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il marciapiede', meaning 'sidewalk'.",
+    "distractor_rationales": [
+      "'g' is an extra letter — it does not appear in 'marciapiede'."
+    ],
+    "italian": {
+      "lemma": "marciapiede",
+      "gender": "m",
+      "article": "il",
+      "plural": "marciapiedi",
+      "ipa": "mar.tʃaˈpjɛ.de",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "marciapiede = sidewalk, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "⛲",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'fontana' is feminine: la fontana, plural fontane.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "fontana",
+      "gender": "f",
+      "article": "la",
+      "plural": "fontane",
+      "ipa": "fonˈta.na",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "fontana = fountain, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "⛲",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "a",
+      "n",
+      "n",
+      "i",
+      "d",
+      "o",
+      "f",
+      "a",
+      "t"
+    ],
+    "correct": [
+      6,
+      5,
+      1,
+      8,
+      0,
+      2,
+      7
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la fontana', meaning 'fountain'.",
+    "distractor_rationales": [
+      "'i' is an extra letter — it does not appear in 'fontana'.",
+      "'d' is an extra letter — it does not appear in 'fontana'."
+    ],
+    "italian": {
+      "lemma": "fontana",
+      "gender": "f",
+      "article": "la",
+      "plural": "fontane",
+      "ipa": "fonˈta.na",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "fontana = fountain, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "citta_trasporti",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "💊",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'farmacia' is feminine: la farmacia. Since the 'i' before the final -a is stressed, the plural keeps it: farmacie.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "farmacia",
+      "gender": "f",
+      "article": "la",
+      "plural": "farmacie",
+      "ipa": "farmaˈtʃi.a",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "farmacia = pharmacy, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "citta_trasporti",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "💊",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "s",
+      "r",
+      "a",
+      "a",
+      "i",
+      "m",
+      "a",
+      "g",
+      "f",
+      "c"
+    ],
+    "correct": [
+      8,
+      3,
+      1,
+      5,
+      6,
+      9,
+      4,
+      2
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la farmacia', meaning 'pharmacy'.",
+    "distractor_rationales": [
+      "'g' is an extra letter — it does not appear in 'farmacia'.",
+      "'s' is an extra letter — it does not appear in 'farmacia'."
+    ],
+    "italian": {
+      "lemma": "farmacia",
+      "gender": "f",
+      "article": "la",
+      "plural": "farmacie",
+      "ipa": "farmaˈtʃi.a",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "farmacia = pharmacy, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "citta_trasporti",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "🏛️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'museo' is masculine: il museo, plural musei.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "museo",
+      "gender": "m",
+      "article": "il",
+      "plural": "musei",
+      "ipa": "muˈzɛ.o",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "museo = museum, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "citta_trasporti",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "🏛️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "m",
+      "o",
+      "e",
+      "i",
+      "c",
+      "u",
+      "s"
+    ],
+    "correct": [
+      0,
+      5,
+      6,
+      2,
+      1
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il museo', meaning 'museum'.",
+    "distractor_rationales": [
+      "'i' is an extra letter — it does not appear in 'museo'.",
+      "'c' is an extra letter — it does not appear in 'museo'."
+    ],
+    "italian": {
+      "lemma": "museo",
+      "gender": "m",
+      "article": "il",
+      "plural": "musei",
+      "ipa": "muˈzɛ.o",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "museo = museum, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "✉️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'posta' is feminine: la posta. Used mainly as a mass noun (mail, or the post office), so it rarely takes a plural.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "posta",
+      "gender": "f",
+      "article": "la",
+      "plural": null,
+      "ipa": "ˈpɔs.ta",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "posta = post office / mail, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "✉️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "e",
+      "t",
+      "p",
+      "m",
+      "o",
+      "s",
+      "a"
+    ],
+    "correct": [
+      2,
+      4,
+      5,
+      1,
+      6
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la posta', meaning 'post office / mail'.",
+    "distractor_rationales": [
+      "'m' is an extra letter — it does not appear in 'posta'.",
+      "'e' is an extra letter — it does not appear in 'posta'."
+    ],
+    "italian": {
+      "lemma": "posta",
+      "gender": "f",
+      "article": "la",
+      "plural": null,
+      "ipa": "ˈpɔs.ta",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "posta = post office / mail, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "citta_trasporti",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🥖",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'panetteria' is feminine: la panetteria, plural panetterie. From 'pane' (bread).",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "panetteria",
+      "gender": "f",
+      "article": "la",
+      "plural": "panetterie",
+      "ipa": "panetteˈri.a",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "panetteria = bakery, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "citta_trasporti",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🥖",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "e",
+      "t",
+      "p",
+      "e",
+      "l",
+      "r",
+      "a",
+      "t",
+      "n",
+      "i",
+      "c",
+      "a"
+    ],
+    "correct": [
+      2,
+      11,
+      8,
+      0,
+      7,
+      1,
+      3,
+      5,
+      9,
+      6
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la panetteria', meaning 'bakery'.",
+    "distractor_rationales": [
+      "'l' is an extra letter — it does not appear in 'panetteria'.",
+      "'c' is an extra letter — it does not appear in 'panetteria'."
+    ],
+    "italian": {
+      "lemma": "panetteria",
+      "gender": "f",
+      "article": "la",
+      "plural": "panetterie",
+      "ipa": "panetteˈri.a",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "panetteria = bakery, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🚇",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'metropolitana' is feminine: la metropolitana, plural metropolitane. Often shortened in speech to 'la metro' (invariable).",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "metropolitana",
+      "gender": "f",
+      "article": "la",
+      "plural": "metropolitane",
+      "ipa": "me.tro.po.liˈta.na",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "metropolitana = subway / metro, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🚇",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "e",
+      "i",
+      "o",
+      "m",
+      "r",
+      "c",
+      "t",
+      "l",
+      "n",
+      "o",
+      "a",
+      "t",
+      "a",
+      "p"
+    ],
+    "correct": [
+      3,
+      0,
+      11,
+      4,
+      9,
+      13,
+      2,
+      7,
+      1,
+      6,
+      10,
+      8,
+      12
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la metropolitana', meaning 'subway / metro'.",
+    "distractor_rationales": [
+      "'c' is an extra letter — it does not appear in 'metropolitana'."
+    ],
+    "italian": {
+      "lemma": "metropolitana",
+      "gender": "f",
+      "article": "la",
+      "plural": "metropolitane",
+      "ipa": "me.tro.po.liˈta.na",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "metropolitana = subway / metro, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🏟️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'stadio' starts with 's + consonant', so it takes 'lo', not 'il': lo stadio. Plural stadi (the unstressed -io drops to -i).",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "stadio",
+      "gender": "m",
+      "article": "lo",
+      "plural": "stadi",
+      "ipa": "ˈsta.djo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "stadio = stadium, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🏟️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "d",
+      "a",
+      "i",
+      "s",
+      "l",
+      "g",
+      "t",
+      "o"
+    ],
+    "correct": [
+      3,
+      6,
+      1,
+      0,
+      2,
+      7
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'lo stadio', meaning 'stadium'.",
+    "distractor_rationales": [
+      "'l' is an extra letter — it does not appear in 'stadio'.",
+      "'g' is an extra letter — it does not appear in 'stadio'."
+    ],
+    "italian": {
+      "lemma": "stadio",
+      "gender": "m",
+      "article": "lo",
+      "plural": "stadi",
+      "ipa": "ˈsta.djo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "stadio = stadium, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🏋️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'palestra' is feminine: la palestra, plural palestre.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "palestra",
+      "gender": "f",
+      "article": "la",
+      "plural": "palestre",
+      "ipa": "paˈlɛs.tra",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "palestra = gym, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🏋️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "h",
+      "m",
+      "t",
+      "a",
+      "r",
+      "p",
+      "e",
+      "a",
+      "l",
+      "s"
+    ],
+    "correct": [
+      5,
+      7,
+      8,
+      6,
+      9,
+      2,
+      4,
+      3
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la palestra', meaning 'gym'.",
+    "distractor_rationales": [
+      "'h' is an extra letter — it does not appear in 'palestra'.",
+      "'m' is an extra letter — it does not appear in 'palestra'."
+    ],
+    "italian": {
+      "lemma": "palestra",
+      "gender": "f",
+      "article": "la",
+      "plural": "palestre",
+      "ipa": "paˈlɛs.tra",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "palestra = gym, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "citta_trasporti",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "🚕",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'taxi' is masculine and invariable: il taxi / i taxi, like other foreign loanwords ending in a consonant.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "taxi",
+      "gender": "m",
+      "article": "il",
+      "plural": "taxi",
+      "ipa": "ˈtak.si",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "taxi = taxi, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "citta_trasporti",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "🚕",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "i",
+      "a",
+      "r",
+      "x",
+      "u",
+      "t"
+    ],
+    "correct": [
+      5,
+      1,
+      3,
+      0
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il taxi', meaning 'taxi'.",
+    "distractor_rationales": [
+      "'r' is an extra letter — it does not appear in 'taxi'.",
+      "'u' is an extra letter — it does not appear in 'taxi'."
+    ],
+    "italian": {
+      "lemma": "taxi",
+      "gender": "m",
+      "article": "il",
+      "plural": "taxi",
+      "ipa": "ˈtak.si",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "taxi = taxi, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "citta_trasporti",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "🏍️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'moto' (short for 'motocicletta') is feminine and invariable: la moto / le moto. Don't confuse gender with 'il motto' (motto).",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "moto",
+      "gender": "f",
+      "article": "la",
+      "plural": "moto",
+      "ipa": "ˈmɔ.to",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "moto = motorcycle, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "citta_trasporti",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "🏍️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "u",
+      "t",
+      "o",
+      "o",
+      "n",
+      "m"
+    ],
+    "correct": [
+      5,
+      3,
+      1,
+      2
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la moto', meaning 'motorcycle'.",
+    "distractor_rationales": [
+      "'n' is an extra letter — it does not appear in 'moto'.",
+      "'u' is an extra letter — it does not appear in 'moto'."
+    ],
+    "italian": {
+      "lemma": "moto",
+      "gender": "f",
+      "article": "la",
+      "plural": "moto",
+      "ipa": "ˈmɔ.to",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "moto = motorcycle, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🪨",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'roccia' is feminine: la roccia. Because the 'i' before -cia follows a consonant, the plural drops it: rocce, not roccie.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "roccia",
+      "gender": "f",
+      "article": "la",
+      "plural": "rocce",
+      "ipa": "ˈrɔt.tʃa",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "roccia = rock, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🪨",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "r",
+      "i",
+      "t",
+      "b",
+      "a",
+      "c",
+      "o",
+      "c"
+    ],
+    "correct": [
+      0,
+      6,
+      7,
+      5,
+      1,
+      4
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la roccia', meaning 'rock'.",
+    "distractor_rationales": [
+      "'b' is an extra letter — it does not appear in 'roccia'.",
+      "'t' is an extra letter — it does not appear in 'roccia'."
+    ],
+    "italian": {
+      "lemma": "roccia",
+      "gender": "f",
+      "article": "la",
+      "plural": "rocce",
+      "ipa": "ˈrɔt.tʃa",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "roccia = rock, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "🪨",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'pietra' is feminine: la pietra, plural pietre. A smaller, more general word than 'roccia' (rock/rock formation).",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "pietra",
+      "gender": "f",
+      "article": "la",
+      "plural": "pietre",
+      "ipa": "ˈpjɛ.tra",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "pietra = stone, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "🪨",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "i",
+      "t",
+      "u",
+      "r",
+      "q",
+      "p",
+      "a",
+      "e"
+    ],
+    "correct": [
+      5,
+      0,
+      7,
+      1,
+      3,
+      6
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la pietra', meaning 'stone'.",
+    "distractor_rationales": [
+      "'u' is an extra letter — it does not appear in 'pietra'.",
+      "'q' is an extra letter — it does not appear in 'pietra'."
+    ],
+    "italian": {
+      "lemma": "pietra",
+      "gender": "f",
+      "article": "la",
+      "plural": "pietre",
+      "ipa": "ˈpjɛ.tra",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "pietra = stone, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": "Branch",
+      "emoji": null,
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'ramo' is masculine: il ramo, plural rami. No emoji clearly shows a single branch, so the English gloss is used instead.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "ramo",
+      "gender": "m",
+      "article": "il",
+      "plural": "rami",
+      "ipa": "ˈra.mo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "ramo = branch, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": "Branch",
+      "emoji": null,
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "p",
+      "m",
+      "r",
+      "a",
+      "g",
+      "o"
+    ],
+    "correct": [
+      2,
+      3,
+      1,
+      5
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il ramo', meaning 'branch'.",
+    "distractor_rationales": [
+      "'p' is an extra letter — it does not appear in 'ramo'.",
+      "'g' is an extra letter — it does not appear in 'ramo'."
+    ],
+    "italian": {
+      "lemma": "ramo",
+      "gender": "m",
+      "article": "il",
+      "plural": "rami",
+      "ipa": "ˈra.mo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "ramo = branch, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🌱",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'prato' is masculine: il prato, plural prati.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "prato",
+      "gender": "m",
+      "article": "il",
+      "plural": "prati",
+      "ipa": "ˈpra.to",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "prato = lawn / meadow, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🌱",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "p",
+      "r",
+      "a",
+      "g",
+      "o",
+      "t",
+      "q"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      5,
+      4
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il prato', meaning 'lawn / meadow'.",
+    "distractor_rationales": [
+      "'g' is an extra letter — it does not appear in 'prato'.",
+      "'q' is an extra letter — it does not appear in 'prato'."
+    ],
+    "italian": {
+      "lemma": "prato",
+      "gender": "m",
+      "article": "il",
+      "plural": "prati",
+      "ipa": "ˈpra.to",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "prato = lawn / meadow, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🏞️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'cascata' is feminine: la cascata, plural cascate. From 'cascare' (to fall).",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "cascata",
+      "gender": "f",
+      "article": "la",
+      "plural": "cascate",
+      "ipa": "kaˈska.ta",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "cascata = waterfall, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🏞️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "a",
+      "t",
+      "i",
+      "c",
+      "n",
+      "a",
+      "s",
+      "a",
+      "c"
+    ],
+    "correct": [
+      3,
+      0,
+      6,
+      8,
+      7,
+      1,
+      5
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la cascata', meaning 'waterfall'.",
+    "distractor_rationales": [
+      "'n' is an extra letter — it does not appear in 'cascata'.",
+      "'i' is an extra letter — it does not appear in 'cascata'."
+    ],
+    "italian": {
+      "lemma": "cascata",
+      "gender": "f",
+      "article": "la",
+      "plural": "cascate",
+      "ipa": "kaˈska.ta",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "cascata = waterfall, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "⚡",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'fulmine' is masculine: il fulmine, plural fulmini.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "fulmine",
+      "gender": "m",
+      "article": "il",
+      "plural": "fulmini",
+      "ipa": "ˈful.mi.ne",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "fulmine = lightning bolt, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "⚡",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "l",
+      "n",
+      "u",
+      "h",
+      "f",
+      "i",
+      "a",
+      "e",
+      "m"
+    ],
+    "correct": [
+      4,
+      2,
+      0,
+      8,
+      5,
+      1,
+      7
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il fulmine', meaning 'lightning bolt'.",
+    "distractor_rationales": [
+      "'h' is an extra letter — it does not appear in 'fulmine'.",
+      "'a' is an extra letter — it does not appear in 'fulmine'."
+    ],
+    "italian": {
+      "lemma": "fulmine",
+      "gender": "m",
+      "article": "il",
+      "plural": "fulmini",
+      "ipa": "ˈful.mi.ne",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "fulmine = lightning bolt, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🌫️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'nebbia' is feminine: la nebbia. Plural nebbie exists (e.g. banks of fog) though the singular is far more common.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "nebbia",
+      "gender": "f",
+      "article": "la",
+      "plural": "nebbie",
+      "ipa": "ˈneb.bja",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "nebbia = fog, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🌫️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "b",
+      "n",
+      "i",
+      "e",
+      "b",
+      "l",
+      "z",
+      "a"
+    ],
+    "correct": [
+      1,
+      3,
+      0,
+      4,
+      2,
+      7
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la nebbia', meaning 'fog'.",
+    "distractor_rationales": [
+      "'l' is an extra letter — it does not appear in 'nebbia'.",
+      "'z' is an extra letter — it does not appear in 'nebbia'."
+    ],
+    "italian": {
+      "lemma": "nebbia",
+      "gender": "f",
+      "article": "la",
+      "plural": "nebbie",
+      "ipa": "ˈneb.bja",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "nebbia = fog, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "⛈️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'temporale' is masculine: il temporale, plural temporali. Don't confuse with the adjective 'temporale' (temporal).",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "temporale",
+      "gender": "m",
+      "article": "il",
+      "plural": "temporali",
+      "ipa": "tempoˈra.le",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "temporale = storm, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "⛈️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "t",
+      "d",
+      "e",
+      "g",
+      "e",
+      "m",
+      "l",
+      "p",
+      "r",
+      "a",
+      "o"
+    ],
+    "correct": [
+      0,
+      2,
+      5,
+      7,
+      10,
+      8,
+      9,
+      6,
+      4
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il temporale', meaning 'storm'.",
+    "distractor_rationales": [
+      "'g' is an extra letter — it does not appear in 'temporale'.",
+      "'d' is an extra letter — it does not appear in 'temporale'."
+    ],
+    "italian": {
+      "lemma": "temporale",
+      "gender": "m",
+      "article": "il",
+      "plural": "temporali",
+      "ipa": "tempoˈra.le",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "temporale = storm, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🐬",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'delfino' is masculine: il delfino, plural delfini.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "delfino",
+      "gender": "m",
+      "article": "il",
+      "plural": "delfini",
+      "ipa": "delˈfi.no",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "delfino = dolphin, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🐬",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "l",
+      "p",
+      "c",
+      "o",
+      "n",
+      "e",
+      "i",
+      "d",
+      "f"
+    ],
+    "correct": [
+      7,
+      5,
+      0,
+      8,
+      6,
+      4,
+      3
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il delfino', meaning 'dolphin'.",
+    "distractor_rationales": [
+      "'p' is an extra letter — it does not appear in 'delfino'.",
+      "'c' is an extra letter — it does not appear in 'delfino'."
+    ],
+    "italian": {
+      "lemma": "delfino",
+      "gender": "m",
+      "article": "il",
+      "plural": "delfini",
+      "ipa": "delˈfi.no",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "delfino = dolphin, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🦈",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'squalo' starts with 's + consonant', so it takes 'lo': lo squalo. Plural gli squali.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "squalo",
+      "gender": "m",
+      "article": "lo",
+      "plural": "squali",
+      "ipa": "ˈskwa.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "squalo = shark, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🦈",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "q",
+      "s",
+      "u",
+      "z",
+      "a",
+      "o",
+      "v",
+      "l"
+    ],
+    "correct": [
+      1,
+      0,
+      2,
+      4,
+      7,
+      5
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'lo squalo', meaning 'shark'.",
+    "distractor_rationales": [
+      "'z' is an extra letter — it does not appear in 'squalo'.",
+      "'v' is an extra letter — it does not appear in 'squalo'."
+    ],
+    "italian": {
+      "lemma": "squalo",
+      "gender": "m",
+      "article": "lo",
+      "plural": "squali",
+      "ipa": "ˈskwa.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "squalo = shark, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🐢",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'tartaruga' is feminine: la tartaruga. Plural adds an 'h' to keep the hard /ɡ/ sound: tartarughe.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "tartaruga",
+      "gender": "f",
+      "article": "la",
+      "plural": "tartarughe",
+      "ipa": "tartaˈru.ɡa",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "tartaruga = turtle, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🐢",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "r",
+      "m",
+      "a",
+      "a",
+      "h",
+      "r",
+      "t",
+      "a",
+      "g",
+      "u",
+      "t"
+    ],
+    "correct": [
+      10,
+      7,
+      5,
+      6,
+      2,
+      0,
+      9,
+      8,
+      3
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la tartaruga', meaning 'turtle'.",
+    "distractor_rationales": [
+      "'h' is an extra letter — it does not appear in 'tartaruga'.",
+      "'m' is an extra letter — it does not appear in 'tartaruga'."
+    ],
+    "italian": {
+      "lemma": "tartaruga",
+      "gender": "f",
+      "article": "la",
+      "plural": "tartarughe",
+      "ipa": "tartaˈru.ɡa",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "tartaruga = turtle, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🐧",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'pinguino' is masculine: il pinguino, plural pinguini.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "pinguino",
+      "gender": "m",
+      "article": "il",
+      "plural": "pinguini",
+      "ipa": "pinˈɡwi.no",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "pinguino = penguin, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🐧",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "n",
+      "p",
+      "n",
+      "i",
+      "h",
+      "g",
+      "a",
+      "o",
+      "u",
+      "i"
+    ],
+    "correct": [
+      1,
+      9,
+      0,
+      5,
+      8,
+      3,
+      2,
+      7
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il pinguino', meaning 'penguin'.",
+    "distractor_rationales": [
+      "'h' is an extra letter — it does not appear in 'pinguino'.",
+      "'a' is an extra letter — it does not appear in 'pinguino'."
+    ],
+    "italian": {
+      "lemma": "pinguino",
+      "gender": "m",
+      "article": "il",
+      "plural": "pinguini",
+      "ipa": "pinˈɡwi.no",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "pinguino = penguin, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🦉",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'gufo' is masculine: il gufo, plural gufi.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "gufo",
+      "gender": "m",
+      "article": "il",
+      "plural": "gufi",
+      "ipa": "ˈɡu.fo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "gufo = owl, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🦉",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "u",
+      "g",
+      "f",
+      "r",
+      "o",
+      "t"
+    ],
+    "correct": [
+      1,
+      0,
+      2,
+      4
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il gufo', meaning 'owl'.",
+    "distractor_rationales": [
+      "'r' is an extra letter — it does not appear in 'gufo'.",
+      "'t' is an extra letter — it does not appear in 'gufo'."
+    ],
+    "italian": {
+      "lemma": "gufo",
+      "gender": "m",
+      "article": "il",
+      "plural": "gufi",
+      "ipa": "ˈɡu.fo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "gufo = owl, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🦔",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'riccio' is masculine: il riccio, plural ricci (the unstressed -io/-cio drops the final o). Same word also means 'curly' or 'sea urchin'.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "riccio",
+      "gender": "m",
+      "article": "il",
+      "plural": "ricci",
+      "ipa": "ˈrit.tʃo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "riccio = hedgehog, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🦔",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "r",
+      "i",
+      "c",
+      "u",
+      "c",
+      "i",
+      "o",
+      "t"
+    ],
+    "correct": [
+      0,
+      1,
+      4,
+      2,
+      5,
+      6
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il riccio', meaning 'hedgehog'.",
+    "distractor_rationales": [
+      "'t' is an extra letter — it does not appear in 'riccio'.",
+      "'u' is an extra letter — it does not appear in 'riccio'."
+    ],
+    "italian": {
+      "lemma": "riccio",
+      "gender": "m",
+      "article": "il",
+      "plural": "ricci",
+      "ipa": "ˈrit.tʃo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "riccio = hedgehog, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🐌",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'chiocciola' is feminine: la chiocciola, plural chiocciole. Also the Italian word for the @ symbol.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "chiocciola",
+      "gender": "f",
+      "article": "la",
+      "plural": "chiocciole",
+      "ipa": "ˈkjɔt.tʃo.la",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "chiocciola = snail, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🐌",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "e",
+      "c",
+      "o",
+      "c",
+      "i",
+      "o",
+      "i",
+      "h",
+      "r",
+      "l",
+      "a",
+      "c"
+    ],
+    "correct": [
+      1,
+      7,
+      4,
+      2,
+      11,
+      3,
+      6,
+      5,
+      9,
+      10
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la chiocciola', meaning 'snail'.",
+    "distractor_rationales": [
+      "'e' is an extra letter — it does not appear in 'chiocciola'.",
+      "'r' is an extra letter — it does not appear in 'chiocciola'."
+    ],
+    "italian": {
+      "lemma": "chiocciola",
+      "gender": "f",
+      "article": "la",
+      "plural": "chiocciole",
+      "ipa": "ˈkjɔt.tʃo.la",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "chiocciola = snail, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🦟",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'zanzara' is feminine: la zanzara, plural zanzare.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "zanzara",
+      "gender": "f",
+      "article": "la",
+      "plural": "zanzare",
+      "ipa": "dzanˈdza.ra",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "zanzara = mosquito, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🦟",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "a",
+      "r",
+      "a",
+      "z",
+      "a",
+      "n",
+      "z",
+      "h",
+      "q"
+    ],
+    "correct": [
+      3,
+      4,
+      5,
+      6,
+      2,
+      1,
+      0
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la zanzara', meaning 'mosquito'.",
+    "distractor_rationales": [
+      "'q' is an extra letter — it does not appear in 'zanzara'.",
+      "'h' is an extra letter — it does not appear in 'zanzara'."
+    ],
+    "italian": {
+      "lemma": "zanzara",
+      "gender": "f",
+      "article": "la",
+      "plural": "zanzare",
+      "ipa": "dzanˈdza.ra",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "zanzara = mosquito, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🪰",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'mosca' is feminine: la mosca. Plural adds an 'h' to keep the hard /k/ sound: mosche, not mosce.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "mosca",
+      "gender": "f",
+      "article": "la",
+      "plural": "mosche",
+      "ipa": "ˈmos.ka",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "mosca = fly (insect), noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "natura_animali",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🪰",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "m",
+      "t",
+      "s",
+      "o",
+      "h",
+      "c",
+      "a"
+    ],
+    "correct": [
+      0,
+      3,
+      2,
+      5,
+      6
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la mosca', meaning 'fly (insect)'.",
+    "distractor_rationales": [
+      "'t' is an extra letter — it does not appear in 'mosca'.",
+      "'h' is an extra letter — it does not appear in 'mosca'."
+    ],
+    "italian": {
+      "lemma": "mosca",
+      "gender": "f",
+      "article": "la",
+      "plural": "mosche",
+      "ipa": "ˈmos.ka",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "natura_animali",
+      "support": "mosca = fly (insect), noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "corpo_salute",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": "Throat",
+      "emoji": null,
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'gola' is feminine: la gola, plural gole. No single emoji depicts a throat, so the English gloss is used instead.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "gola",
+      "gender": "f",
+      "article": "la",
+      "plural": "gole",
+      "ipa": "ˈɡɔ.la",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "corpo_salute",
+      "support": "gola = throat, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "corpo_salute",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": "Throat",
+      "emoji": null,
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "a",
+      "g",
+      "l",
+      "q",
+      "n",
+      "o"
+    ],
+    "correct": [
+      1,
+      5,
+      2,
+      0
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la gola', meaning 'throat'.",
+    "distractor_rationales": [
+      "'q' is an extra letter — it does not appear in 'gola'.",
+      "'n' is an extra letter — it does not appear in 'gola'."
+    ],
+    "italian": {
+      "lemma": "gola",
+      "gender": "f",
+      "article": "la",
+      "plural": "gole",
+      "ipa": "ˈɡɔ.la",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "corpo_salute",
+      "support": "gola = throat, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "corpo_salute",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "👊",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'pugno' is masculine: il pugno, plural pugni. Also means 'a punch'.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "pugno",
+      "gender": "m",
+      "article": "il",
+      "plural": "pugni",
+      "ipa": "ˈpuɲ.ɲo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "corpo_salute",
+      "support": "pugno = fist, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "corpo_salute",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "👊",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "l",
+      "p",
+      "n",
+      "u",
+      "o",
+      "t",
+      "g"
+    ],
+    "correct": [
+      1,
+      3,
+      6,
+      2,
+      4
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il pugno', meaning 'fist'.",
+    "distractor_rationales": [
+      "'t' is an extra letter — it does not appear in 'pugno'.",
+      "'l' is an extra letter — it does not appear in 'pugno'."
+    ],
+    "italian": {
+      "lemma": "pugno",
+      "gender": "m",
+      "article": "il",
+      "plural": "pugni",
+      "ipa": "ˈpuɲ.ɲo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "corpo_salute",
+      "support": "pugno = fist, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "abbigliamento",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🥿",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'pantofola' is feminine: la pantofola, plural pantofole. Usually used in the plural to refer to a pair.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "pantofola",
+      "gender": "f",
+      "article": "la",
+      "plural": "pantofole",
+      "ipa": "panˈtɔ.fo.la",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "abbigliamento",
+      "support": "pantofola = slipper, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "abbigliamento",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🥿",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "a",
+      "n",
+      "p",
+      "f",
+      "t",
+      "a",
+      "i",
+      "v",
+      "o",
+      "o",
+      "l"
+    ],
+    "correct": [
+      2,
+      0,
+      1,
+      4,
+      9,
+      3,
+      8,
+      10,
+      5
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la pantofola', meaning 'slipper'.",
+    "distractor_rationales": [
+      "'v' is an extra letter — it does not appear in 'pantofola'.",
+      "'i' is an extra letter — it does not appear in 'pantofola'."
+    ],
+    "italian": {
+      "lemma": "pantofola",
+      "gender": "f",
+      "article": "la",
+      "plural": "pantofole",
+      "ipa": "panˈtɔ.fo.la",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "abbigliamento",
+      "support": "pantofola = slipper, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "strumenti_lavoro",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🪛",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'cacciavite' is masculine: il cacciavite, plural cacciaviti. Compound of 'cacciare' (to drive) + 'vite' (screw).",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "cacciavite",
+      "gender": "m",
+      "article": "il",
+      "plural": "cacciaviti",
+      "ipa": "kat.tʃaˈvi.te",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "strumenti_lavoro",
+      "support": "cacciavite = screwdriver, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "strumenti_lavoro",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🪛",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "g",
+      "a",
+      "v",
+      "c",
+      "i",
+      "a",
+      "u",
+      "t",
+      "i",
+      "c",
+      "c",
+      "e"
+    ],
+    "correct": [
+      10,
+      5,
+      9,
+      3,
+      4,
+      1,
+      2,
+      8,
+      7,
+      11
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il cacciavite', meaning 'screwdriver'.",
+    "distractor_rationales": [
+      "'g' is an extra letter — it does not appear in 'cacciavite'.",
+      "'u' is an extra letter — it does not appear in 'cacciavite'."
+    ],
+    "italian": {
+      "lemma": "cacciavite",
+      "gender": "m",
+      "article": "il",
+      "plural": "cacciaviti",
+      "ipa": "kat.tʃaˈvi.te",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "strumenti_lavoro",
+      "support": "cacciavite = screwdriver, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "strumenti_lavoro",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🔨",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'martello' is masculine: il martello, plural martelli.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "martello",
+      "gender": "m",
+      "article": "il",
+      "plural": "martelli",
+      "ipa": "marˈtɛl.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "strumenti_lavoro",
+      "support": "martello = hammer, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "strumenti_lavoro",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🔨",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "b",
+      "l",
+      "a",
+      "p",
+      "r",
+      "o",
+      "t",
+      "m",
+      "l",
+      "e"
+    ],
+    "correct": [
+      7,
+      2,
+      4,
+      6,
+      9,
+      1,
+      8,
+      5
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il martello', meaning 'hammer'.",
+    "distractor_rationales": [
+      "'b' is an extra letter — it does not appear in 'martello'.",
+      "'p' is an extra letter — it does not appear in 'martello'."
+    ],
+    "italian": {
+      "lemma": "martello",
+      "gender": "m",
+      "article": "il",
+      "plural": "martelli",
+      "ipa": "marˈtɛl.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "strumenti_lavoro",
+      "support": "martello = hammer, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "strumenti_lavoro",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🔩",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'vite' is feminine: la vite, plural viti. The same word also means 'grapevine' — context decides the meaning.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "vite",
+      "gender": "f",
+      "article": "la",
+      "plural": "viti",
+      "ipa": "ˈvi.te",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "strumenti_lavoro",
+      "support": "vite = screw, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "strumenti_lavoro",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🔩",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "v",
+      "e",
+      "b",
+      "t",
+      "i",
+      "c"
+    ],
+    "correct": [
+      0,
+      4,
+      3,
+      1
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la vite', meaning 'screw'.",
+    "distractor_rationales": [
+      "'c' is an extra letter — it does not appear in 'vite'.",
+      "'b' is an extra letter — it does not appear in 'vite'."
+    ],
+    "italian": {
+      "lemma": "vite",
+      "gender": "f",
+      "article": "la",
+      "plural": "viti",
+      "ipa": "ˈvi.te",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "strumenti_lavoro",
+      "support": "vite = screw, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "strumenti_lavoro",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🔧",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'chiave inglese' (literally 'English key') is feminine: la chiave inglese, plural chiavi inglesi. Both words agree for the plural.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "chiave inglese",
+      "gender": "f",
+      "article": "la",
+      "plural": "chiavi inglesi",
+      "ipa": "ˈkja.ve iŋˈɡle.ze",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "strumenti_lavoro",
+      "support": "chiave inglese = wrench, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "strumenti_lavoro",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🔧",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "c",
+      " ",
+      "e",
+      "a",
+      "g",
+      "e",
+      "n",
+      "v",
+      "s",
+      "i",
+      "l",
+      "z",
+      "i",
+      "h",
+      "e"
+    ],
+    "correct": [
+      0,
+      13,
+      9,
+      3,
+      7,
+      5,
+      1,
+      12,
+      6,
+      4,
+      10,
+      2,
+      8,
+      14
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la chiave inglese', meaning 'wrench'.",
+    "distractor_rationales": [
+      "'z' is an extra letter — it does not appear in 'chiave inglese'."
+    ],
+    "italian": {
+      "lemma": "chiave inglese",
+      "gender": "f",
+      "article": "la",
+      "plural": "chiavi inglesi",
+      "ipa": "ˈkja.ve iŋˈɡle.ze",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "strumenti_lavoro",
+      "support": "chiave inglese = wrench, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "strumenti_lavoro",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🖌️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'pennello' is masculine: il pennello, plural pennelli.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "pennello",
+      "gender": "m",
+      "article": "il",
+      "plural": "pennelli",
+      "ipa": "penˈnɛl.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "strumenti_lavoro",
+      "support": "pennello = paintbrush, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "strumenti_lavoro",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🖌️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "n",
+      "e",
+      "f",
+      "n",
+      "l",
+      "o",
+      "l",
+      "g",
+      "e",
+      "p"
+    ],
+    "correct": [
+      9,
+      1,
+      0,
+      3,
+      8,
+      4,
+      6,
+      5
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il pennello', meaning 'paintbrush'.",
+    "distractor_rationales": [
+      "'g' is an extra letter — it does not appear in 'pennello'.",
+      "'f' is an extra letter — it does not appear in 'pennello'."
+    ],
+    "italian": {
+      "lemma": "pennello",
+      "gender": "m",
+      "article": "il",
+      "plural": "pennelli",
+      "ipa": "penˈnɛl.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "strumenti_lavoro",
+      "support": "pennello = paintbrush, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "lavoro_scuola",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "✂️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'forbici' is a feminine plural-only noun: le forbici (a singular 'forbice' exists but is rarely used), so plural = singular form here.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "forbici",
+      "gender": "f",
+      "article": "le",
+      "plural": "forbici",
+      "ipa": "ˈfɔr.bi.tʃi",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "lavoro_scuola",
+      "support": "forbici = scissors, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "lavoro_scuola",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "✂️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "o",
+      "h",
+      "r",
+      "i",
+      "i",
+      "b",
+      "q",
+      "c",
+      "f"
+    ],
+    "correct": [
+      8,
+      0,
+      2,
+      5,
+      3,
+      7,
+      4
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'le forbici', meaning 'scissors'.",
+    "distractor_rationales": [
+      "'q' is an extra letter — it does not appear in 'forbici'.",
+      "'h' is an extra letter — it does not appear in 'forbici'."
+    ],
+    "italian": {
+      "lemma": "forbici",
+      "gender": "f",
+      "article": "le",
+      "plural": "forbici",
+      "ipa": "ˈfɔr.bi.tʃi",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "lavoro_scuola",
+      "support": "forbici = scissors, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "lavoro_scuola",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "📏",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'righello' is masculine: il righello, plural righelli. From 'riga' (line).",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "righello",
+      "gender": "m",
+      "article": "il",
+      "plural": "righelli",
+      "ipa": "riˈɡɛl.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "lavoro_scuola",
+      "support": "righello = ruler, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "lavoro_scuola",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "📏",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "o",
+      "r",
+      "e",
+      "u",
+      "l",
+      "z",
+      "h",
+      "i",
+      "g",
+      "l"
+    ],
+    "correct": [
+      1,
+      7,
+      8,
+      6,
+      2,
+      4,
+      9,
+      0
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il righello', meaning 'ruler'.",
+    "distractor_rationales": [
+      "'z' is an extra letter — it does not appear in 'righello'.",
+      "'u' is an extra letter — it does not appear in 'righello'."
+    ],
+    "italian": {
+      "lemma": "righello",
+      "gender": "m",
+      "article": "il",
+      "plural": "righelli",
+      "ipa": "riˈɡɛl.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "lavoro_scuola",
+      "support": "righello = ruler, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "lavoro_scuola",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🖍️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'pennarello' is masculine: il pennarello, plural pennarelli.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "pennarello",
+      "gender": "m",
+      "article": "il",
+      "plural": "pennarelli",
+      "ipa": "pen.naˈrɛl.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "lavoro_scuola",
+      "support": "pennarello = marker / felt-tip pen, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "lavoro_scuola",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🖍️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "a",
+      "r",
+      "o",
+      "p",
+      "n",
+      "l",
+      "c",
+      "l",
+      "d",
+      "e",
+      "e",
+      "n"
+    ],
+    "correct": [
+      3,
+      10,
+      4,
+      11,
+      0,
+      1,
+      9,
+      5,
+      7,
+      2
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il pennarello', meaning 'marker / felt-tip pen'.",
+    "distractor_rationales": [
+      "'d' is an extra letter — it does not appear in 'pennarello'.",
+      "'c' is an extra letter — it does not appear in 'pennarello'."
+    ],
+    "italian": {
+      "lemma": "pennarello",
+      "gender": "m",
+      "article": "il",
+      "plural": "pennarelli",
+      "ipa": "pen.naˈrɛl.lo",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "lavoro_scuola",
+      "support": "pennarello = marker / felt-tip pen, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "tecnologia_ufficio",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "⌨️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'tastiera' is feminine: la tastiera, plural tastiere. From 'tasto' (key/button).",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "tastiera",
+      "gender": "f",
+      "article": "la",
+      "plural": "tastiere",
+      "ipa": "tasˈtjɛ.ra",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "tecnologia_ufficio",
+      "support": "tastiera = keyboard, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "tecnologia_ufficio",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "⌨️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "t",
+      "s",
+      "p",
+      "e",
+      "n",
+      "i",
+      "a",
+      "t",
+      "r",
+      "a"
+    ],
+    "correct": [
+      0,
+      9,
+      1,
+      7,
+      5,
+      3,
+      8,
+      6
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la tastiera', meaning 'keyboard'.",
+    "distractor_rationales": [
+      "'p' is an extra letter — it does not appear in 'tastiera'.",
+      "'n' is an extra letter — it does not appear in 'tastiera'."
+    ],
+    "italian": {
+      "lemma": "tastiera",
+      "gender": "f",
+      "article": "la",
+      "plural": "tastiere",
+      "ipa": "tasˈtjɛ.ra",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "tecnologia_ufficio",
+      "support": "tastiera = keyboard, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "tecnologia_ufficio",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "🖱️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'mouse' is masculine and invariable, borrowed straight from English: il mouse / i mouse.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "mouse",
+      "gender": "m",
+      "article": "il",
+      "plural": "mouse",
+      "ipa": "ˈmaus",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "tecnologia_ufficio",
+      "support": "mouse = computer mouse, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "tecnologia_ufficio",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "🖱️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "e",
+      "o",
+      "m",
+      "q",
+      "s",
+      "u",
+      "r"
+    ],
+    "correct": [
+      2,
+      1,
+      5,
+      4,
+      0
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'il mouse', meaning 'computer mouse'.",
+    "distractor_rationales": [
+      "'r' is an extra letter — it does not appear in 'mouse'.",
+      "'q' is an extra letter — it does not appear in 'mouse'."
+    ],
+    "italian": {
+      "lemma": "mouse",
+      "gender": "m",
+      "article": "il",
+      "plural": "mouse",
+      "ipa": "ˈmaus",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "tecnologia_ufficio",
+      "support": "mouse = computer mouse, noun., m.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "tecnologia_ufficio",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🖨️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'stampante' is feminine: la stampante, plural stampanti. From 'stampare' (to print).",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "stampante",
+      "gender": "f",
+      "article": "la",
+      "plural": "stampanti",
+      "ipa": "stamˈpan.te",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "tecnologia_ufficio",
+      "support": "stampante = printer, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "tecnologia_ufficio",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🖨️",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "a",
+      "m",
+      "v",
+      "a",
+      "e",
+      "t",
+      "n",
+      "p",
+      "t",
+      "s",
+      "q"
+    ],
+    "correct": [
+      9,
+      5,
+      3,
+      1,
+      7,
+      0,
+      6,
+      8,
+      4
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la stampante', meaning 'printer'.",
+    "distractor_rationales": [
+      "'q' is an extra letter — it does not appear in 'stampante'.",
+      "'v' is an extra letter — it does not appear in 'stampante'."
+    ],
+    "italian": {
+      "lemma": "stampante",
+      "gender": "f",
+      "article": "la",
+      "plural": "stampanti",
+      "ipa": "stamˈpan.te",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "tecnologia_ufficio",
+      "support": "stampante = printer, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "tecnologia_ufficio",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🔋",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'batteria' is feminine: la batteria, plural batterie. Also the word for a drum kit.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "batteria",
+      "gender": "f",
+      "article": "la",
+      "plural": "batterie",
+      "ipa": "bat.teˈri.a",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "tecnologia_ufficio",
+      "support": "batteria = battery, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "tecnologia_ufficio",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🔋",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "t",
+      "i",
+      "b",
+      "o",
+      "v",
+      "t",
+      "a",
+      "r",
+      "e",
+      "a"
+    ],
+    "correct": [
+      2,
+      9,
+      0,
+      5,
+      8,
+      7,
+      1,
+      6
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la batteria', meaning 'battery'.",
+    "distractor_rationales": [
+      "'o' is an extra letter — it does not appear in 'batteria'.",
+      "'v' is an extra letter — it does not appear in 'batteria'."
+    ],
+    "italian": {
+      "lemma": "batteria",
+      "gender": "f",
+      "article": "la",
+      "plural": "batterie",
+      "ipa": "bat.teˈri.a",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "tecnologia_ufficio",
+      "support": "batteria = battery, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "astratto_societa",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "😲",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'sorpresa' is feminine: la sorpresa, plural sorprese.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "sorpresa",
+      "gender": "f",
+      "article": "la",
+      "plural": "sorprese",
+      "ipa": "sorˈpre.za",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "astratto_societa",
+      "support": "sorpresa = surprise, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "astratto_societa",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "😲",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "o",
+      "r",
+      "a",
+      "r",
+      "t",
+      "p",
+      "s",
+      "e",
+      "c",
+      "s"
+    ],
+    "correct": [
+      6,
+      0,
+      3,
+      5,
+      1,
+      7,
+      9,
+      2
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la sorpresa', meaning 'surprise'.",
+    "distractor_rationales": [
+      "'c' is an extra letter — it does not appear in 'sorpresa'.",
+      "'t' is an extra letter — it does not appear in 'sorpresa'."
+    ],
+    "italian": {
+      "lemma": "sorpresa",
+      "gender": "f",
+      "article": "la",
+      "plural": "sorprese",
+      "ipa": "sorˈpre.za",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "astratto_societa",
+      "support": "sorpresa = surprise, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "astratto_societa",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "😳",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'vergogna' is feminine: la vergogna. The plural vergogne exists but the word is usually used in the singular.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "vergogna",
+      "gender": "f",
+      "article": "la",
+      "plural": "vergogne",
+      "ipa": "verˈɡoɲ.ɲa",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "astratto_societa",
+      "support": "vergogna = shame / embarrassment, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "astratto_societa",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "😳",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "a",
+      "o",
+      "v",
+      "n",
+      "r",
+      "d",
+      "g",
+      "e",
+      "g",
+      "q"
+    ],
+    "correct": [
+      2,
+      7,
+      4,
+      8,
+      1,
+      6,
+      3,
+      0
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la vergogna', meaning 'shame / embarrassment'.",
+    "distractor_rationales": [
+      "'d' is an extra letter — it does not appear in 'vergogna'.",
+      "'q' is an extra letter — it does not appear in 'vergogna'."
+    ],
+    "italian": {
+      "lemma": "vergogna",
+      "gender": "f",
+      "article": "la",
+      "plural": "vergogne",
+      "ipa": "verˈɡoɲ.ɲa",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "astratto_societa",
+      "support": "vergogna = shame / embarrassment, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "astratto_societa",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🥱",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'noia' is feminine: la noia. Plural noie exists (often meaning 'troubles') though the singular sense of boredom is most common.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "noia",
+      "gender": "f",
+      "article": "la",
+      "plural": "noie",
+      "ipa": "ˈnɔ.ja",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "astratto_societa",
+      "support": "noia = boredom, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "B1",
+    "frequency_tier": "2001-5000",
+    "thematic_group": "astratto_societa",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "advanced",
+    "prompt": {
+      "text": null,
+      "emoji": "🥱",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "r",
+      "o",
+      "i",
+      "b",
+      "n",
+      "a"
+    ],
+    "correct": [
+      4,
+      1,
+      2,
+      5
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'la noia', meaning 'boredom'.",
+    "distractor_rationales": [
+      "'r' is an extra letter — it does not appear in 'noia'.",
+      "'b' is an extra letter — it does not appear in 'noia'."
+    ],
+    "italian": {
+      "lemma": "noia",
+      "gender": "f",
+      "article": "la",
+      "plural": "noie",
+      "ipa": "ˈnɔ.ja",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "astratto_societa",
+      "support": "noia = boredom, noun., f.; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "lavoro_scuola",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "📚",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'studiare' is a regular -are verb meaning 'to study'. Present tense: io studio, tu studi, lui/lei studia.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "studiare",
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "ipa": "stuˈdja.re",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "lavoro_scuola",
+      "support": "studiare = to study, verb; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A1",
+    "frequency_tier": "1-1000",
+    "thematic_group": "lavoro_scuola",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "intro",
+    "prompt": {
+      "text": null,
+      "emoji": "📚",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "z",
+      "e",
+      "u",
+      "a",
+      "d",
+      "m",
+      "t",
+      "i",
+      "r",
+      "s"
+    ],
+    "correct": [
+      9,
+      6,
+      2,
+      4,
+      7,
+      3,
+      8,
+      1
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'studiare', meaning 'to study'.",
+    "distractor_rationales": [
+      "'z' is an extra letter — it does not appear in 'studiare'.",
+      "'m' is an extra letter — it does not appear in 'studiare'."
+    ],
+    "italian": {
+      "lemma": "studiare",
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "ipa": "stuˈdja.re",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "lavoro_scuola",
+      "support": "studiare = to study, verb; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "verbi_comuni",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🤗",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'abbracciare' is a regular -are verb meaning 'to hug/embrace'. Present tense: io abbraccio, tu abbracci.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "abbracciare",
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "ipa": "ab.bratˈtʃa.re",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "verbi_comuni",
+      "support": "abbracciare = to hug, verb; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "verbi_comuni",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🤗",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "b",
+      "u",
+      "a",
+      "i",
+      "a",
+      "a",
+      "c",
+      "b",
+      "c",
+      "e",
+      "r",
+      "r"
+    ],
+    "correct": [
+      4,
+      0,
+      7,
+      10,
+      5,
+      8,
+      6,
+      3,
+      2,
+      11,
+      9
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'abbracciare', meaning 'to hug'.",
+    "distractor_rationales": [
+      "'u' is an extra letter — it does not appear in 'abbracciare'."
+    ],
+    "italian": {
+      "lemma": "abbracciare",
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "ipa": "ab.bratˈtʃa.re",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "verbi_comuni",
+      "support": "abbracciare = to hug, verb; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "verbi_comuni",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🎨",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'dipingere' is an irregular -ere verb meaning 'to paint' (art). Past participle: dipinto. Distinct from 'disegnare' (to draw/sketch).",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "dipingere",
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "ipa": "diˈpin.dʒe.re",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "verbi_comuni",
+      "support": "dipingere = to paint, verb; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "verbi_comuni",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🎨",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "r",
+      "e",
+      "i",
+      "i",
+      "g",
+      "l",
+      "f",
+      "e",
+      "p",
+      "d",
+      "n"
+    ],
+    "correct": [
+      9,
+      2,
+      8,
+      3,
+      10,
+      4,
+      7,
+      0,
+      1
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'dipingere', meaning 'to paint'.",
+    "distractor_rationales": [
+      "'l' is an extra letter — it does not appear in 'dipingere'.",
+      "'f' is an extra letter — it does not appear in 'dipingere'."
+    ],
+    "italian": {
+      "lemma": "dipingere",
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "ipa": "diˈpin.dʒe.re",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "verbi_comuni",
+      "support": "dipingere = to paint, verb; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 1,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🧳",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": null,
+    "correct": [],
+    "sort_map": null,
+    "explanation": "'viaggiare' is a regular -are verb meaning 'to travel'. Present tense: io viaggio, tu viaggi.",
+    "distractor_rationales": null,
+    "italian": {
+      "lemma": "viaggiare",
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "ipa": "vjadˈdʒa.re",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "viaggiare = to travel, verb; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  },
+  {
+    "id": null,
+    "domain": "vocabulary",
+    "cefr_level": "A2",
+    "frequency_tier": "1001-2000",
+    "thematic_group": "citta_trasporti",
+    "format": 7,
+    "audio": "silent",
+    "difficulty": "core",
+    "prompt": {
+      "text": null,
+      "emoji": "🧳",
+      "audio_ref": null,
+      "sentence": null
+    },
+    "options": [],
+    "tiles": [
+      "g",
+      "g",
+      "i",
+      "m",
+      "a",
+      "d",
+      "v",
+      "e",
+      "r",
+      "i",
+      "a"
+    ],
+    "correct": [
+      6,
+      9,
+      4,
+      0,
+      1,
+      2,
+      10,
+      8,
+      7
+    ],
+    "sort_map": null,
+    "explanation": "Arrange the tiles to spell 'viaggiare', meaning 'to travel'.",
+    "distractor_rationales": [
+      "'m' is an extra letter — it does not appear in 'viaggiare'.",
+      "'d' is an extra letter — it does not appear in 'viaggiare'."
+    ],
+    "italian": {
+      "lemma": "viaggiare",
+      "gender": null,
+      "article": null,
+      "plural": null,
+      "ipa": "vjadˈdʒa.re",
+      "target_sound": null
+    },
+    "source": {
+      "title": "Vocabulary top-up curation",
+      "locator": "citta_trasporti",
+      "support": "viaggiare = to travel, verb; verified gender/plural against standard Italian reference dictionaries"
+    },
+    "review_flag": null
+  }
+]

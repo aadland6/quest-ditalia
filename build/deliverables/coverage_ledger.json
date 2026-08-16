@@ -1,0 +1,151 @@
+{
+ "total": 5011,
+ "by_level": {
+  "A1": 1987,
+  "A2": 1516,
+  "B1": 1051,
+  "B2": 457
+ },
+ "by_domain": {
+  "grammar": 1241,
+  "phonology": 168,
+  "reading": 802,
+  "vocabulary": 2800
+ },
+ "by_format": {
+  "1": 1015,
+  "3": 681,
+  "4": 447,
+  "5": 77,
+  "6": 437,
+  "7": 1091,
+  "8": 69,
+  "9": 802,
+  "10": 281,
+  "11": 111
+ },
+ "by_level_domain": {
+  "A1": {
+   "grammar": 340,
+   "phonology": 41,
+   "reading": 189,
+   "vocabulary": 1417
+  },
+  "A2": {
+   "grammar": 409,
+   "phonology": 93,
+   "reading": 189,
+   "vocabulary": 825
+  },
+  "B1": {
+   "grammar": 343,
+   "phonology": 34,
+   "reading": 214,
+   "vocabulary": 460
+  },
+  "B2": {
+   "grammar": 149,
+   "reading": 210,
+   "vocabulary": 98
+  }
+ },
+ "silent_ratio_by_level": {
+  "A1": 1.0,
+  "A2": 1.0,
+  "B1": 1.0,
+  "B2": 1.0
+ },
+ "audio_dist": {
+  "silent": 5011
+ },
+ "qa": {
+  "structural_failures": 0,
+  "duplicate_option_bugs_remaining": 0,
+  "review_flagged": 0
+ },
+ "audio_native": {
+  "overall": {
+   "native": 882,
+   "total": 1048,
+   "pct": 84,
+   "tts_fallback": 166
+  },
+  "by_category": {
+   "abbigliamento": {
+    "native": 49,
+    "total": 57,
+    "pct": 86
+   },
+   "astratto_societa": {
+    "native": 51,
+    "total": 59,
+    "pct": 86
+   },
+   "casa": {
+    "native": 74,
+    "total": 106,
+    "pct": 70
+   },
+   "citta_trasporti": {
+    "native": 65,
+    "total": 74,
+    "pct": 88
+   },
+   "corpo_salute": {
+    "native": 68,
+    "total": 73,
+    "pct": 93
+   },
+   "cucina": {
+    "native": 100,
+    "total": 126,
+    "pct": 79
+   },
+   "famiglia_persone": {
+    "native": 61,
+    "total": 78,
+    "pct": 78
+   },
+   "fonologia": {
+    "native": 39,
+    "total": 59,
+    "pct": 66
+   },
+   "grammatica": {
+    "native": 69,
+    "total": 75,
+    "pct": 92
+   },
+   "lavoro_scuola": {
+    "native": 34,
+    "total": 44,
+    "pct": 77
+   },
+   "natura_animali": {
+    "native": 79,
+    "total": 80,
+    "pct": 99
+   },
+   "strumenti_lavoro": {
+    "native": 3,
+    "total": 5,
+    "pct": 60
+   },
+   "tecnologia_ufficio": {
+    "native": 4,
+    "total": 4,
+    "pct": 100
+   },
+   "tempo_numeri": {
+    "native": 90,
+    "total": 106,
+    "pct": 85
+   },
+   "verbi_comuni": {
+    "native": 96,
+    "total": 102,
+    "pct": 94
+   }
+  }
+ }
+}

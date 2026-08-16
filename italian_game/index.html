@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="description" content="Le Cronache di Muraverde — un GDR per imparare l'italiano (A1–B1)">
+<title>Le Cronache di Muraverde 🐭⚔️</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐭</text></svg>">
+<link rel="stylesheet" href="css/style.css?v=6">
+</head>
+<body>
+<div id="game">
+  <div id="err-banner" class="hidden"></div>
+
+  <!-- ===== TITLE SCREEN ===== -->
+  <div id="screen-title" class="screen active">
+    <div class="title-box">
+      <div id="title-wordmark"></div>
+      <p class="subtitle" data-i18n="tagline"></p>
+      <div class="title-buttons">
+        <button id="btn-new" class="big-btn">🌱 <span data-i18n="new_game"></span></button>
+        <button id="btn-continue" class="big-btn">📜 <span data-i18n="continue"></span></button>
+        <button id="btn-import" class="small-btn">📥 <span data-i18n="import_save"></span></button>
+      </div>
+      <p class="credits" data-i18n="credits"></p>
+      <div id="build-tag">v6</div>
+    </div>
+  </div>
+
+  <!-- ===== CHARACTER CREATION ===== -->
+  <div id="screen-create" class="screen">
+    <div class="panel">
+      <h2 data-i18n="create_title"></h2>
+      <label data-i18n="your_name"></label>
+      <input id="create-name" type="text" maxlength="14" placeholder="Matthias">
+      <h3 data-i18n="choose_race"></h3>
+      <div id="race-list" class="card-row"></div>
+      <h3 data-i18n="choose_class"></h3>
+      <div id="class-list" class="card-row"></div>
+      <div id="create-preview" class="create-preview"></div>
+      <button id="btn-create-go" class="big-btn">⚔️ <span data-i18n="begin"></span></button>
+      <button id="btn-create-back" class="small-btn" data-i18n="back"></button>
+    </div>
+  </div>
+
+  <!-- ===== WORLD ===== -->
+  <div id="screen-world" class="screen">
+    <canvas id="canvas" width="768" height="512"></canvas>
+    <div id="hud">
+      <div id="hud-left">
+        <span id="hud-face"></span>
+        <div class="hud-bars">
+          <div class="hud-name"><span id="hud-name"></span> <span id="hud-level"></span></div>
+          <div class="bar hp"><div id="hud-hp" class="fill"></div><span id="hud-hp-text"></span></div>
+          <div class="bar xp"><div id="hud-xp" class="fill"></div></div>
+        </div>
+      </div>
+      <div id="hud-right">
+        <span id="hud-zone" class="hud-zone"></span>
+        <span id="hud-res"></span>
+      </div>
+    </div>
+    <div id="world-buttons">
+      <button id="btn-menu" class="round-btn" title="Menu">🎒</button>
+      <button id="btn-ctrl" class="round-btn" title="Controlli">🕹️</button>
+      <button id="btn-settings" class="round-btn" title="Studio">⚙️</button>
+      <button id="btn-lang" class="round-btn" title="Lingua">🇬🇧</button>
+    </div>
+    <div id="touch-controls">
+      <div id="dpad">
+        <button class="dp" data-dir="up">▲</button>
+        <button class="dp" data-dir="left">◀</button>
+        <button class="dp" data-dir="action">●</button>
+        <button class="dp" data-dir="right">▶</button>
+        <button class="dp" data-dir="down">▼</button>
+      </div>
+    </div>
+    <div id="toast"></div>
+  </div>
+
+  <!-- ===== BATTLE ===== -->
+  <div id="screen-battle" class="screen">
+    <div id="battle-box">
+      <div id="battle-arena">
+        <div id="battle-enemy" class="combatant">
+          <div class="c-emoji" id="enemy-emoji"></div>
+          <div class="c-name" id="enemy-name"></div>
+          <div class="bar hp small"><div id="enemy-hp" class="fill"></div></div>
+        </div>
+        <div id="battle-vs">⚔️</div>
+        <div id="battle-player" class="combatant">
+          <div class="c-emoji" id="player-emoji"></div>
+          <div class="c-name" id="player-name"></div>
+          <div class="bar hp small"><div id="player-hp" class="fill"></div></div>
+        </div>
+      </div>
+      <div id="battle-log"></div>
+      <div id="battle-menu">
+        <button id="bb-attack" class="battle-btn">⚔️ <span data-i18n="attack"></span></button>
+        <button id="bb-special" class="battle-btn">✨ <span data-i18n="special"></span></button>
+        <button id="bb-item" class="battle-btn">🎒 <span data-i18n="items"></span></button>
+        <button id="bb-flee" class="battle-btn">🏃 <span data-i18n="flee"></span></button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== QUIZ MODAL ===== -->
+  <div id="quiz-modal" class="modal hidden">
+    <div class="modal-box quiz-box">
+      <div id="quiz-tags"></div>
+      <div id="quiz-instruction"></div>
+      <div id="quiz-sentence"></div>
+      <div id="quiz-image"></div>
+      <div id="quiz-options"></div>
+      <div id="quiz-feedback" class="hidden"></div>
+      <div class="quiz-footer">
+        <button id="quiz-help" class="small-btn">❓ <span data-i18n="help"></span></button>
+        <button id="quiz-hint" class="small-btn">💡 <span data-i18n="hint"></span></button>
+        <button id="quiz-continue" class="big-btn hidden" data-i18n="continue_btn"></button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== GENERIC DIALOG (npc / info) ===== -->
+  <div id="dialog-modal" class="modal hidden">
+    <div class="modal-box dialog-box">
+      <div id="dialog-face"></div>
+      <div id="dialog-name"></div>
+      <div id="dialog-text"></div>
+      <div id="dialog-text-en" class="dialog-en hidden"></div>
+      <div class="quiz-footer">
+        <button id="dialog-translate" class="small-btn">🇬🇧</button>
+        <button id="dialog-ok" class="big-btn" data-i18n="continue_btn"></button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== MENU (inventory / stats / save) ===== -->
+  <div id="menu-modal" class="modal hidden">
+    <div class="modal-box menu-box">
+      <div class="menu-tabs">
+        <button class="menu-tab active" data-tab="stats">📊</button>
+        <button class="menu-tab" data-tab="bag">🎒</button>
+        <button class="menu-tab" data-tab="review">📖</button>
+        <button class="menu-tab" data-tab="save">💾</button>
+      </div>
+      <div id="menu-content"></div>
+      <button id="menu-close" class="big-btn" data-i18n="close"></button>
+    </div>
+  </div>
+
+  <!-- ===== ABBEY BUILDING ===== -->
+  <div id="abbey-modal" class="modal hidden">
+    <div class="modal-box abbey-box">
+      <h2>🏰 <span data-i18n="abbey_title"></span></h2>
+      <div id="abbey-res" class="abbey-res"></div>
+      <div id="abbey-buildings"></div>
+      <button id="abbey-close" class="big-btn" data-i18n="close"></button>
+    </div>
+  </div>
+
+  <!-- ===== STUDY SETTINGS ===== -->
+  <div id="settings-modal" class="modal hidden">
+    <div class="modal-box settings-box">
+      <h2>⚙️ <span data-i18n="study_title"></span></h2>
+      <p class="settings-hint" data-i18n="study_hint"></p>
+      <h3 data-i18n="study_levels"></h3>
+      <div id="set-levels" class="chip-row"></div>
+      <h3 data-i18n="study_topics"></h3>
+      <div id="set-topics"></div>
+      <div class="quiz-footer">
+        <button id="set-reset" class="small-btn">↩️ <span data-i18n="study_reset"></span></button>
+        <button id="settings-close" class="big-btn" data-i18n="close"></button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SHOP ===== -->
+  <div id="shop-modal" class="modal hidden">
+    <div class="modal-box shop-box">
+      <h2 id="shop-title"></h2>
+      <div id="shop-items"></div>
+      <button id="shop-close" class="big-btn" data-i18n="close"></button>
+    </div>
+  </div>
+
+</div>
+
+<script src="js/assets.js?v=6"></script>
+<script src="js/data/strings.js?v=6"></script>
+<script src="js/data/verbs.js?v=6"></script>
+<script src="js/data/vocab.js?v=6"></script>
+<script src="js/data/bank_a1.js?v=6"></script>
+<script src="js/data/bank_a2.js?v=6"></script>
+<script src="js/data/bank_b1.js?v=6"></script>
+<script src="js/data/generators.js?v=6"></script>
+<script src="js/data/gamedata.js?v=6"></script>
+<script src="js/data/maps.js?v=6"></script>
+<script src="js/engine.js?v=6"></script>
+<script src="js/quiz.js?v=6"></script>
+<script src="js/battle.js?v=6"></script>
+<script src="js/abbey.js?v=6"></script>
+<script src="js/settings.js?v=6"></script>
+<script src="js/world.js?v=6"></script>
+<script src="js/main.js?v=6"></script>
+</body>
+</html>

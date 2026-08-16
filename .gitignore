@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Claude session config
+.claude/
+
+# Source resource library — licensed third-party materials (textbook PDFs,
+# corpora, dictionaries, audiobooks). Kept local; not for redistribution.
+01_textbooks/
+02_frequency_lists/
+03_dictionaries/
+04_pronunciation_ipa/
+05_audio_native/
+06_example_sentences/
+07_core_vocab_625/
+08_grammar/
+09_readers_audiobooks/
+10_anki_srs/
+papers/
+
+# Build scratch
+build/fetch_audio.log
+
+# preserved inner git history of italian_game (moved aside so files vendor into this repo)
+italian_game/.git.bak/

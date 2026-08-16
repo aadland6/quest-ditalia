@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="theme-color" content="#0f766e">
+<title>Impara — Italian Trainer</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div id="app">
+  <!-- Home / level select -->
+  <section id="home" class="screen active">
+    <header class="home-head">
+      <h1>Impara <span class="flag">🇮🇹</span></h1>
+      <p class="tag">High-frequency Italian, the Fluent&nbsp;Forever way.</p>
+    </header>
+    <div class="controls">
+      <label class="toggle">
+        <input type="checkbox" id="silentToggle"> <span>🔇 Silent mode</span>
+      </label>
+    </div>
+    <div id="levelCards" class="level-cards"><!-- filled by JS --></div>
+    <div id="loadErr" class="load-err" hidden></div>
+    <footer class="home-foot">
+      <button id="resetBtn" class="link-btn">Reset all progress</button>
+      <span id="statLine" class="stat-line"></span>
+    </footer>
+  </section>
+
+  <!-- Study session -->
+  <section id="study" class="screen">
+    <header class="study-head">
+      <button id="quitBtn" class="icon-btn" aria-label="Back">‹</button>
+      <div class="progress-wrap"><div id="progressBar" class="progress-bar"></div></div>
+      <div id="sessionCount" class="session-count">0/0</div>
+    </header>
+    <div id="cardHost" class="card-host"><!-- item renders here --></div>
+    <div id="feedback" class="feedback" hidden>
+      <div id="feedbackBody"></div>
+      <button id="nextBtn" class="primary-btn">Continue</button>
+    </div>
+  </section>
+
+  <!-- Session summary -->
+  <section id="summary" class="screen">
+    <div class="summary-card">
+      <h2>Sessione completata! 🎉</h2>
+      <div id="summaryStats" class="summary-stats"></div>
+      <button id="againBtn" class="primary-btn">Study again</button>
+      <button id="homeBtn" class="link-btn">Home</button>
+    </div>
+  </section>
+</div>
+<script src="assets/app.js"></script>
+</body>
+</html>

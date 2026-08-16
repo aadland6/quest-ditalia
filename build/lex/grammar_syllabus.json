@@ -1,0 +1,1526 @@
+[
+  {
+    "point_id": "GR-A1-articles-def",
+    "cefr_level": "A1",
+    "topic": "Definite articles il/lo/la/l'/i/gli/le",
+    "rule": "Italian definite articles agree in gender and number with the noun and change form based on the noun's initial sound, not just its gender.",
+    "pattern": "il/i before most masc. consonants; lo/gli before masc. z, s+consonant, gn, ps, y; la/le for fem.; l' before any singular vowel-initial noun.",
+    "example_pairs": [
+      [
+        "il treno",
+        "the train"
+      ],
+      [
+        "lo zaino",
+        "the backpack"
+      ],
+      [
+        "l'isola",
+        "the island"
+      ],
+      [
+        "gli gnomi",
+        "the gnomes"
+      ]
+    ],
+    "common_l1_error": "English speakers use one 'the' for everything and default to 'il', missing that lo/gli are required before s+consonant, z, gn, ps, y, and l' before vowels.",
+    "suggested_formats": [
+      5,
+      4,
+      6
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "1. Articles (Articoli) — Definite articles table"
+    }
+  },
+  {
+    "point_id": "GR-A1-articles-indef",
+    "cefr_level": "A1",
+    "topic": "Indefinite articles un/uno/una/un'",
+    "rule": "The indefinite article 'a/an' has four forms in Italian (un, uno, una, un') and, unlike English, has no plural form.",
+    "pattern": "un before most masc. nouns; uno before masc. z/s+cons/gn/ps/y; una before most fem. nouns; un' before fem. nouns starting with a vowel.",
+    "example_pairs": [
+      [
+        "un ombrello",
+        "an umbrella"
+      ],
+      [
+        "uno specchio",
+        "a mirror"
+      ],
+      [
+        "un'amica",
+        "a (female) friend"
+      ]
+    ],
+    "common_l1_error": "Learners write 'un' before every masculine noun, forgetting 'uno' is required before impure-s and z, and mishandle the apostrophe, writing 'un' amica' or wrongly adding one to 'un amico'.",
+    "suggested_formats": [
+      5,
+      4,
+      6
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "1. Articles (Articoli) — Indefinite articles table"
+    }
+  },
+  {
+    "point_id": "GR-A1-noun-gender",
+    "cefr_level": "A1",
+    "topic": "Noun gender by ending (-o/-a/-e)",
+    "rule": "Every Italian noun has a fixed grammatical gender, most reliably predictable from its final vowel, though nouns ending in -e must be memorized individually.",
+    "pattern": "-o → usually masc.; -a → usually fem.; -e → either gender, memorize; -ione/-tà/-tù → usually fem.; -ma (Greek root) → usually masc.",
+    "example_pairs": [
+      [
+        "il quaderno (m.)",
+        "the notebook"
+      ],
+      [
+        "la penna (f.)",
+        "the pen"
+      ],
+      [
+        "il fiume (m.)",
+        "the river"
+      ],
+      [
+        "la chiave (f.)",
+        "the key"
+      ]
+    ],
+    "common_l1_error": "English has no grammatical gender, so learners guess randomly or assume gender always tracks biological sex, missing that objects like 'il fiume' or 'la chiave' simply carry a fixed grammatical gender.",
+    "suggested_formats": [
+      5,
+      4,
+      6
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "2. Nouns, Gender & Plurals — Gender by ending"
+    }
+  },
+  {
+    "point_id": "GR-A1-noun-plural",
+    "cefr_level": "A1",
+    "topic": "Regular and irregular plural formation",
+    "rule": "Italian pluralizes nouns by changing the final vowel rather than adding -s, and a small set of nouns are irregular or invariant in the plural.",
+    "pattern": "masc. -o→-i, fem. -a→-e, either-gender -e→-i; nouns ending in a stressed vowel, consonant, or -i/-ù stay the same; a few Latin-neuter nouns switch to -a and become feminine (uovo→uova).",
+    "example_pairs": [
+      [
+        "il ponte → i ponti",
+        "the bridge → the bridges"
+      ],
+      [
+        "la borsa → le borse",
+        "the bag → the bags"
+      ],
+      [
+        "il caffè → i caffè",
+        "the coffee → the coffees"
+      ]
+    ],
+    "common_l1_error": "Learners default to adding an English-style -s (e.g. 'libros') instead of switching the final vowel, or wrongly pluralize invariant words like 'città' into 'cittài'.",
+    "suggested_formats": [
+      10,
+      5,
+      4
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "2. Nouns, Gender & Plurals — Plural formation table; Irregular plurals"
+    }
+  },
+  {
+    "point_id": "GR-A1-subject-pronouns",
+    "cefr_level": "A1",
+    "topic": "Subject pronouns and their omission",
+    "rule": "Italian has distinct subject pronouns for each person, but they are normally dropped because the verb ending already shows who is acting.",
+    "pattern": "io, tu, lui/lei, noi, voi, loro — kept only for emphasis/contrast, plus the formal 'Lei' (capitalized, takes a 3rd-person singular verb).",
+    "example_pairs": [
+      [
+        "(Io) parlo italiano.",
+        "I speak Italian."
+      ],
+      [
+        "Lei come si chiama?",
+        "What is your name? (formal)"
+      ]
+    ],
+    "common_l1_error": "Because English always needs a subject pronoun ('I speak'), learners over-insert io/tu/lui into every sentence, which sounds unnatural or overly emphatic in Italian.",
+    "suggested_formats": [
+      6,
+      4
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "4. Pronouns (Pronomi) — Subject pronouns"
+    }
+  },
+  {
+    "point_id": "GR-A1-essere-presente",
+    "cefr_level": "A1",
+    "topic": "Presente of essere (to be)",
+    "rule": "Essere ('to be') is a highly irregular verb used for identity, characteristics, and origin, and also serves as the auxiliary for compound past tenses of reflexive/motion verbs.",
+    "pattern": "sono, sei, è, siamo, siete, sono.",
+    "example_pairs": [
+      [
+        "Sono stanco.",
+        "I am tired."
+      ],
+      [
+        "Siamo di Torino.",
+        "We are from Turin."
+      ]
+    ],
+    "common_l1_error": "Learners confuse essere with avere for age and physical states, carrying over English 'I am 20 years old' as 'sono 20 anni' instead of the correct avere-based 'ho 20 anni'.",
+    "suggested_formats": [
+      4,
+      5,
+      6
+    ],
+    "source": {
+      "title": "regular-verb-conjugation-tables.md",
+      "locator": "Key Irregular Verbs — ESSERE table"
+    }
+  },
+  {
+    "point_id": "GR-A1-avere-presente",
+    "cefr_level": "A1",
+    "topic": "Presente of avere (to have)",
+    "rule": "Avere ('to have') is irregular in the presente and also serves as the default auxiliary for the passato prossimo of most verbs.",
+    "pattern": "ho, hai, ha, abbiamo, avete, hanno — the 'h' is written but never pronounced.",
+    "example_pairs": [
+      [
+        "Ho due fratelli.",
+        "I have two brothers."
+      ],
+      [
+        "Hanno fame.",
+        "They are hungry."
+      ]
+    ],
+    "common_l1_error": "Learners drop the silent 'h' in spelling (writing 'o' instead of 'ho'), which creates a real word confusion since 'o' also means 'or'.",
+    "suggested_formats": [
+      4,
+      5,
+      6
+    ],
+    "source": {
+      "title": "regular-verb-conjugation-tables.md",
+      "locator": "Key Irregular Verbs — AVERE table"
+    }
+  },
+  {
+    "point_id": "GR-A1-are-presente",
+    "cefr_level": "A1",
+    "topic": "Presente of regular -are verbs",
+    "rule": "Regular -are verbs, the largest and most predictable class, form the presente by replacing the infinitive ending with a fixed set of person endings on the stem.",
+    "pattern": "parl-are → parl-o, -i, -a, -iamo, -ate, -ano.",
+    "example_pairs": [
+      [
+        "Lei lavora molto.",
+        "She works a lot."
+      ],
+      [
+        "Voi cantate bene.",
+        "You (pl.) sing well."
+      ]
+    ],
+    "common_l1_error": "Learners over-generalize one conjugation pattern to all verbs, attaching -ere/-ire-style endings to -are stems (wrongly 'parle' instead of 'parla').",
+    "suggested_formats": [
+      4,
+      5,
+      10
+    ],
+    "source": {
+      "title": "regular-verb-conjugation-tables.md",
+      "locator": "1st Conjugation: PARLARE table"
+    }
+  },
+  {
+    "point_id": "GR-A1-ere-presente",
+    "cefr_level": "A1",
+    "topic": "Presente of regular -ere verbs",
+    "rule": "Regular -ere verbs take their own set of presente endings, distinct from -are verbs, on the same unchanging stem.",
+    "pattern": "cred-ere → cred-o, -i, -e, -iamo, -ete, -ono.",
+    "example_pairs": [
+      [
+        "Vendo la bicicletta.",
+        "I am selling the bicycle."
+      ],
+      [
+        "Scrivono una lettera.",
+        "They write a letter."
+      ]
+    ],
+    "common_l1_error": "Learners carry the -are ending -ate into the voi form of -ere verbs instead of the correct -ete, blending the two conjugation patterns.",
+    "suggested_formats": [
+      4,
+      5,
+      10
+    ],
+    "source": {
+      "title": "regular-verb-conjugation-tables.md",
+      "locator": "2nd Conjugation: CREDERE table"
+    }
+  },
+  {
+    "point_id": "GR-A1-ire-presente",
+    "cefr_level": "A1",
+    "topic": "Presente of regular -ire verbs (dormire vs. -isc- finire)",
+    "rule": "Regular -ire verbs split into two subtypes in the presente: plain verbs like dormire, and a larger group that inserts -isc- before the ending in every form except noi/voi.",
+    "pattern": "dorm-o, dorm-i, dorm-e, dorm-iamo, dorm-ite, dorm-ono vs. fin-isc-o, fin-isc-i, fin-isc-e, fin-iamo, fin-ite, fin-isc-ono.",
+    "example_pairs": [
+      [
+        "Dormo otto ore.",
+        "I sleep eight hours."
+      ],
+      [
+        "Capisco la domanda.",
+        "I understand the question."
+      ]
+    ],
+    "common_l1_error": "Learners apply -isc- to every -ire verb or to none, not realizing the pattern must be memorized per verb — dormire has no infix, capire does.",
+    "suggested_formats": [
+      4,
+      5,
+      10
+    ],
+    "source": {
+      "title": "regular-verb-conjugation-tables.md",
+      "locator": "3rd Conjugation, -isc- subtype: FINIRE table"
+    }
+  },
+  {
+    "point_id": "GR-A1-adj-agreement",
+    "cefr_level": "A1",
+    "topic": "Adjective agreement and position (incl. BAGS)",
+    "rule": "Descriptive adjectives must match the gender and number of the noun they describe, using either a 4-ending (-o/-a/-i/-e) or 2-ending (-e/-i) pattern; a small set of short, common adjectives (the 'BAGS' set: beauty, age, goodness, size) usually precede the noun instead of following it.",
+    "pattern": "4-ending: alto, alta, alti, alte; 2-ending: verde, verdi (same for m. and f.); BAGS before noun: una bella casa; ordinary adjectives after: una casa gialla.",
+    "example_pairs": [
+      [
+        "un ragazzo alto",
+        "a tall boy"
+      ],
+      [
+        "una ragazza alta",
+        "a tall girl"
+      ],
+      [
+        "dei fiori verdi",
+        "some green flowers"
+      ]
+    ],
+    "common_l1_error": "Learners leave adjectives unchanged as in English instead of matching the noun's gender/number, e.g. wrongly 'ragazza alto' instead of 'ragazza alta'.",
+    "suggested_formats": [
+      5,
+      6,
+      4
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "3. Adjectives (Aggettivi) — agreement, position, BAGS"
+    }
+  },
+  {
+    "point_id": "GR-A1-ce-cisono",
+    "cefr_level": "A1",
+    "topic": "C'è / ci sono (there is / there are)",
+    "rule": "'C'è' states that a single thing exists or is present, and 'ci sono' states that multiple things do; both use the verb essere and must match the number of the following noun, not the speaker.",
+    "pattern": "c'è + singular noun; ci sono + plural noun.",
+    "example_pairs": [
+      [
+        "C'è un gatto in giardino.",
+        "There is a cat in the garden."
+      ],
+      [
+        "Ci sono due gatti in giardino.",
+        "There are two cats in the garden."
+      ]
+    ],
+    "common_l1_error": "Learners use 'c'è' for everything regardless of number (mirroring casual English 'there's two cats'), producing 'c'è due gatti' instead of the correct 'ci sono due gatti'.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "4. Pronouns (Pronomi) / 6. Verbs — essere-based existential construction"
+    }
+  },
+  {
+    "point_id": "GR-A1-prep-simple",
+    "cefr_level": "A1",
+    "topic": "The nine simple prepositions",
+    "rule": "Italian has nine simple prepositions, each with a core meaning, though usage does not always map one-to-one onto English prepositions.",
+    "pattern": "di (of), a (to/at), da (from/by), in (in/into), con (with), su (on), per (for/through), tra/fra (between/among, chosen to avoid consonant clashes).",
+    "example_pairs": [
+      [
+        "Vengo da Roma.",
+        "I come from Rome."
+      ],
+      [
+        "Abito in Italia.",
+        "I live in Italy."
+      ]
+    ],
+    "common_l1_error": "Learners translate English prepositions word-for-word (e.g. expecting 'a Italia' instead of 'in Italia'), not realizing each Italian preposition has its own set of fixed uses.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "5. Prepositions (Preposizioni) — nine simple prepositions"
+    }
+  },
+  {
+    "point_id": "GR-A1-question-words",
+    "cefr_level": "A1",
+    "topic": "Question words (chi, cosa, dove, quando, come, perché, quanto)",
+    "rule": "Italian question words open the question directly and do not require a helper verb like English 'do/does'.",
+    "pattern": "chi (who), che cosa/cosa (what), dove (where), quando (when), come (how), perché (why), quanto/a/i/e (how much/many).",
+    "example_pairs": [
+      [
+        "Dove abiti?",
+        "Where do you live?"
+      ],
+      [
+        "Quanti anni hai?",
+        "How old are you? (lit. how many years)"
+      ]
+    ],
+    "common_l1_error": "Learners insert an English-style 'do' auxiliary or misorder the question, producing awkward calques like 'dove tu vivi' instead of the natural 'dove vivi'.",
+    "suggested_formats": [
+      4,
+      6,
+      8
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "4. Pronouns (Pronomi) — interrogatives (adjacent to relative pronouns)"
+    }
+  },
+  {
+    "point_id": "GR-A1-numbers-dates",
+    "cefr_level": "A1",
+    "topic": "Cardinal numbers and dates",
+    "rule": "Cardinal numbers are invariable (except 'uno', which behaves like the indefinite article), and dates follow the pattern definite article + cardinal number + month, with 'primo' as the only ordinal used, for the first of the month.",
+    "pattern": "il + [number] + [month]: il quindici agosto (August 15th); but il primo maggio (May 1st).",
+    "example_pairs": [
+      [
+        "il ventidue marzo",
+        "March 22nd"
+      ],
+      [
+        "il primo gennaio",
+        "January 1st"
+      ]
+    ],
+    "common_l1_error": "Learners use ordinal numbers for every date as English does ('the twenty-second'), instead of Italian's cardinal-number pattern, and forget the leading definite article.",
+    "suggested_formats": [
+      4,
+      10,
+      6
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "1. Articles (Articoli) — definite article use in dates (applied use)"
+    }
+  },
+  {
+    "point_id": "GR-A2-prep-articulate",
+    "cefr_level": "A2",
+    "topic": "Articulated prepositions (del, al, nel, sul...)",
+    "rule": "When one of the five prepositions di, a, da, in, su is followed directly by a definite article, the two words must fuse into a single 'articulated preposition' — this fusion is mandatory, not optional.",
+    "pattern": "di+il→del, a+lo→allo, da+l'→dall', in+i→nei, su+gli→sugli (each preposition has its own row across il/lo/l'/la/i/gli/le).",
+    "example_pairs": [
+      [
+        "il libro del professore",
+        "the professor's book"
+      ],
+      [
+        "Vado al mercato.",
+        "I'm going to the market."
+      ],
+      [
+        "I quaderni sono nello zaino.",
+        "The notebooks are in the backpack."
+      ]
+    ],
+    "common_l1_error": "Learners write the preposition and article as two separate words ('di il libro') the way English keeps 'of the', instead of the required single fused form 'del libro'.",
+    "suggested_formats": [
+      4,
+      5,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "5. Prepositions (Preposizioni) — Contracted forms table"
+    }
+  },
+  {
+    "point_id": "GR-A2-partitive",
+    "cefr_level": "A2",
+    "topic": "Partitive article (del pane, delle mele)",
+    "rule": "Italian expresses an unspecified quantity ('some/any') with the partitive article, formed simply by fusing the preposition 'di' with the definite article.",
+    "pattern": "del pane, dello zucchero, della frutta, dell'acqua, dei panini, degli spinaci, delle mele.",
+    "example_pairs": [
+      [
+        "Compro del pane.",
+        "I'm buying some bread."
+      ],
+      [
+        "Vorrei delle mele.",
+        "I'd like some apples."
+      ]
+    ],
+    "common_l1_error": "Learners omit the partitive entirely since English 'some' is often dropped too ('vorrei mele' instead of 'vorrei delle mele'), or confuse it with the possessive use of 'di'.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "1. Articles (Articoli) — Partitive articles"
+    }
+  },
+  {
+    "point_id": "GR-A2-possessive-adj",
+    "cefr_level": "A2",
+    "topic": "Possessive adjectives (il mio, la sua...)",
+    "rule": "Possessive adjectives normally keep the definite article and agree with the thing possessed, not with the possessor — except before a singular, unmodified family-member noun, where the article is dropped.",
+    "pattern": "il mio libro, la mia casa, i miei amici BUT mio fratello (no article) vs. il mio fratello maggiore (article returns once the family noun is modified).",
+    "example_pairs": [
+      [
+        "la sua macchina",
+        "his/her car"
+      ],
+      [
+        "mia madre",
+        "my mother"
+      ],
+      [
+        "la mia madre severa",
+        "my strict mother"
+      ]
+    ],
+    "common_l1_error": "Learners apply the article inconsistently and forget that 'suo/sua' agrees with the object owned rather than the owner's gender, so 'la sua macchina' can mean either 'his car' or 'her car'.",
+    "suggested_formats": [
+      5,
+      6,
+      4
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "3. Adjectives (Aggettivi) — Possessive adjectives"
+    }
+  },
+  {
+    "point_id": "GR-A2-demonstrative-adj",
+    "cefr_level": "A2",
+    "topic": "Demonstrative adjectives questo/quello",
+    "rule": "'Questo' (this) follows regular -o/-a/-i/-e agreement, while 'quello' (that) takes forms that mirror the definite article, changing shape depending on the following noun's initial sound.",
+    "pattern": "quel libro (like il), quello studente (like lo), quella casa (like la), quegli amici (like gli).",
+    "example_pairs": [
+      [
+        "questo quaderno",
+        "this notebook"
+      ],
+      [
+        "quello zaino",
+        "that backpack"
+      ],
+      [
+        "quei ragazzi",
+        "those boys"
+      ]
+    ],
+    "common_l1_error": "Learners use one fixed form of 'quello' everywhere, not realizing it must shift shape exactly like 'lo/gli/la/i' depending on the noun that follows it.",
+    "suggested_formats": [
+      5,
+      4,
+      6
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "4. Pronouns (Pronomi) — Demonstrative pronouns / 3. Adjectives — demonstrative adjectives"
+    }
+  },
+  {
+    "point_id": "GR-A2-reflexive-presente",
+    "cefr_level": "A2",
+    "topic": "Reflexive verbs in the presente",
+    "rule": "Reflexive verbs pair a reflexive pronoun with the presente conjugation to show the subject acts on itself; the pronoun changes with the subject and normally precedes the conjugated verb.",
+    "pattern": "mi lavo, ti lavi, si lava, ci laviamo, vi lavate, si lavano.",
+    "example_pairs": [
+      [
+        "Mi sveglio alle sette.",
+        "I wake up at seven."
+      ],
+      [
+        "Si veste in fretta.",
+        "He/she gets dressed quickly."
+      ]
+    ],
+    "common_l1_error": "Learners drop the reflexive pronoun entirely because the English equivalent isn't reflexive ('I wake up' vs. correctly 'mi sveglio'), producing an ungrammatical bare verb.",
+    "suggested_formats": [
+      4,
+      6,
+      8
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "4. Pronouns (Pronomi) — Reflexive pronouns"
+    }
+  },
+  {
+    "point_id": "GR-A2-passato-prossimo-avere",
+    "cefr_level": "A2",
+    "topic": "Passato prossimo with avere",
+    "rule": "Most verbs form the passato prossimo with the presente of avere plus the past participle, which stays invariable regardless of the subject.",
+    "pattern": "avere (presente) + participio passato: -are→-ato, -ere→-uto, -ire→-ito.",
+    "example_pairs": [
+      [
+        "Ho mangiato una pizza.",
+        "I ate a pizza."
+      ],
+      [
+        "Hanno studiato tutto il giorno.",
+        "They studied all day."
+      ]
+    ],
+    "common_l1_error": "Learners change the participle's ending to agree with the subject as if it were an ordinary adjective ('ho mangiata'), when with avere the participle normally stays fixed in -o.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Passato prossimo"
+    }
+  },
+  {
+    "point_id": "GR-A2-passato-prossimo-essere",
+    "cefr_level": "A2",
+    "topic": "Passato prossimo with essere and participle agreement",
+    "rule": "Reflexive verbs and most verbs of motion or state-change form the passato prossimo with essere instead of avere, and in that case the past participle must agree in gender and number with the subject.",
+    "pattern": "essere (presente) + participio passato, agreeing like an adjective: sono andato/andata, siamo partiti/partite.",
+    "example_pairs": [
+      [
+        "Lei è arrivata tardi.",
+        "She arrived late."
+      ],
+      [
+        "I ragazzi sono usciti.",
+        "The boys went out."
+      ]
+    ],
+    "common_l1_error": "Learners default to avere for every verb and forget both the switch to essere for motion/reflexive verbs and the required agreement, producing 'ha andato' instead of 'è andato/a'.",
+    "suggested_formats": [
+      5,
+      6,
+      4
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Auxiliary verbs for compound tenses"
+    }
+  },
+  {
+    "point_id": "GR-A2-imperfetto",
+    "cefr_level": "A2",
+    "topic": "Imperfetto formation and use",
+    "rule": "The imperfetto describes ongoing, habitual, or background actions in the past (what 'used to' happen or 'was happening'), and is formed regularly from the infinitive stem across almost all verbs.",
+    "pattern": "-are→-avo/-avi/-ava/-avamo/-avate/-avano; -ere/-ire→-evo.../-ivo... (parlavo, credevo, dormivo).",
+    "example_pairs": [
+      [
+        "Da bambino giocavo sempre fuori.",
+        "As a child I always used to play outside."
+      ],
+      [
+        "Mentre leggevo, pioveva.",
+        "While I was reading, it was raining."
+      ]
+    ],
+    "common_l1_error": "Learners reach for the passato prossimo for every past idea, missing that repeated or background actions ('used to', 'was ___ing') call for the imperfetto instead.",
+    "suggested_formats": [
+      4,
+      5,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Imperfetto"
+    }
+  },
+  {
+    "point_id": "GR-A2-pp-vs-imperfetto",
+    "cefr_level": "A2",
+    "topic": "Passato prossimo vs. imperfetto contrast",
+    "rule": "Passato prossimo narrates a completed, bounded past event, while imperfetto sets the ongoing scene or habitual backdrop around it — the two often appear together in one sentence, each doing a different job.",
+    "pattern": "[imperfetto: scene/background] + [passato prossimo: single completed event]: Dormivo (scene) quando è suonato il telefono (event).",
+    "example_pairs": [
+      [
+        "Ero in cucina quando è arrivato Marco.",
+        "I was in the kitchen when Marco arrived."
+      ],
+      [
+        "Da giovane viaggiavo spesso.",
+        "As a young person I used to travel often."
+      ]
+    ],
+    "common_l1_error": "Learners pick a single past tense and use it everywhere, unable to hear the aspect distinction that English marks with 'was ___ing' versus the simple past.",
+    "suggested_formats": [
+      6,
+      4,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Presente/Imperfetto/Passato prossimo contrast"
+    }
+  },
+  {
+    "point_id": "GR-A2-dir-obj-pronouns",
+    "cefr_level": "A2",
+    "topic": "Direct object pronouns (lo/la/li/le)",
+    "rule": "Direct object pronouns replace a noun that directly receives the action, agree in gender/number with that noun, and normally stand right before the conjugated verb, attaching to the end only of infinitives, gerunds, and informal imperatives.",
+    "pattern": "mi, ti, lo/la, ci, vi, li/le — Lo vedo (I see him/it, m.); La vedo (I see her/it, f.); voglio vederlo (attached to infinitive).",
+    "example_pairs": [
+      [
+        "Compro il pane. → Lo compro.",
+        "I buy the bread. → I buy it."
+      ],
+      [
+        "Guardo le foto. → Le guardo.",
+        "I look at the photos. → I look at them."
+      ]
+    ],
+    "common_l1_error": "Learners leave the pronoun after the verb as English does ('vedo lo'), or use 'lo' regardless of gender instead of matching 'la/li/le' to the noun replaced.",
+    "suggested_formats": [
+      4,
+      6,
+      8
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "4. Pronouns (Pronomi) — Direct object pronouns"
+    }
+  },
+  {
+    "point_id": "GR-A2-indir-obj-pronouns",
+    "cefr_level": "A2",
+    "topic": "Indirect object pronouns (gli/le)",
+    "rule": "Indirect object pronouns replace a noun marked with 'a' — the person something is given, said, or done to — and follow the same placement rules as direct object pronouns, though 'gli' colloquially covers both 'to him' and 'to them'.",
+    "pattern": "mi, ti, gli/le, ci, vi, loro (formal, placed after the verb) / gli (informal, before the verb, for 'to them').",
+    "example_pairs": [
+      [
+        "Scrivo a Marco. → Gli scrivo.",
+        "I write to Marco. → I write to him."
+      ],
+      [
+        "Do il regalo a Sara. → Le do il regalo.",
+        "I give the gift to Sara. → I give her the gift."
+      ]
+    ],
+    "common_l1_error": "Learners confuse direct 'lo/la' with indirect 'gli/le' because English 'him/her' covers both roles, producing errors like 'lo scrivo' instead of the correct 'gli scrivo' for 'I write to him'.",
+    "suggested_formats": [
+      4,
+      6,
+      8
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "4. Pronouns (Pronomi) — Indirect object pronouns"
+    }
+  },
+  {
+    "point_id": "GR-A2-modal-verbs",
+    "cefr_level": "A2",
+    "topic": "Modal verbs + bare infinitive (dovere/potere/volere)",
+    "rule": "The three modal verbs dovere (must/have to), potere (can/may), and volere (want to) are followed directly by a bare infinitive, with no linking preposition in between.",
+    "pattern": "modal (conjugated) + infinitive: devo partire, posso aiutare, vuole mangiare.",
+    "example_pairs": [
+      [
+        "Devo studiare stasera.",
+        "I have to study tonight."
+      ],
+      [
+        "Possiamo entrare?",
+        "Can we come in?"
+      ]
+    ],
+    "common_l1_error": "Learners insert a preposition between the modal and the infinitive by analogy with English 'want to' or 'have to', wrongly producing 'voglio di mangiare' instead of 'voglio mangiare'.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "regular-verb-conjugation-tables.md",
+      "locator": "POTERE / VOLERE / DOVERE tables"
+    }
+  },
+  {
+    "point_id": "GR-A2-comparatives-superlatives",
+    "cefr_level": "A2",
+    "topic": "Comparatives and the absolute superlative (-issimo)",
+    "rule": "Comparisons use più/meno + adjective + di/che, equality uses (così)...come or (tanto)...quanto, and the strongest degree ('very ___') is formed by dropping the adjective's final vowel and adding -issimo, agreeing in gender/number; a few common adjectives also have irregular comparative/superlative forms.",
+    "pattern": "più alto di lui (taller than him); alto → altissimo (very tall); buono→migliore→ottimo (irregular set).",
+    "example_pairs": [
+      [
+        "Marco è più alto di me.",
+        "Marco is taller than me."
+      ],
+      [
+        "Questa torta è buonissima.",
+        "This cake is really good."
+      ]
+    ],
+    "common_l1_error": "Learners say 'più buono' instead of the irregular 'migliore', and forget that -issimo must still agree with the noun's gender and number like any other adjective ending.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "3. Adjectives (Aggettivi) — Comparison"
+    }
+  },
+  {
+    "point_id": "GR-A2-imperative",
+    "cefr_level": "A2",
+    "topic": "Imperativo (tu/voi/Lei; negative tu)",
+    "rule": "The tu and voi imperative forms are genuine command forms taken from the presente indicativo, while the polite Lei command and the 'let's' noi command borrow their forms from the congiuntivo presente; the negative tu command uniquely switches to non + infinitive instead of the normal imperative.",
+    "pattern": "affirmative tu: Parla! ; negative tu: Non parlare! ; polite Lei: Parli! (subjunctive-based).",
+    "example_pairs": [
+      [
+        "Aspetta un minuto!",
+        "Wait a minute! (tu)"
+      ],
+      [
+        "Non correre in casa!",
+        "Don't run in the house! (tu, negative)"
+      ]
+    ],
+    "common_l1_error": "Learners negate the tu imperative the ordinary way ('non parla') instead of switching to the infinitive ('non parlare'), the one command form that behaves differently in the negative.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Imperative mood (Imperativo)"
+    }
+  },
+  {
+    "point_id": "GR-B1-futuro-semplice",
+    "cefr_level": "B1",
+    "topic": "Futuro semplice (regular formation)",
+    "rule": "The futuro semplice is built by taking the infinitive, dropping the final -e (and, for -are verbs, changing the stem vowel a→e), and adding one shared set of future endings across all three conjugations.",
+    "pattern": "parlare→parler-; credere→creder-; dormire→dormir- + -ò/-ai/-à/-emo/-ete/-anno.",
+    "example_pairs": [
+      [
+        "Domani partirò per Roma.",
+        "Tomorrow I'll leave for Rome."
+      ],
+      [
+        "Finiremo il progetto venerdì.",
+        "We'll finish the project on Friday."
+      ]
+    ],
+    "common_l1_error": "Learners keep the -are stem vowel unchanged, wrongly producing 'parlarò' instead of 'parlerò', since English 'will' attaches without altering the base verb.",
+    "suggested_formats": [
+      4,
+      10,
+      6
+    ],
+    "source": {
+      "title": "regular-verb-conjugation-tables.md",
+      "locator": "How to form each tense — Futuro semplice row"
+    }
+  },
+  {
+    "point_id": "GR-B1-futuro-irregular",
+    "cefr_level": "B1",
+    "topic": "Irregular future stems and the future of probability",
+    "rule": "A recurring group of common verbs drops the thematic vowel (and sometimes doubles a consonant) to build an irregular but still-predictable future/conditional stem; the future is also used colloquially to express present probability or a guess.",
+    "pattern": "essere→sar-, avere→avr-, andare→andr-, venire→verr-, volere→vorr- + normal future endings; Sarà tardi = 'It's probably late' (guess, not a literal future).",
+    "example_pairs": [
+      [
+        "Domani avremo tempo libero.",
+        "Tomorrow we'll have free time."
+      ],
+      [
+        "Chi sarà a quest'ora?",
+        "Who could that be at this hour? (guess)"
+      ]
+    ],
+    "common_l1_error": "Learners regularize these irregular stems, wrongly producing 'venirò' instead of 'verrò', and miss the probability use of the future since English doesn't reuse 'will' for present guesses.",
+    "suggested_formats": [
+      4,
+      5,
+      10
+    ],
+    "source": {
+      "title": "regular-verb-conjugation-tables.md",
+      "locator": "Quick reference: irregular futuro/condizionale stems"
+    }
+  },
+  {
+    "point_id": "GR-B1-condizionale-presente",
+    "cefr_level": "B1",
+    "topic": "Condizionale presente (would; polite requests)",
+    "rule": "The condizionale presente expresses 'would' + verb and is built on the same irregular stem as the futuro but with a distinct set of conditional endings; it is also the standard way to soften a request or give polite advice.",
+    "pattern": "future stem + -ei/-esti/-ebbe/-emmo/-este/-ebbero: vorrei (I would like), potresti (you could).",
+    "example_pairs": [
+      [
+        "Vorrei un caffè, per favore.",
+        "I would like a coffee, please."
+      ],
+      [
+        "Dovresti riposare di più.",
+        "You should rest more."
+      ]
+    ],
+    "common_l1_error": "Learners confuse the futuro and condizionale endings since both share the same irregular stem, saying 'vorrò' when they mean the polite 'vorrei'.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Conditional mood (Condizionale), Presente"
+    }
+  },
+  {
+    "point_id": "GR-B1-trapassato-prossimo",
+    "cefr_level": "B1",
+    "topic": "Trapassato prossimo (pluperfect)",
+    "rule": "The trapassato prossimo describes an action completed before another past action, and is formed with the imperfetto of avere/essere plus the past participle, following the same auxiliary-choice and agreement rules as the passato prossimo.",
+    "pattern": "avere/essere (imperfetto) + participio passato: avevo già mangiato quando sei arrivato.",
+    "example_pairs": [
+      [
+        "Avevo già finito quando mi hai chiamato.",
+        "I had already finished when you called me."
+      ],
+      [
+        "Era già partita quando siamo arrivati.",
+        "She had already left when we arrived."
+      ]
+    ],
+    "common_l1_error": "Learners use the passato prossimo for both past events instead of pushing the earlier one back into the trapassato prossimo, losing the 'past-before-past' sequencing Italian marks explicitly.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Trapassato prossimo"
+    }
+  },
+  {
+    "point_id": "GR-B1-gerundio-stare",
+    "cefr_level": "B1",
+    "topic": "Stare + gerundio (progressive aspect)",
+    "rule": "The gerundio (-ando/-endo) combines with a conjugated form of stare to describe an action in progress at the moment referred to, roughly matching the English present/past continuous.",
+    "pattern": "stare (conjugated) + gerundio: sto parlando (I am [right now] speaking); stavo dormendo (I was sleeping).",
+    "example_pairs": [
+      [
+        "Sto guardando un film.",
+        "I am watching a movie (right now)."
+      ],
+      [
+        "Stavano cucinando quando sono entrato.",
+        "They were cooking when I came in."
+      ]
+    ],
+    "common_l1_error": "Learners overuse stare + gerundio for any ongoing situation the way English uses -ing freely, when the plain presente or imperfetto is usually more natural for general or background states in Italian.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Non-finite forms, Gerundio"
+    }
+  },
+  {
+    "point_id": "GR-B1-combined-pronouns",
+    "cefr_level": "B1",
+    "topic": "Combined double object pronouns (me lo, glielo)",
+    "rule": "When a direct and an indirect object pronoun both attach to the same verb, the indirect one comes first and changes its final -i to -e, and the third-person indirect forms gli/le fuse with the direct pronoun into a single word.",
+    "pattern": "mi+lo→me lo; ti+la→te la; gli/le+lo→glielo (both gli and le become 'glie-' before a direct pronoun).",
+    "example_pairs": [
+      [
+        "Mi presti il libro? → Me lo presti?",
+        "Will you lend me the book? → Will you lend it to me?"
+      ],
+      [
+        "Do il regalo a Sara. → Glielo do.",
+        "I give the gift to Sara. → I give it to her."
+      ]
+    ],
+    "common_l1_error": "Learners keep the two pronouns in English order or leave them unfused ('gli lo do' instead of 'glielo do'), missing the required fusion for third-person indirect + direct combinations.",
+    "suggested_formats": [
+      8,
+      4,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "4. Pronouns (Pronomi) — Direct/Indirect object pronouns (combination pattern)"
+    }
+  },
+  {
+    "point_id": "GR-B1-ne",
+    "cefr_level": "B1",
+    "topic": "Partitive/quantity pronoun 'ne'",
+    "rule": "The pronoun 'ne' replaces a phrase introduced by 'di' — most often a quantity, a topic, or an origin — and is placed like a direct object pronoun, right before the conjugated verb.",
+    "pattern": "ne = 'of it/them' / 'about it': Quanti libri hai? Ne ho tre. (I have three of them.)",
+    "example_pairs": [
+      [
+        "Vuoi della torta? Sì, ne voglio un po'.",
+        "Do you want some cake? Yes, I want some (of it)."
+      ],
+      [
+        "Parliamo spesso di sport. Ne parliamo spesso.",
+        "We often talk about sports. We often talk about it."
+      ]
+    ],
+    "common_l1_error": "Learners drop 'ne' entirely because English allows a bare number or quantity ('I have three'), producing the incomplete 'Ho tre' instead of the required 'Ne ho tre'.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "4. Pronouns (Pronomi) — clitic pronoun system (extension: partitive 'ne')"
+    }
+  },
+  {
+    "point_id": "GR-B1-ci-locativo",
+    "cefr_level": "B1",
+    "topic": "Locative pronoun 'ci' (there)",
+    "rule": "The locative pronoun 'ci' replaces a place already mentioned (usually introduced by a, in, or su) and is placed like a direct object pronoun before the conjugated verb; it is distinct from the reflexive/reciprocal 'ci' (us/to us).",
+    "pattern": "ci = 'there': Vai spesso in palestra? Sì, ci vado ogni giorno.",
+    "example_pairs": [
+      [
+        "Sei mai stato a Firenze? Sì, ci sono stato due volte.",
+        "Have you ever been to Florence? Yes, I've been there twice."
+      ],
+      [
+        "Andiamo al mare? Sì, ci andiamo domani.",
+        "Shall we go to the beach? Yes, we're going there tomorrow."
+      ]
+    ],
+    "common_l1_error": "Learners repeat the place name instead of replacing it with 'ci' (English readily repeats nouns), or drop it entirely, both of which sound unnatural or incomplete in Italian.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "5. Prepositions (Preposizioni) 'in/a' + 4. Pronouns — clitic pronoun system (extension: locative 'ci')"
+    }
+  },
+  {
+    "point_id": "GR-B1-relative-pronouns",
+    "cefr_level": "B1",
+    "topic": "Relative pronouns che/cui/il quale",
+    "rule": "'Che' (invariant) is the default relative pronoun for both subjects and direct objects; 'cui' is required instead of 'che' right after a preposition; 'il quale/la quale/i quali/le quali' is a more formal alternative that agrees in gender/number and can replace either che or cui.",
+    "pattern": "il libro che leggo (that I'm reading); la persona a cui scrivo (to whom I'm writing) — never 'a che'.",
+    "example_pairs": [
+      [
+        "L'amico che mi hai presentato è simpatico.",
+        "The friend you introduced me to is nice."
+      ],
+      [
+        "La città in cui sono nato è piccola.",
+        "The city I was born in is small."
+      ]
+    ],
+    "common_l1_error": "Learners try to use 'che' after a preposition the way English can end a clause with 'that', producing 'la persona a che scrivo' instead of switching to the required 'cui'.",
+    "suggested_formats": [
+      4,
+      6,
+      8
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "4. Pronouns (Pronomi) — Relative pronouns"
+    }
+  },
+  {
+    "point_id": "GR-B1-si-impersonale",
+    "cefr_level": "B1",
+    "topic": "Si impersonale (general 'one/people/you')",
+    "rule": "'Si' plus a verb in the 3rd person singular (or plural, if the following noun is plural) expresses a general, unspecified subject, corresponding to English 'one/people/you' in general statements.",
+    "pattern": "si + verb (3rd sg.) + singular noun; si + verb (3rd pl.) + plural noun: si mangia bene qui; si vendono biglietti qui.",
+    "example_pairs": [
+      [
+        "In Italia si beve molto caffè.",
+        "In Italy people drink a lot of coffee."
+      ],
+      [
+        "Qui si parlano tre lingue.",
+        "Here three languages are spoken."
+      ]
+    ],
+    "common_l1_error": "Learners keep the verb singular even when the following noun is plural, wrongly producing 'si vende biglietti' instead of matching the verb to the plural noun that follows 'si'.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "4. Pronouns (Pronomi) — Reflexive pronouns (extension: impersonal 'si')"
+    }
+  },
+  {
+    "point_id": "GR-B1-adverbs-mente",
+    "cefr_level": "B1",
+    "topic": "Manner adverbs with -mente",
+    "rule": "Most manner adverbs are formed by adding -mente to the feminine singular form of the adjective, or directly to the plain form for adjectives ending in -e (dropping a final -le/-re first).",
+    "pattern": "lenta → lentamente; veloce → velocemente; facile → facilmente (drop -e before -mente).",
+    "example_pairs": [
+      [
+        "Guida lentamente in città.",
+        "He/she drives slowly in the city."
+      ],
+      [
+        "Ha risposto gentilmente.",
+        "He/she answered kindly."
+      ]
+    ],
+    "common_l1_error": "Learners add -mente to the masculine/dictionary form instead of the feminine, wrongly producing 'lentomente' instead of 'lentamente'.",
+    "suggested_formats": [
+      4,
+      10,
+      6
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "3. Adjectives (Aggettivi) — 4-ending/2-ending forms (base for -mente derivation)"
+    }
+  },
+  {
+    "point_id": "GR-B1-passato-remoto",
+    "cefr_level": "B1",
+    "topic": "Passato remoto (recognition)",
+    "rule": "The passato remoto is a simple past tense used mainly in writing (literature, history) and in everyday speech in parts of southern Italy; learners need to recognize it in reading even though the passato prossimo remains the default for spoken narration elsewhere.",
+    "pattern": "regular endings differ per conjugation: parlai/parlò/parlarono; credei(credetti)/credé/crederono; dormii/dormì/dormirono.",
+    "example_pairs": [
+      [
+        "Dante nacque nel 1265.",
+        "Dante was born in 1265. (narrative past)"
+      ],
+      [
+        "Il re morì senza eredi.",
+        "The king died without heirs. (narrative past)"
+      ]
+    ],
+    "common_l1_error": "Learners assume it is interchangeable with the passato prossimo in ordinary conversation, when in most of Italy today it is reserved for formal narration rather than everyday speech.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Passato remoto"
+    }
+  },
+  {
+    "point_id": "GR-B1-obj-pronoun-agreement-pp",
+    "cefr_level": "B1",
+    "topic": "Participle agreement with preceding direct object pronoun",
+    "rule": "When a 3rd-person direct object pronoun (lo, la, li, le) precedes a passato prossimo formed with avere, the past participle must agree with that pronoun in gender/number — the one exception to avere-participles normally staying invariable.",
+    "pattern": "L'ho vista ieri. (la + ho → l'ho, participle agrees: vista, fem.); Li ho comprati. (li, masc. pl. → comprati)",
+    "example_pairs": [
+      [
+        "Ho comprato la torta. → L'ho comprata.",
+        "I bought the cake. → I bought it."
+      ],
+      [
+        "Ho visto i tuoi amici. → Li ho visti.",
+        "I saw your friends. → I saw them."
+      ]
+    ],
+    "common_l1_error": "Learners apply the general avere-rule that the participle stays in -o even when a preceding direct object pronoun is present, missing this one required exception.",
+    "suggested_formats": [
+      6,
+      4,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Non-finite forms, Participio passato (agreement rule) + 4. Pronouns — Direct object pronouns"
+    }
+  },
+  {
+    "point_id": "GR-B1-futuro-anteriore",
+    "cefr_level": "B1",
+    "topic": "Futuro anteriore (future perfect)",
+    "rule": "The futuro anteriore marks an action that will already be completed before another future point, formed with the futuro of avere/essere plus the past participle.",
+    "pattern": "avere/essere (futuro) + participio passato: Quando avrò finito, ti chiamerò.",
+    "example_pairs": [
+      [
+        "Sarà già partito quando arriveremo.",
+        "He will have already left by the time we arrive."
+      ],
+      [
+        "Avremo finito entro le cinque.",
+        "We will have finished by five."
+      ]
+    ],
+    "common_l1_error": "Learners default to the simple futuro semplice for both actions ('finirò... arriverete'), losing the explicit 'already-done-by-then' sequencing that the futuro anteriore signals.",
+    "suggested_formats": [
+      4,
+      10,
+      6
+    ],
+    "source": {
+      "title": "regular-verb-conjugation-tables.md",
+      "locator": "How to form each tense — Futuro anteriore row"
+    }
+  },
+  {
+    "point_id": "GR-B2-congiuntivo-presente",
+    "cefr_level": "B2",
+    "topic": "Congiuntivo presente (formation)",
+    "rule": "The congiuntivo presente is formed by swapping in the 'opposite' vowel set from the presente indicativo (-are verbs take -i endings, -ere/-ire verbs take -a endings), and the io/tu/lui-lei forms are identical, so subject pronouns are often needed for clarity.",
+    "pattern": "-are → -i/-i/-i/-iamo/-iate/-ino; -ere/-ire → -a/-a/-a/-iamo/-iate/-ano: che io parli, che tu creda, che lui dorma.",
+    "example_pairs": [
+      [
+        "Penso che lei parli tre lingue.",
+        "I think she speaks three languages."
+      ],
+      [
+        "Spero che tu capisca.",
+        "I hope you understand."
+      ]
+    ],
+    "common_l1_error": "Learners keep using the indicativo after 'che' because English marks no such mood distinction morphologically, or confuse the identical io/tu/lui forms without a clarifying pronoun.",
+    "suggested_formats": [
+      4,
+      5,
+      10
+    ],
+    "source": {
+      "title": "regular-verb-conjugation-tables.md",
+      "locator": "How to form each tense — Congiuntivo presente row; PARLARE/CREDERE/DORMIRE tables"
+    }
+  },
+  {
+    "point_id": "GR-B2-congiuntivo-triggers",
+    "cefr_level": "B2",
+    "topic": "Congiuntivo triggers (opinion, doubt, emotion, conjunctions)",
+    "rule": "The congiuntivo is required in a subordinate 'che' clause after verbs/expressions of opinion, doubt, desire, or emotion, and after many subordinating conjunctions (benché, affinché, prima che, a meno che); verbs of certainty (sapere che, essere sicuro che) instead keep the indicativo.",
+    "pattern": "credo/penso/spero/voglio/è possibile + che + congiuntivo; benché + congiuntivo: Benché piova, usciamo.",
+    "example_pairs": [
+      [
+        "Credo che sia tardi.",
+        "I think it's late."
+      ],
+      [
+        "Usciamo benché faccia freddo.",
+        "We're going out even though it's cold."
+      ]
+    ],
+    "common_l1_error": "Learners apply the indicativo after opinion verbs the way English does ('I think it is'), and don't realize certainty verbs like 'sapere che' actually block the subjunctive.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Subjunctive mood (Congiuntivo)"
+    }
+  },
+  {
+    "point_id": "GR-B2-congiuntivo-imperfetto",
+    "cefr_level": "B2",
+    "topic": "Congiuntivo imperfetto (sequence of tenses; hypotheticals)",
+    "rule": "The congiuntivo imperfetto is used in a 'che' clause when the main-clause verb is in a past or conditional tense, and — unusually — after 'se' in hypothetical sentences about the present or future.",
+    "pattern": "stem + -assi/-assi/-asse/-assimo/-aste/-assero (-are) or -essi/-esse... (-ere/-ire): Volevo che tu venissi.",
+    "example_pairs": [
+      [
+        "Pensavo che fosse più tardi.",
+        "I thought it was later."
+      ],
+      [
+        "Se avessi tempo, verrei.",
+        "If I had time, I would come."
+      ]
+    ],
+    "common_l1_error": "Learners keep the congiuntivo presente even when the main verb is past tense, missing the backshift into congiuntivo imperfetto required by Italian's sequence-of-tenses rule.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Subjunctive mood, Imperfetto; consecutio temporum"
+    }
+  },
+  {
+    "point_id": "GR-B2-congiuntivo-composto",
+    "cefr_level": "B2",
+    "topic": "Compound subjunctive tenses (passato/trapassato)",
+    "rule": "The compound subjunctive tenses use avere/essere in the congiuntivo presente or imperfetto plus the past participle, marking a completed action relative to the main clause, under the same trigger rules as the simple subjunctive.",
+    "pattern": "congiuntivo passato: avere/essere (cong. presente) + participio — che tu abbia finito; congiuntivo trapassato: avere/essere (cong. imperfetto) + participio — che tu avessi finito.",
+    "example_pairs": [
+      [
+        "Spero che abbiate mangiato bene.",
+        "I hope you ate well."
+      ],
+      [
+        "Pensavo che fosse già partita.",
+        "I thought she had already left."
+      ]
+    ],
+    "common_l1_error": "Learners substitute the indicativo compound past (passato prossimo/trapassato prossimo) inside a subjunctive-triggering clause, forgetting that the auxiliary itself must also switch into the subjunctive.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Subjunctive mood, Passato/Trapassato"
+    }
+  },
+  {
+    "point_id": "GR-B2-condizionale-composto",
+    "cefr_level": "B2",
+    "topic": "Condizionale passato (would have; future-in-the-past)",
+    "rule": "The condizionale passato (avere/essere in condizionale presente + past participle) expresses 'would have' for a hypothetical or unrealized past action, and is also required — not the simple future — to report a future action from the point of view of a past-tense main verb ('future-in-the-past').",
+    "pattern": "avere/essere (condizionale) + participio: avrei parlato (I would have spoken); reported future-in-past: Ha detto che sarebbe venuto (He said he would come).",
+    "example_pairs": [
+      [
+        "Avrei voluto vederti.",
+        "I would have liked to see you."
+      ],
+      [
+        "Sapevo che avrebbe vinto.",
+        "I knew he/she would win."
+      ]
+    ],
+    "common_l1_error": "Learners use the simple condizionale presente for a 'future seen from the past' since English keeps 'would' unmarked for aspect, missing that the compound form is expected once the future is fully backshifted.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Conditional mood, Passato"
+    }
+  },
+  {
+    "point_id": "GR-B2-passive-voice",
+    "cefr_level": "B2",
+    "topic": "Passive voice (essere/venire + participle)",
+    "rule": "The passive voice is formed with essere (in any tense) plus the past participle, which agrees with the grammatical subject; venire can replace essere in simple tenses for a more dynamic or literary passive, but never in compound tenses.",
+    "pattern": "essere/venire (tense) + participio passato (agrees): La lettera è scritta da Maria. / La lettera viene scritta da Maria.",
+    "example_pairs": [
+      [
+        "Il pane viene fatto ogni mattina.",
+        "The bread is made every morning."
+      ],
+      [
+        "I documenti sono stati firmati.",
+        "The documents have been signed."
+      ]
+    ],
+    "common_l1_error": "Learners try to use 'venire' in compound tenses by analogy with essere, wrongly producing 'è venuto scritto', when venire as a passive auxiliary is restricted to simple tenses only.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Auxiliary verbs for compound tenses (participle agreement, extended to passive essere)"
+    }
+  },
+  {
+    "point_id": "GR-B2-si-passivante",
+    "cefr_level": "B2",
+    "topic": "Si passivante (passive-like si construction)",
+    "rule": "'Si' plus a transitive verb in the 3rd person can form a passive-like construction where the verb agrees with the logical direct object, which functions as the grammatical subject — distinct from si impersonale, used with intransitive/generic statements.",
+    "pattern": "si + verb (agrees with the noun that follows) + noun: Si affittano appartamenti. (Apartments are rented / one rents apartments.)",
+    "example_pairs": [
+      [
+        "Si vende questa casa.",
+        "This house is for sale."
+      ],
+      [
+        "Si accettano carte di credito.",
+        "Credit cards are accepted."
+      ]
+    ],
+    "common_l1_error": "Learners keep the verb singular regardless of the following noun's number, not recognizing that in the si passivante construction the noun after 'si' controls verb agreement like a true subject.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "4. Pronouns (Pronomi) — Reflexive pronouns (extension: passivante 'si')"
+    }
+  },
+  {
+    "point_id": "GR-B2-hypothetical-possible",
+    "cefr_level": "B2",
+    "topic": "Periodo ipotetico: real and unlikely present/future",
+    "rule": "For a hypothetical that is realistic or plausible in the present/future (periodo ipotetico tipo I/II), 'se' pairs with either the presente indicativo (real/likely) or the congiuntivo imperfetto (unlikely/contrary-to-fact present), with the main clause in the futuro/presente or condizionale presente respectively.",
+    "pattern": "type I (real): Se piove, resto a casa. (presente + presente); type II (unlikely): Se piovesse, resterei a casa. (cong. imperfetto + condizionale presente).",
+    "example_pairs": [
+      [
+        "Se ho tempo, ti chiamo.",
+        "If I have time, I'll call you."
+      ],
+      [
+        "Se avessi più soldi, viaggerei di più.",
+        "If I had more money, I would travel more."
+      ]
+    ],
+    "common_l1_error": "Learners mix the congiuntivo with an indicativo main clause or vice versa, wrongly producing 'se avessi tempo, chiamo' instead of correctly matching 'se avessi... chiamerei'.",
+    "suggested_formats": [
+      4,
+      6,
+      8
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Subjunctive/Conditional mood (hypothetical pairing)"
+    }
+  },
+  {
+    "point_id": "GR-B2-hypothetical-impossible",
+    "cefr_level": "B2",
+    "topic": "Periodo ipotetico: impossible/unrealized past",
+    "rule": "For a hypothetical that is impossible or contrary to fact in the past (periodo ipotetico tipo III), 'se' takes the congiuntivo trapassato and the main clause takes the condizionale passato.",
+    "pattern": "se + congiuntivo trapassato, + condizionale passato: Se avessi studiato, avrei passato l'esame.",
+    "example_pairs": [
+      [
+        "Se fossi partito prima, non avrei perso il treno.",
+        "If I had left earlier, I wouldn't have missed the train."
+      ],
+      [
+        "Se avessimo saputo, saremmo venuti.",
+        "If we had known, we would have come."
+      ]
+    ],
+    "common_l1_error": "Learners use the simpler type II pattern (cong. imperfetto + condizionale presente) for clearly past, unrealized events, losing the distinction between an unlikely present and an unrealized past.",
+    "suggested_formats": [
+      4,
+      6,
+      8
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Subjunctive Trapassato / Conditional Passato (hypothetical pairing)"
+    }
+  },
+  {
+    "point_id": "GR-B2-indirect-speech",
+    "cefr_level": "B2",
+    "topic": "Discorso indiretto (reported speech, tense backshift)",
+    "rule": "Reporting someone's words in the past shifts the original tense backward one step in a fixed pattern (presente→imperfetto, passato prossimo→trapassato prossimo, futuro→condizionale passato) and swaps first/second-person pronouns and time words for context-appropriate third-person/relative ones.",
+    "pattern": "'Vengo domani' → Ha detto che sarebbe venuto il giorno dopo. (presente→futuro backshifts to condizionale passato; domani→il giorno dopo).",
+    "example_pairs": [
+      [
+        "'Sono stanco' → Ha detto che era stanco.",
+        "'I'm tired' → He said he was tired."
+      ],
+      [
+        "'Ho finito' → Ha detto che aveva finito.",
+        "'I finished' → He said he had finished."
+      ]
+    ],
+    "common_l1_error": "Learners report speech without backshifting the tense at all, as casual English sometimes allows, producing 'ha detto che è stanco' instead of the required backshifted 'era stanco'.",
+    "suggested_formats": [
+      4,
+      6,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — consecutio temporum (sequence of tenses, applied to reported speech)"
+    }
+  },
+  {
+    "point_id": "GR-B2-gerundio-advanced",
+    "cefr_level": "B2",
+    "topic": "Gerundio for cause/means/concession",
+    "rule": "Beyond the stare + gerundio progressive, a bare gerundio clause can independently express cause, means, or concession (with 'pur/pure' added for concession), functioning like a compact subordinate clause without a conjunction.",
+    "pattern": "gerundio clause = 'by/while/since ___ing': Studiando ogni giorno, ho imparato molto. (cause/means); Pur essendo stanco, ha continuato. (concession, 'even though').",
+    "example_pairs": [
+      [
+        "Camminando, ho visto un vecchio amico.",
+        "While walking, I saw an old friend."
+      ],
+      [
+        "Pur non avendo tempo, mi ha aiutato.",
+        "Even though he/she didn't have time, he/she helped me."
+      ]
+    ],
+    "common_l1_error": "Learners always reach for an explicit conjunction and separate clause the way English usually would ('perché studiava ogni giorno...'), not recognizing the gerundio alone can carry that same causal/concessive meaning more compactly.",
+    "suggested_formats": [
+      6,
+      8,
+      10
+    ],
+    "source": {
+      "title": "italian-grammar-overview.md",
+      "locator": "7. Moods and Tenses — Non-finite forms, Gerundio"
+    }
+  },
+  {
+    "point_id": "GR-B2-imperative-pronouns",
+    "cefr_level": "B2",
+    "topic": "Pronouns attached to irregular imperatives",
+    "rule": "Object/reflexive pronouns attach to the end of informal imperatives (tu, noi, voi) as one word, but precede the formal Lei imperative as usual; with the short irregular tu forms (va', da', di', fa', sta'), the initial consonant of the attached pronoun doubles, except with 'gli'.",
+    "pattern": "tu: Dimmi! (di' + mi, doubled m); Fammi vedere! (fa' + mi); Dagli il libro! (da' + gli, no doubling); Lei: Mi dica!",
+    "example_pairs": [
+      [
+        "Dammi una mano!",
+        "Give me a hand!"
+      ],
+      [
+        "Vacci subito!",
+        "Go there right away!"
+      ]
+    ],
+    "common_l1_error": "Learners forget to double the consonant after the short irregular imperatives, wrongly producing 'dimi' instead of 'dimmi', or attach the pronoun to the formal Lei command instead of placing it before the verb.",
+    "suggested_formats": [
+      8,
+      10,
+      6
+    ],
+    "source": {
+      "title": "regular-verb-conjugation-tables.md",
+      "locator": "DARE/DIRE/FARE/STARE tables — Imperativo forms (va'/da'/di'/fa'/sta')"
+    }
+  }
+]

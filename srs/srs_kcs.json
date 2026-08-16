@@ -1,0 +1,372 @@
+{
+ "applied-gis": {
+  "label": "Applied GIS (planning, health, disaster)",
+  "count": 20,
+  "kind": "concept"
+ },
+ "economic-political-geography": {
+  "label": "Economic, political & urban geography",
+  "count": 174,
+  "kind": "concept"
+ },
+ "area:applied-gis": {
+  "label": "Applied GIS",
+  "count": 200,
+  "kind": "area"
+ },
+ "data-models": {
+  "label": "Vector & raster data models",
+  "count": 201,
+  "kind": "concept"
+ },
+ "surface-interpolation": {
+  "label": "Surfaces, DEM & interpolation",
+  "count": 272,
+  "kind": "concept"
+ },
+ "overlay-analysis": {
+  "label": "Overlay & vector operations",
+  "count": 122,
+  "kind": "concept"
+ },
+ "cartographic-design": {
+  "label": "Cartographic design",
+  "count": 207,
+  "kind": "concept"
+ },
+ "image-classification": {
+  "label": "Image classification & change detection",
+  "count": 278,
+  "kind": "concept"
+ },
+ "map-algebra": {
+  "label": "Map algebra & raster analysis",
+  "count": 22,
+  "kind": "concept"
+ },
+ "spatial-query": {
+  "label": "Spatial & attribute queries",
+  "count": 136,
+  "kind": "concept"
+ },
+ "map-projections": {
+  "label": "Map projections",
+  "count": 149,
+  "kind": "concept"
+ },
+ "topology": {
+  "label": "Topology & spatial relationships",
+  "count": 87,
+  "kind": "concept"
+ },
+ "coordinate-systems": {
+  "label": "Coordinate reference systems",
+  "count": 82,
+  "kind": "concept"
+ },
+ "descriptive-statistics": {
+  "label": "Descriptive statistics",
+  "count": 12,
+  "kind": "concept"
+ },
+ "population-demography": {
+  "label": "Population & demography",
+  "count": 114,
+  "kind": "concept"
+ },
+ "data-acquisition": {
+  "label": "Field & automated data acquisition",
+  "count": 58,
+  "kind": "concept"
+ },
+ "data-quality": {
+  "label": "Data quality & uncertainty",
+  "count": 175,
+  "kind": "concept"
+ },
+ "spatial-statistics": {
+  "label": "Spatial statistics",
+  "count": 41,
+  "kind": "concept"
+ },
+ "scripting-automation": {
+  "label": "Scripting & automation",
+  "count": 49,
+  "kind": "concept"
+ },
+ "metadata-standards": {
+  "label": "Metadata & standards",
+  "count": 147,
+  "kind": "concept"
+ },
+ "resolution-scale": {
+  "label": "Resolution & scale",
+  "count": 91,
+  "kind": "concept"
+ },
+ "database-design": {
+  "label": "Database design & management",
+  "count": 140,
+  "kind": "concept"
+ },
+ "natural-hazards": {
+  "label": "Natural hazards",
+  "count": 90,
+  "kind": "concept"
+ },
+ "remote-sensing-fundamentals": {
+  "label": "Remote sensing fundamentals",
+  "count": 222,
+  "kind": "concept"
+ },
+ "hydrology-water": {
+  "label": "Hydrology & water",
+  "count": 86,
+  "kind": "concept"
+ },
+ "vgi-crowdsourcing": {
+  "label": "VGI, crowdsourcing & open data",
+  "count": 85,
+  "kind": "concept"
+ },
+ "network-analysis": {
+  "label": "Network analysis & routing",
+  "count": 50,
+  "kind": "concept"
+ },
+ "data-integration": {
+  "label": "Data integration & conflation",
+  "count": 71,
+  "kind": "concept"
+ },
+ "uav-drone": {
+  "label": "UAV / drone remote sensing",
+  "count": 38,
+  "kind": "concept"
+ },
+ "biogeography-soils": {
+  "label": "Biogeography, soils & ecosystems",
+  "count": 137,
+  "kind": "concept"
+ },
+ "webgis-architecture": {
+  "label": "Web GIS architecture",
+  "count": 79,
+  "kind": "concept"
+ },
+ "area:cartography": {
+  "label": "Cartography",
+  "count": 300,
+  "kind": "area"
+ },
+ "culture-society": {
+  "label": "Culture, language & religion",
+  "count": 198,
+  "kind": "concept"
+ },
+ "data-security-privacy": {
+  "label": "Data security & location privacy",
+  "count": 85,
+  "kind": "concept"
+ },
+ "ethics-certification": {
+  "label": "Ethics, professional practice & certification",
+  "count": 95,
+  "kind": "concept"
+ },
+ "temporal-data": {
+  "label": "Temporal & spatiotemporal data",
+  "count": 59,
+  "kind": "concept"
+ },
+ "geoai-ml": {
+  "label": "GeoAI & machine learning",
+  "count": 164,
+  "kind": "concept"
+ },
+ "knowledge-graphs": {
+  "label": "Knowledge graphs & semantics",
+  "count": 30,
+  "kind": "concept"
+ },
+ "file-formats": {
+  "label": "Spatial file formats & conversion",
+  "count": 51,
+  "kind": "concept"
+ },
+ "trajectory-mobility": {
+  "label": "Trajectory & mobility data",
+  "count": 32,
+  "kind": "concept"
+ },
+ "lidar-photogrammetry": {
+  "label": "LiDAR, point clouds & photogrammetry",
+  "count": 113,
+  "kind": "concept"
+ },
+ "systems-architecture": {
+  "label": "Systems design & cloud",
+  "count": 97,
+  "kind": "concept"
+ },
+ "geovisualization": {
+  "label": "Geovisualization & 3D",
+  "count": 19,
+  "kind": "concept"
+ },
+ "geodesy-datums": {
+  "label": "Datums, geoid & ellipsoid",
+  "count": 60,
+  "kind": "concept"
+ },
+ "area:conceptual-foundations": {
+  "label": "Conceptual Foundations",
+  "count": 199,
+  "kind": "area"
+ },
+ "georeferencing": {
+  "label": "Georeferencing & transformation",
+  "count": 40,
+  "kind": "concept"
+ },
+ "earth-geometry": {
+  "label": "Earth geometry & geomatics",
+  "count": 38,
+  "kind": "concept"
+ },
+ "geology-tectonics": {
+  "label": "Geology & plate tectonics",
+  "count": 216,
+  "kind": "concept"
+ },
+ "area:data-manipulation": {
+  "label": "Data Manipulation",
+  "count": 220,
+  "kind": "area"
+ },
+ "open-source-gis": {
+  "label": "Open-source GIS tools",
+  "count": 109,
+  "kind": "concept"
+ },
+ "calibration-correction": {
+  "label": "Calibration & atmospheric correction",
+  "count": 32,
+  "kind": "concept"
+ },
+ "area:analytical-methods": {
+  "label": "Analytical Methods",
+  "count": 220,
+  "kind": "area"
+ },
+ "web-services": {
+  "label": "Web services & protocols",
+  "count": 98,
+  "kind": "concept"
+ },
+ "area:database-design-and-management": {
+  "label": "Database Design and Management",
+  "count": 199,
+  "kind": "area"
+ },
+ "nosql-bigdata": {
+  "label": "NoSQL & spatial big data",
+  "count": 26,
+  "kind": "concept"
+ },
+ "area:application-development": {
+  "label": "Application Development",
+  "count": 139,
+  "kind": "area"
+ },
+ "atmosphere-climate": {
+  "label": "Atmosphere, weather & climate",
+  "count": 137,
+  "kind": "concept"
+ },
+ "area:systems-design-and-management": {
+  "label": "Systems Design and Management",
+  "count": 140,
+  "kind": "area"
+ },
+ "sar-radar": {
+  "label": "SAR & radar",
+  "count": 139,
+  "kind": "concept"
+ },
+ "area:professional-practice": {
+  "label": "Professional Practice",
+  "count": 157,
+  "kind": "area"
+ },
+ "area:geospatial-data-fundamentals": {
+  "label": "Geospatial Data Fundamentals",
+  "count": 299,
+  "kind": "area"
+ },
+ "area:cartography-and-visualization": {
+  "label": "Cartography and Visualization",
+  "count": 193,
+  "kind": "area"
+ },
+ "area:data-acquisition": {
+  "label": "Data Acquisition",
+  "count": 220,
+  "kind": "area"
+ },
+ "hyperspectral": {
+  "label": "Hyperspectral & spectral unmixing",
+  "count": 50,
+  "kind": "concept"
+ },
+ "area:human-geography": {
+  "label": "Human Geography",
+  "count": 359,
+  "kind": "area"
+ },
+ "regional-geography": {
+  "label": "Regional geography",
+  "count": 249,
+  "kind": "concept"
+ },
+ "landforms-geomorphology": {
+  "label": "Landforms & geomorphology",
+  "count": 143,
+  "kind": "concept"
+ },
+ "area:regional-geography": {
+  "label": "Regional Geography",
+  "count": 239,
+  "kind": "area"
+ },
+ "area:physical-geography": {
+  "label": "Physical Geography",
+  "count": 467,
+  "kind": "area"
+ },
+ "area:earth-science": {
+  "label": "Earth Science",
+  "count": 230,
+  "kind": "area"
+ },
+ "area:remote-sensing": {
+  "label": "Remote Sensing",
+  "count": 697,
+  "kind": "area"
+ },
+ "area:spatial-data-science": {
+  "label": "Spatial Data Science",
+  "count": 125,
+  "kind": "area"
+ },
+ "area:geoai": {
+  "label": "GeoAI",
+  "count": 248,
+  "kind": "area"
+ },
+ "area:open-source-gis": {
+  "label": "Open-Source GIS",
+  "count": 125,
+  "kind": "area"
+ }
+}

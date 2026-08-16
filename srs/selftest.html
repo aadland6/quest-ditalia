@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SRS engine self-test</title>
+  <style>
+    body { font: 14px/1.5 ui-monospace, Menlo, monospace; max-width: 900px; margin: 20px auto; padding: 0 16px; background:#0f1115; color:#d7dbe0; }
+    h1 { font-size: 18px; }
+    .ok { color:#4ade80; } .bad { color:#f87171; } .hdr { color:#93c5fd; margin-top:10px; }
+    #summary { font-size:16px; font-weight:bold; padding:10px; margin:14px 0; border-radius:6px; }
+    pre { white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+  <h1>GIS SRS engine — self-test</h1>
+  <div id="summary">running…</div>
+  <pre id="out"></pre>
+  <script type="module">
+    import { runCore } from './srs-tests.js';
+    import { SRS, MemoryStorage } from '../game/js/srs/srs-engine.js';
+    import { IdbStorage } from '../game/js/srs/idb-storage.js';
+
+    const out = document.getElementById('out');
+    const sum = document.getElementById('summary');
+    const log = (line, ok) => {
+      const div = document.createElement('div');
+      if (line.startsWith('[')) div.className = 'hdr';
+      else if (ok === true) div.className = 'ok';
+      else if (ok === false) div.className = 'bad';
+      div.textContent = line;
+      out.appendChild(div);
+    };
+
+    (async () => {
+      let totalFail = 0, totalPass = 0;
+
+      // (A) core logic with in-memory storage
+      log('=== CORE LOGIC (MemoryStorage) ===');
+      let r = await runCore(log, () => new MemoryStorage());
+      totalPass += r.pass; totalFail += r.fail;
+
+      // (B) same suite backed by real IndexedDB (fresh DB, reset each fresh())
+      log('');
+      log('=== SAME SUITE OVER REAL INDEXEDDB ===');
+      let dbN = 0;
+      const mkIdb = async () => { const s = new IdbStorage('srs-selftest-' + (dbN++)); await s.init(); await s.reset(); return s; };
+      r = await runCore(log, mkIdb);
+      totalPass += r.pass; totalFail += r.fail;
+
+      // (C) IndexedDB persistence across "reload": new SRS over same DB sees prior state
+      log('');
+      log('[8] IndexedDB persists across a simulated reload');
+      const dbName = 'srs-persist-test';
+      { const s0 = new IdbStorage(dbName); await s0.init(); await s0.reset(); }
+      const s1 = new SRS(new IdbStorage(dbName));
+      await s1.init();
+      await s1.enroll([{ id: 'X1', kcs: ['geodesy-datums'], area: 'Conceptual Foundations', scope: 'exam', type: 'A' }], 1_700_000_000_000);
+      await s1.review('X1', true, 1_700_000_000_000);
+      const s2 = new SRS(new IdbStorage(dbName)); // fresh engine, same DB — like a page reload
+      await s2.init();
+      const st = await s2.cardState('X1');
+      const persisted = st && st.seen === 1 && st.streak === 1;
+      log(persisted ? '  ✓ card state survived reopen (seen=1, streak=1)' : '  ✗ FAIL: state not persisted', persisted);
+      persisted ? totalPass++ : totalFail++;
+
+      sum.textContent = (totalFail === 0 ? '✅ ALL PASS' : '❌ FAILURES') + ` — ${totalPass} passed, ${totalFail} failed`;
+      sum.className = '';
+      sum.style.background = totalFail === 0 ? '#0f3d23' : '#3d0f14';
+      sum.style.color = totalFail === 0 ? '#4ade80' : '#f87171';
+      window.__RESULT__ = { pass: totalPass, fail: totalFail };
+    })().catch(e => {
+      sum.textContent = '💥 ERROR: ' + e.message;
+      sum.style.background = '#3d0f14'; sum.style.color = '#f87171';
+      log(String(e.stack || e), false);
+      window.__RESULT__ = { pass: 0, fail: -1, error: String(e) };
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "REA-A1-000003",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'sala da pranzo' — \"La sala da pranzo è bianco.\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"La sala da pranzo è bianco.\" with \"La sala da pranzo è bianca.\"."
+  },
+  {
+    "id": "REA-A1-000039",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'camera da letto' — \"La camera da letto è giallo.\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"La camera da letto è giallo.\" with \"La camera da letto è gialla.\"."
+  },
+  {
+    "id": "REA-A1-000055",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'valigia' — \"con una valigia bianco\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"con una valigia bianco\" with \"con una valigia bianca\"."
+  },
+  {
+    "id": "REA-A1-000084",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'sala da pranzo' — \"La sala da pranzo è bianco.\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"La sala da pranzo è bianco.\" with \"La sala da pranzo è bianca.\"."
+  },
+  {
+    "id": "REA-A1-000092",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'valigia' — \"con una valigia giallo\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"con una valigia giallo\" with \"con una valigia gialla\"."
+  },
+  {
+    "id": "REA-A1-000096",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'camera da letto' — \"La camera da letto è rosso.\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"La camera da letto è rosso.\" with \"La camera da letto è rossa.\"."
+  },
+  {
+    "id": "REA-A1-000099",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'cucina' — \"La cucina è giallo.\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"La cucina è giallo.\" with \"La cucina è gialla.\"."
+  },
+  {
+    "id": "REA-A1-000120",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'valigia' — \"con una valigia rosso\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"con una valigia rosso\" with \"con una valigia rossa\"."
+  },
+  {
+    "id": "REA-A1-000125",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'camera da letto' — \"La camera da letto è giallo.\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"La camera da letto è giallo.\" with \"La camera da letto è gialla.\"."
+  },
+  {
+    "id": "REA-A1-000142",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'cucina' — \"La cucina è rosso.\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"La cucina è rosso.\" with \"La cucina è rossa.\"."
+  },
+  {
+    "id": "REA-A1-000153",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'valigia' — \"con una valigia rosso\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"con una valigia rosso\" with \"con una valigia rossa\"."
+  },
+  {
+    "id": "REA-A1-000154",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'valigia' — \"con una valigia giallo\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"con una valigia giallo\" with \"con una valigia gialla\"."
+  },
+  {
+    "id": "REA-A1-000171",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'valigia' — \"con una valigia giallo\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"con una valigia giallo\" with \"con una valigia gialla\"."
+  },
+  {
+    "id": "REA-A1-000184",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: color adjective does not agree in gender with the feminine noun 'valigia' — \"con una valigia giallo\" (masculine adjective ending -o used with a feminine noun).",
+    "fix": "Replace \"con una valigia giallo\" with \"con una valigia gialla\"."
+  },
+  {
+    "id": "REA-A2-000006",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"hanno deciso di fare leggere\" — 'fare' + bare infinitive here is a causative construction ('to make someone read/cook/sing'), not the intended meaning 'to read/cook/sing'.",
+    "fix": "Replace \"hanno deciso di fare leggere\" with \"hanno deciso di leggere\"."
+  },
+  {
+    "id": "REA-A2-000009",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"hanno deciso di fare leggere\" — 'fare' + bare infinitive here is a causative construction ('to make someone read/cook/sing'), not the intended meaning 'to read/cook/sing'.",
+    "fix": "Replace \"hanno deciso di fare leggere\" with \"hanno deciso di leggere\"."
+  },
+  {
+    "id": "REA-A2-000126",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"hanno deciso di fare cucinare\" — 'fare' + bare infinitive here is a causative construction ('to make someone read/cook/sing'), not the intended meaning 'to read/cook/sing'.",
+    "fix": "Replace \"hanno deciso di fare cucinare\" with \"hanno deciso di cucinare\"."
+  },
+  {
+    "id": "REA-A2-000182",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"hanno deciso di fare cantare\" — 'fare' + bare infinitive here is a causative construction ('to make someone read/cook/sing'), not the intended meaning 'to read/cook/sing'.",
+    "fix": "Replace \"hanno deciso di fare cantare\" with \"hanno deciso di cantare\"."
+  },
+  {
+    "id": "REA-A2-000154",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: (1) \"lo suo zio\" — the article before a possessive+noun agrees with the word immediately following it ('suo', which starts with a consonant), so it must be 'il', not 'lo'; (2) \"hanno deciso di fare leggere\" — 'fare' + bare infinitive is a causative ('to make someone read'), not the intended 'to read'.",
+    "fix": "Replace \"Roberta e lo suo zio\" with \"Roberta e il suo zio\", and \"hanno deciso di fare leggere\" with \"hanno deciso di leggere\"."
+  },
+  {
+    "id": "REA-A2-000113",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"lo suo zio\" — the article before a possessive+noun agrees with the word immediately following it ('suo', consonant-initial), so it must be 'il suo zio', not 'lo suo zio'.",
+    "fix": "Replace \"lo suo zio\" with \"il suo zio\" (both occurrences of 'lo suo zio' in the sentence, keeping the later bare 'lo zio' as is since 'zio' alone correctly takes 'lo')."
+  },
+  {
+    "id": "REA-A2-000158",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"lo suo zio\" — the article before a possessive+noun agrees with the word immediately following it ('suo', consonant-initial), so it must be 'il suo zio', not 'lo suo zio'.",
+    "fix": "Replace \"lo suo zio\" with \"il suo zio\" (both occurrences of 'lo suo zio' in the sentence, keeping the later bare 'lo zio' as is since 'zio' alone correctly takes 'lo')."
+  },
+  {
+    "id": "REA-A2-000174",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"domenica scorso\" — 'domenica' is feminine ('la domenica'), so the modifier must agree: 'domenica scorsa', not 'domenica scorso'.",
+    "fix": "Replace \"domenica scorso\" with \"domenica scorsa\"."
+  },
+  {
+    "id": "REA-A2-000175",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"domenica scorso\" — 'domenica' is feminine ('la domenica'), so the modifier must agree: 'domenica scorsa', not 'domenica scorso'.",
+    "fix": "Replace \"domenica scorso\" with \"domenica scorsa\"."
+  },
+  {
+    "id": "REA-A2-000077",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"Il uccellino\" — the masculine singular article must elide to 'L'' before a vowel-initial noun ('uccellino'); 'Il uccellino' is not valid Italian.",
+    "fix": "Replace \"Il uccellino\" with \"L'uccellino\"."
+  },
+  {
+    "id": "REA-A2-000102",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"Il uccellino\" — the masculine singular article must elide to 'L'' before a vowel-initial noun ('uccellino'); 'Il uccellino' is not valid Italian.",
+    "fix": "Replace \"Il uccellino\" with \"L'uccellino\"."
+  },
+  {
+    "id": "REA-A2-000112",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"Il uccellino\" — the masculine singular article must elide to 'L'' before a vowel-initial noun ('uccellino'); 'Il uccellino' is not valid Italian.",
+    "fix": "Replace \"Il uccellino\" with \"L'uccellino\"."
+  },
+  {
+    "id": "REA-A2-000032",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: (1) \"Il uccellino\" must elide to \"L'uccellino\" before a vowel-initial masculine noun; (2) \"le dà da mangiare\" uses the feminine indirect-object pronoun 'le', but it refers to 'il suo uccellino', which is masculine — it should be 'gli dà da mangiare'.",
+    "fix": "Replace \"Il uccellino\" with \"L'uccellino\", and \"le dà da mangiare\" with \"gli dà da mangiare\"."
+  },
+  {
+    "id": "REA-A2-000048",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"le dà da mangiare\" uses the feminine indirect-object pronoun 'le' (apparently agreeing with the female owner's name), but it should agree with the pet, 'il suo coniglio', which is masculine — it should be 'gli dà da mangiare'.",
+    "fix": "Replace \"le dà da mangiare\" with \"gli dà da mangiare\"."
+  },
+  {
+    "id": "REA-A2-000121",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"le dà da mangiare\" uses the feminine indirect-object pronoun 'le' (apparently agreeing with the female owner's name), but it should agree with the pet, 'il suo criceto', which is masculine — it should be 'gli dà da mangiare'.",
+    "fix": "Replace \"le dà da mangiare\" with \"gli dà da mangiare\"."
+  },
+  {
+    "id": "REA-A2-000124",
+    "severity": "error",
+    "issue": "Ungrammatical Italian in prompt.sentence: \"le dà da mangiare\" uses the feminine indirect-object pronoun 'le' (apparently agreeing with the female owner's name), but it should agree with the pet, 'il suo coniglio', which is masculine — it should be 'gli dà da mangiare'.",
+    "fix": "Replace \"le dà da mangiare\" with \"gli dà da mangiare\"."
+  },
+  {
+    "id": "REA-B1-000011",
+    "severity": "minor",
+    "issue": "Structural inconsistency: this item has only 3 answer options instead of the standard 4 used throughout the rest of the bank, which raises the baseline guessing probability from 25% to 33%. The keyed answer itself is well supported by the passage.",
+    "fix": "Add a fourth plausible distractor option (with a corresponding distractor_rationale) consistent with the passage, to match the 4-option format used elsewhere."
+  },
+  {
+    "id": "REA-B1-000040",
+    "severity": "minor",
+    "issue": "Structural inconsistency: this item has only 3 answer options instead of the standard 4 used throughout the rest of the bank, which raises the baseline guessing probability from 25% to 33%. The keyed answer itself is well supported by the passage.",
+    "fix": "Add a fourth plausible distractor option (with a corresponding distractor_rationale) consistent with the passage, to match the 4-option format used elsewhere."
+  },
+  {
+    "id": "REA-B1-000115",
+    "severity": "minor",
+    "issue": "Structural inconsistency: this item has only 3 answer options instead of the standard 4 used throughout the rest of the bank, which raises the baseline guessing probability from 25% to 33%. The keyed answer itself is well supported by the passage.",
+    "fix": "Add a fourth plausible distractor option (with a corresponding distractor_rationale) consistent with the passage, to match the 4-option format used elsewhere."
+  },
+  {
+    "id": "REA-B1-000133",
+    "severity": "minor",
+    "issue": "Structural inconsistency: this item has only 3 answer options instead of the standard 4 used throughout the rest of the bank, which raises the baseline guessing probability from 25% to 33%. The keyed answer itself is well supported by the passage.",
+    "fix": "Add a fourth plausible distractor option (with a corresponding distractor_rationale) consistent with the passage, to match the 4-option format used elsewhere."
+  },
+  {
+    "id": "REA-B1-000139",
+    "severity": "minor",
+    "issue": "Structural inconsistency: this item has only 3 answer options instead of the standard 4 used throughout the rest of the bank, which raises the baseline guessing probability from 25% to 33%. The keyed answer itself is well supported by the passage.",
+    "fix": "Add a fourth plausible distractor option (with a corresponding distractor_rationale) consistent with the passage, to match the 4-option format used elsewhere."
+  },
+  {
+    "id": "REA-B1-000142",
+    "severity": "minor",
+    "issue": "Structural inconsistency: this item has only 3 answer options instead of the standard 4 used throughout the rest of the bank, which raises the baseline guessing probability from 25% to 33%. The keyed answer itself is well supported by the passage.",
+    "fix": "Add a fourth plausible distractor option (with a corresponding distractor_rationale) consistent with the passage, to match the 4-option format used elsewhere."
+  },
+  {
+    "id": "REA-B1-000147",
+    "severity": "minor",
+    "issue": "Structural inconsistency: this item has only 3 answer options instead of the standard 4 used throughout the rest of the bank, which raises the baseline guessing probability from 25% to 33%. The keyed answer itself is well supported by the passage.",
+    "fix": "Add a fourth plausible distractor option (with a corresponding distractor_rationale) consistent with the passage, to match the 4-option format used elsewhere."
+  },
+  {
+    "id": "REA-B1-000193",
+    "severity": "minor",
+    "issue": "Structural inconsistency: this item has only 3 answer options instead of the standard 4 used throughout the rest of the bank, which raises the baseline guessing probability from 25% to 33%. The keyed answer itself is well supported by the passage.",
+    "fix": "Add a fourth plausible distractor option (with a corresponding distractor_rationale) consistent with the passage, to match the 4-option format used elsewhere."
+  },
+  {
+    "id": "REA-B1-000194",
+    "severity": "minor",
+    "issue": "Structural inconsistency: this item has only 3 answer options instead of the standard 4 used throughout the rest of the bank, which raises the baseline guessing probability from 25% to 33%. The keyed answer itself is well supported by the passage.",
+    "fix": "Add a fourth plausible distractor option (with a corresponding distractor_rationale) consistent with the passage, to match the 4-option format used elsewhere."
+  },
+  {
+    "id": "REA-B1-000044",
+    "severity": "minor",
+    "issue": "Stylistic inconsistency: the passage is a third-person narrative about a named character, but it ends with a first-person editorial aside ('Secondo me, ...') that breaks the narrative voice established in the rest of the text and in the rest of the B1 bank's third-person stories.",
+    "fix": "Rephrase the closing sentence in the third person (e.g. remove 'Secondo me' or attribute the opinion to a character in the story) for narrative-voice consistency, or flag for review if intentional."
+  },
+  {
+    "id": "REA-B1-000060",
+    "severity": "minor",
+    "issue": "Stylistic inconsistency: the passage is a third-person narrative about a named character, but it ends with a first-person editorial aside ('Secondo me, ...') that breaks the narrative voice established in the rest of the text and in the rest of the B1 bank's third-person stories.",
+    "fix": "Rephrase the closing sentence in the third person (e.g. remove 'Secondo me' or attribute the opinion to a character in the story) for narrative-voice consistency, or flag for review if intentional."
+  },
+  {
+    "id": "REA-B1-000153",
+    "severity": "minor",
+    "issue": "Stylistic inconsistency: the passage is a third-person narrative about a named character, but it ends with a first-person editorial aside ('Secondo me, ...') that breaks the narrative voice established in the rest of the text and in the rest of the B1 bank's third-person stories.",
+    "fix": "Rephrase the closing sentence in the third person (e.g. remove 'Secondo me' or attribute the opinion to a character in the story) for narrative-voice consistency, or flag for review if intentional."
+  }
+]

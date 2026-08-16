@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GIS SRS demo</title>
+  <style>
+    :root { --bg:#0f1115; --panel:#171a21; --line:#2a2f3a; --fg:#e6e9ee; --dim:#9aa4b2; --accent:#60a5fa; --good:#4ade80; --bad:#f87171; --bin:#f59e0b; --bay:#a78bfa; }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--bg); color:var(--fg); font:15px/1.5 -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif; }
+    header { display:flex; flex-wrap:wrap; gap:10px 18px; align-items:center; padding:10px 16px; background:var(--panel); border-bottom:1px solid var(--line); position:sticky; top:0; z-index:2; }
+    header .stat b { color:var(--accent); } header .stat { color:var(--dim); font-size:13px; }
+    button { background:#222834; color:var(--fg); border:1px solid var(--line); border-radius:7px; padding:7px 12px; cursor:pointer; font-size:14px; }
+    button:hover { border-color:var(--accent); } button.primary { background:var(--accent); color:#0b1020; border-color:var(--accent); font-weight:600; }
+    .wrap { display:grid; grid-template-columns: 1fr 340px; gap:16px; max-width:1100px; margin:16px auto; padding:0 16px; }
+    @media (max-width:820px){ .wrap { grid-template-columns:1fr; } }
+    .card { background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:18px; }
+    .tags { color:var(--dim); font-size:12px; margin-bottom:8px; }
+    .stem { font-size:17px; font-weight:600; margin:6px 0 14px; }
+    .opt { display:block; width:100%; text-align:left; margin:7px 0; padding:11px 13px; border-radius:9px; border:1px solid var(--line); background:#1c212b; }
+    .opt.sel { border-color:var(--accent); background:#1e2a3d; }
+    .opt.correct { border-color:var(--good); background:#12301f; }
+    .opt.wrong { border-color:var(--bad); background:#30141a; }
+    .reason { margin-top:12px; padding-top:10px; border-top:1px dashed var(--line); }
+    .fb { margin-top:14px; padding:12px; border-radius:9px; background:#12161d; border:1px solid var(--line); }
+    .fb.correct { border-color:var(--good); } .fb.wrong { border-color:var(--bad); }
+    .pill { display:inline-block; padding:2px 8px; border-radius:20px; font-size:12px; font-weight:600; }
+    .pill.binary { background:#3a2a0a; color:var(--bin); } .pill.bayesian { background:#241a3a; color:var(--bay); }
+    .side h3 { font-size:13px; text-transform:uppercase; letter-spacing:.04em; color:var(--dim); margin:0 0 8px; }
+    .kc { margin:6px 0; font-size:13px; }
+    .kc .lab { display:flex; justify-content:space-between; }
+    .bar { height:7px; border-radius:5px; background:#222834; overflow:hidden; margin-top:3px; }
+    .bar > i { display:block; height:100%; background:linear-gradient(90deg,#f87171,#f59e0b,#4ade80); }
+    .due { display:flex; gap:10px; font-size:12px; color:var(--dim); margin-top:6px; }
+    .due b.binary { color:var(--bin); } .due b.bayesian { color:var(--bay); }
+    .muted { color:var(--dim); font-size:13px; } code { color:#c7d2fe; }
+    select { background:#1c212b; color:var(--fg); border:1px solid var(--line); border-radius:6px; padding:4px 6px; }
+    .chip { display:flex; justify-content:space-between; align-items:center; gap:8px; margin:6px 0; padding:8px 10px; border:1px solid var(--line); border-radius:8px; background:#1c212b; }
+    .row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+  </style>
+</head>
+<body>
+  <header>
+    <strong style="color:var(--accent)">GIS SRS</strong>
+    <span class="stat">clock <b id="clock">—</b></span>
+    <span class="stat">due <b id="dueN">—</b></span>
+    <span class="stat">new <b id="newN">—</b></span>
+    <span class="stat">avg mastery <b id="avgM">—</b></span>
+    <span style="flex:1"></span>
+    <div class="row">
+      <select id="mode" title="how new cards are chosen">
+        <option value="adaptive">new: adaptive</option>
+        <option value="random">new: random</option>
+        <option value="topic">new: by topic</option>
+      </select>
+      <select id="topic" title="topic area (used in 'by topic' mode)" style="display:none"></select>
+      <button id="btnDue">Next due</button>
+      <button id="btnNew" class="primary">New card</button>
+      <button id="btnJumpH">+6h</button>
+      <button id="btnJumpD">+1d</button>
+      <button id="btnReset" title="wipe IndexedDB state">reset</button>
+    </div>
+  </header>
+
+  <div class="wrap">
+    <div>
+      <div class="card" id="qcard"><div class="muted">Loading question bank…</div></div>
+    </div>
+    <div class="side">
+      <div class="card" style="margin-bottom:16px">
+        <h3>This card's knowledge components</h3>
+        <div id="cardKcs" class="muted">—</div>
+        <div class="due" id="cardDue"></div>
+      </div>
+      <div class="card" style="margin-bottom:16px">
+        <h3>Areas needing study (Bayesian)</h3>
+        <div id="needPanel" class="muted">Answer questions to build a targeting signal…</div>
+      </div>
+      <div class="card">
+        <h3>Topic mastery (live)</h3>
+        <div id="kcPanel" class="muted">—</div>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

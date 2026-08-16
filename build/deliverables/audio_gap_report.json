@@ -1,0 +1,1002 @@
+{
+ "count": 166,
+ "note": "no free native clip on Commons; app uses it-IT Web Speech TTS at runtime",
+ "items": [
+  {
+   "lemma": "braccialetto",
+   "category": "abbigliamento",
+   "record_text": "il braccialetto",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "calzino",
+   "category": "abbigliamento",
+   "record_text": "il calzino",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "collana",
+   "category": "abbigliamento",
+   "record_text": "la collana",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "indossare",
+   "category": "abbigliamento",
+   "record_text": "indossare",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "mutande",
+   "category": "abbigliamento",
+   "record_text": "le mutande",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "pantofola",
+   "category": "abbigliamento",
+   "record_text": "la pantofola",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "reggiseno",
+   "category": "abbigliamento",
+   "record_text": "il reggiseno",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "vestirsi",
+   "category": "abbigliamento",
+   "record_text": "vestirsi",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "attacco",
+   "category": "astratto_societa",
+   "record_text": "l' attacco",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "droga",
+   "category": "astratto_societa",
+   "record_text": "la droga",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "famoso",
+   "category": "astratto_societa",
+   "record_text": "famoso",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "liberta",
+   "category": "astratto_societa",
+   "record_text": "la libertà",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "omicidio",
+   "category": "astratto_societa",
+   "record_text": "l' omicidio",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "pistola",
+   "category": "astratto_societa",
+   "record_text": "la pistola",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "relazione",
+   "category": "astratto_societa",
+   "record_text": "la relazione",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "verita",
+   "category": "astratto_societa",
+   "record_text": "la verità",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "appunto",
+   "category": "casa",
+   "record_text": "l' appunto",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "armadietto",
+   "category": "casa",
+   "record_text": "l' armadietto",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "asciugatrice",
+   "category": "casa",
+   "record_text": "l' asciugatrice",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "aspirapolvere",
+   "category": "casa",
+   "record_text": "l' aspirapolvere",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "attrezzo",
+   "category": "casa",
+   "record_text": "l' attrezzo",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "barattolo",
+   "category": "casa",
+   "record_text": "il barattolo",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "camera-da-letto",
+   "category": "casa",
+   "record_text": "la camera da letto",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "caminetto",
+   "category": "casa",
+   "record_text": "il caminetto",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "campanello",
+   "category": "casa",
+   "record_text": "il campanello",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "cassettiera",
+   "category": "casa",
+   "record_text": "la cassettiera",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "cesto",
+   "category": "casa",
+   "record_text": "il cesto",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "comodino",
+   "category": "casa",
+   "record_text": "il comodino",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "coperta",
+   "category": "casa",
+   "record_text": "la coperta",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "cortile",
+   "category": "casa",
+   "record_text": "il cortile",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "ferro-da-stiro",
+   "category": "casa",
+   "record_text": "il ferro da stiro",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "fotocamera",
+   "category": "casa",
+   "record_text": "la fotocamera",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "gabinetto",
+   "category": "casa",
+   "record_text": "il gabinetto",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "gruccia",
+   "category": "casa",
+   "record_text": "la gruccia",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "ingresso",
+   "category": "casa",
+   "record_text": "l' ingresso",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "lampadina",
+   "category": "casa",
+   "record_text": "la lampadina",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "portatile",
+   "category": "casa",
+   "record_text": "il portatile",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "portone",
+   "category": "casa",
+   "record_text": "il portone",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "presa",
+   "category": "casa",
+   "record_text": "la presa",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "ripostiglio",
+   "category": "casa",
+   "record_text": "il ripostiglio",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "soffitta",
+   "category": "casa",
+   "record_text": "la soffitta",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "spazzatura",
+   "category": "casa",
+   "record_text": "la spazzatura",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "sveglia",
+   "category": "casa",
+   "record_text": "la sveglia",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "termosifone",
+   "category": "casa",
+   "record_text": "il termosifone",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "vasca-da-bagno",
+   "category": "casa",
+   "record_text": "la vasca da bagno",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "ventilatore",
+   "category": "casa",
+   "record_text": "il ventilatore",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "veranda",
+   "category": "casa",
+   "record_text": "la veranda",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "vernice",
+   "category": "casa",
+   "record_text": "la vernice",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "circolo",
+   "category": "citta_trasporti",
+   "record_text": "il circolo",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "cittadina",
+   "category": "citta_trasporti",
+   "record_text": "la cittadina",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "giu",
+   "category": "citta_trasporti",
+   "record_text": "giù",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "gomma",
+   "category": "citta_trasporti",
+   "record_text": "la gomma",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "incrocio",
+   "category": "citta_trasporti",
+   "record_text": "l' incrocio",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "panetteria",
+   "category": "citta_trasporti",
+   "record_text": "la panetteria",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "stadio",
+   "category": "citta_trasporti",
+   "record_text": "lo stadio",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "terreno",
+   "category": "citta_trasporti",
+   "record_text": "il terreno",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "trasporto",
+   "category": "citta_trasporti",
+   "record_text": "il trasporto",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "guarire",
+   "category": "corpo_salute",
+   "record_text": "guarire",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "respiro",
+   "category": "corpo_salute",
+   "record_text": "il respiro",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "sentirsi",
+   "category": "corpo_salute",
+   "record_text": "sentirsi",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "sintomo",
+   "category": "corpo_salute",
+   "record_text": "il sintomo",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "vena",
+   "category": "corpo_salute",
+   "record_text": "la vena",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "apriscatole",
+   "category": "cucina",
+   "record_text": "l' apriscatole",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "bollitore",
+   "category": "cucina",
+   "record_text": "il bollitore",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "broccolo",
+   "category": "cucina",
+   "record_text": "il broccolo",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "brodo",
+   "category": "cucina",
+   "record_text": "il brodo",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "cioccolata-calda",
+   "category": "cucina",
+   "record_text": "la cioccolata calda",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "ciotola",
+   "category": "cucina",
+   "record_text": "la ciotola",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "colino",
+   "category": "cucina",
+   "record_text": "il colino",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "condimento",
+   "category": "cucina",
+   "record_text": "il condimento",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "coperchio",
+   "category": "cucina",
+   "record_text": "il coperchio",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "fornello",
+   "category": "cucina",
+   "record_text": "il fornello",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "frullatore",
+   "category": "cucina",
+   "record_text": "il frullatore",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "gambero",
+   "category": "cucina",
+   "record_text": "il gambero",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "grattugia",
+   "category": "cucina",
+   "record_text": "la grattugia",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "macchina-del-caffe",
+   "category": "cucina",
+   "record_text": "la macchina del caffè",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "maionese",
+   "category": "cucina",
+   "record_text": "la maionese",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "mestolo",
+   "category": "cucina",
+   "record_text": "il mestolo",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "microonde",
+   "category": "cucina",
+   "record_text": "il microonde",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "pentola",
+   "category": "cucina",
+   "record_text": "la pentola",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "spezia",
+   "category": "cucina",
+   "record_text": "la spezia",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "spinaci",
+   "category": "cucina",
+   "record_text": "gli spinaci",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "tagliere",
+   "category": "cucina",
+   "record_text": "il tagliere",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "teglia",
+   "category": "cucina",
+   "record_text": "la teglia",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "tostapane",
+   "category": "cucina",
+   "record_text": "il tostapane",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "tovagliolo",
+   "category": "cucina",
+   "record_text": "il tovagliolo",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "vassoio",
+   "category": "cucina",
+   "record_text": "il vassoio",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "zucchero",
+   "category": "cucina",
+   "record_text": "lo zucchero",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "adulto",
+   "category": "famiglia_persone",
+   "record_text": "l' adulto",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "atleta",
+   "category": "famiglia_persone",
+   "record_text": "l' atleta",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "cameriera",
+   "category": "famiglia_persone",
+   "record_text": "la cameriera",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "commesso",
+   "category": "famiglia_persone",
+   "record_text": "il commesso",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "dottoressa",
+   "category": "famiglia_persone",
+   "record_text": "la dottoressa",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "fidanzata",
+   "category": "famiglia_persone",
+   "record_text": "la fidanzata",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "infermiera",
+   "category": "famiglia_persone",
+   "record_text": "l' infermiera",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "manager",
+   "category": "famiglia_persone",
+   "record_text": "il manager",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "neonato",
+   "category": "famiglia_persone",
+   "record_text": "il neonato",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "operaio",
+   "category": "famiglia_persone",
+   "record_text": "l' operaio",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "pilota",
+   "category": "famiglia_persone",
+   "record_text": "il pilota",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "pompiere",
+   "category": "famiglia_persone",
+   "record_text": "il pompiere",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "principe",
+   "category": "famiglia_persone",
+   "record_text": "il principe",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "segretaria",
+   "category": "famiglia_persone",
+   "record_text": "la segretaria",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "tifoso",
+   "category": "famiglia_persone",
+   "record_text": "il tifoso",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "vedova",
+   "category": "famiglia_persone",
+   "record_text": "la vedova",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "vicina",
+   "category": "famiglia_persone",
+   "record_text": "la vicina",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "asma",
+   "category": "fonologia",
+   "record_text": "asma",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "camino",
+   "category": "fonologia",
+   "record_text": "camino",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "cammino",
+   "category": "fonologia",
+   "record_text": "cammino",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "carro",
+   "category": "fonologia",
+   "record_text": "carro",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "dita",
+   "category": "fonologia",
+   "record_text": "dita",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "e",
+   "category": "fonologia",
+   "record_text": "e",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "fato",
+   "category": "fonologia",
+   "record_text": "fato",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "fili",
+   "category": "fonologia",
+   "record_text": "fili",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "fummo",
+   "category": "fonologia",
+   "record_text": "fummo",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "meta",
+   "category": "fonologia",
+   "record_text": "meta",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "note",
+   "category": "fonologia",
+   "record_text": "note",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "peschi",
+   "category": "fonologia",
+   "record_text": "peschi",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "pesci",
+   "category": "fonologia",
+   "record_text": "pesci",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "principi",
+   "category": "fonologia",
+   "record_text": "principi",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "rango",
+   "category": "fonologia",
+   "record_text": "rango",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "rossa",
+   "category": "fonologia",
+   "record_text": "rossa",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "sanno",
+   "category": "fonologia",
+   "record_text": "sanno",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "scena",
+   "category": "fonologia",
+   "record_text": "scena",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "schema",
+   "category": "fonologia",
+   "record_text": "schema",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "serra",
+   "category": "fonologia",
+   "record_text": "serra",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "caffe",
+   "category": "grammatica",
+   "record_text": "caffè",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "citta",
+   "category": "grammatica",
+   "record_text": "città",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "gnomo",
+   "category": "grammatica",
+   "record_text": "lo gnomo",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "nuova",
+   "category": "grammatica",
+   "record_text": "nuova",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "piccole",
+   "category": "grammatica",
+   "record_text": "piccole",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "rosse",
+   "category": "grammatica",
+   "record_text": "rosse",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "aula",
+   "category": "lavoro_scuola",
+   "record_text": "l' aula",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "azienda",
+   "category": "lavoro_scuola",
+   "record_text": "l' azienda",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "laurea",
+   "category": "lavoro_scuola",
+   "record_text": "la laurea",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "materia",
+   "category": "lavoro_scuola",
+   "record_text": "la materia",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "musica",
+   "category": "lavoro_scuola",
+   "record_text": "la musica",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "pennarello",
+   "category": "lavoro_scuola",
+   "record_text": "il pennarello",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "righello",
+   "category": "lavoro_scuola",
+   "record_text": "il righello",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "segretario",
+   "category": "lavoro_scuola",
+   "record_text": "il segretario",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "universita",
+   "category": "lavoro_scuola",
+   "record_text": "l' università",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "voto",
+   "category": "lavoro_scuola",
+   "record_text": "il voto",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "temporale",
+   "category": "natura_animali",
+   "record_text": "il temporale",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "chiave-inglese",
+   "category": "strumenti_lavoro",
+   "record_text": "la chiave inglese",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "pennello",
+   "category": "strumenti_lavoro",
+   "record_text": "il pennello",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "centimetro",
+   "category": "tempo_numeri",
+   "record_text": "il centimetro",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "centodieci",
+   "category": "tempo_numeri",
+   "record_text": "centodieci",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "centodue",
+   "category": "tempo_numeri",
+   "record_text": "centodue",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "centomila",
+   "category": "tempo_numeri",
+   "record_text": "centomila",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "centoundici",
+   "category": "tempo_numeri",
+   "record_text": "centoundici",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "centouno",
+   "category": "tempo_numeri",
+   "record_text": "centouno",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "diecimila",
+   "category": "tempo_numeri",
+   "record_text": "diecimila",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "giovedi",
+   "category": "tempo_numeri",
+   "record_text": "il giovedì",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "libbra",
+   "category": "tempo_numeri",
+   "record_text": "la libbra",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "lunedi",
+   "category": "tempo_numeri",
+   "record_text": "il lunedì",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "martedi",
+   "category": "tempo_numeri",
+   "record_text": "il martedì",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "mercoledi",
+   "category": "tempo_numeri",
+   "record_text": "il mercoledì",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "miliardo",
+   "category": "tempo_numeri",
+   "record_text": "il miliardo",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "milleuno",
+   "category": "tempo_numeri",
+   "record_text": "milleuno",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "quadrato",
+   "category": "tempo_numeri",
+   "record_text": "il quadrato",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "venerdi",
+   "category": "tempo_numeri",
+   "record_text": "il venerdì",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "diventare",
+   "category": "verbi_comuni",
+   "record_text": "diventare",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "rilassarsi",
+   "category": "verbi_comuni",
+   "record_text": "rilassarsi",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "sedersi",
+   "category": "verbi_comuni",
+   "record_text": "sedersi",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "servire",
+   "category": "verbi_comuni",
+   "record_text": "servire",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "sollevare",
+   "category": "verbi_comuni",
+   "record_text": "sollevare",
+   "fallback": "runtime_tts_it-IT"
+  },
+  {
+   "lemma": "sposarsi",
+   "category": "verbi_comuni",
+   "record_text": "sposarsi",
+   "fallback": "runtime_tts_it-IT"
+  }
+ ]
+}
