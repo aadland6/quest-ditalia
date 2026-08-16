@@ -43,10 +43,16 @@ def content_area(domain: str, level: str) -> str:
     return f"{label} {level}"
 
 
+# Formats excluded from the game (7 = letter-tile spelling; cut by design).
+EXCLUDED_FORMATS = {7}
+
+
 def load_app_items():
     items = []
     for lv in ["A1", "A2", "B1", "B2"]:
         for it in json.loads((APP / "data" / f"bank_{lv}.json").read_text()):
+            if it["format"] in EXCLUDED_FORMATS:
+                continue
             it = dict(it)
             it["content_area"] = content_area(it["domain"], it["cefr_level"])
             items.append(it)

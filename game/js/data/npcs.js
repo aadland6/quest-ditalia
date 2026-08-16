@@ -101,7 +101,7 @@ export const NPCS = [
     id: 'ghost', name: 'Lo Studioso Pallido', x: 12, y: 24, radius: 2, kind: 'ghost',
     lines: [
       'Uuuh… chi non ripassa ciò che ha imparato è condannato a dimenticarlo…',
-      'Morii con settemiladuecentotrentaquattro carte mai viste. Non fare come me.',
+      'Morii con seimilacentoquarantatré carte mai viste. Non fare come me.',
       'Il congiuntivo… se solo l’avessi studiato quando ne avevo il tempo…',
       'Persino la morte non è che un intervallo di ripasso molto, molto lungo.',
     ],

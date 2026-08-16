@@ -186,6 +186,19 @@ export async function runCore(log, mkStorage = () => new MemoryStorage()) {
     const fresh1 = await s.kcState('conj-congiuntivo');
     ok(fresh1 && fresh1.pL < DEFAULTS.bkt.pInit, `unknown KC is created and updated on first drill`);
 
+    // prune: retired cards are removed, survivors and KC mastery untouched
+    {
+      const sp = await fresh();
+      await sp.review('D1', true, t0);
+      const kcBefore = (await sp.kcState('geodesy-datums')).pL;
+      const n = await sp.prune(new Set(['D1', 'P1']), t0 + 1000);
+      ok(n === 4, `prune removes stale cards (${n} of 6 removed)`);
+      ok((await sp.s.getAllCards()).length === 2 && (await sp.s.getCard('D1')).seen === 1,
+        `survivors keep their state after prune`);
+      ok((await sp.kcState('geodesy-datums')).pL === kcBefore, `KC mastery survives prune`);
+      ok((await sp.prune(new Set(['D1', 'P1']))) === 0, `prune is idempotent`);
+    }
+
     // a wrong drill pulls sibling cards' bayesian due time sooner
     const s2 = await fresh();
     await s2.review('D1', true, t0);                        // graduate D1 (~1d binary due)

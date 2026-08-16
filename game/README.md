@@ -10,10 +10,11 @@ spirit, per-device IndexedDB saves.
 
 ## Content
 
-- **7,234 authored items** (A1–B2) merged from two banks: the Impara trainer bank
-  (5,011 items, 10 formats: flashcards, emoji MC, cloze, gender sort, error
-  correction, letter-tile spelling, sentence building, reading, transformation,
-  matching pairs) and the Muraverde bank (2,223 exam-style items).
+- **6,143 authored items** (A1–B2) merged from two banks: the Impara trainer bank
+  (formats: flashcards, emoji MC, cloze, gender sort, error correction,
+  sentence building, reading, transformation, matching pairs — letter-tile
+  spelling items are excluded by design) and the Muraverde bank (2,223
+  exam-style items).
 - **Native audio** for hundreds of vocabulary items (LinguaLibre/Wikimedia CC0,
   see `media/audio/ATTRIBUTIONS.md`), with it-IT speech-synthesis fallback.
 - **Conjugation drills**: a procedural engine (62 verbs × 12 tenses) generates
@@ -44,7 +45,7 @@ state). Reset from Settings.
 python3 ../serve.py          # from the repo root → http://localhost:8137/game/
 ```
 
-- SRS regression tests: open `/srs/selftest.html` (77 assertions incl. IndexedDB).
+- SRS regression tests: open `/srs/selftest.html` (85 assertions incl. IndexedDB).
 - Content pipeline (rerun after editing banks):
   1. `python3 ../build/wire_audio.py` — wire native clips into the app bank
   2. `python3 tools/build_bank.py` — merge banks → `question_bank/italian_bank.json`, copy audio

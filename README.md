@@ -5,7 +5,7 @@
 **[`game/`](game/) is the main event**: a RuneScape-inspired 3D study RPG where every
 game action — mining, combat, crafting, farming — asks one Italian question chosen by a
 dual spaced-repetition scheduler (FSRS-lite per card + Bayesian Knowledge Tracing across
-67 shared concepts). It merges the 7,234-item bank (this corpus + the Muraverde bank),
+67 shared concepts). It merges the 6,143-item bank (this corpus + the Muraverde bank),
 882 native audio clips, and a procedural conjugation engine (62 verbs × 12 tenses) that
 drills whichever tense concept the scheduler sees weakening. Installable PWA, offline
 after first load. See [`game/README.md`](game/README.md).

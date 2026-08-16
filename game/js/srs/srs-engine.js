@@ -112,6 +112,7 @@ export class MemoryStorage {
   async init() {}
   async getCard(id) { return this.cards.get(id) || null; }
   async putCard(c) { this.cards.set(c.id, c); }
+  async deleteCards(ids) { for (const id of ids) this.cards.delete(id); }
   async bulkPutCards(cs) { for (const c of cs) this.cards.set(c.id, c); }
   async getAllCards() { return [...this.cards.values()]; }
   async getKc(id) { return this.kcs.get(id) || null; }
@@ -172,6 +173,20 @@ export class SRS {
     if (newKcs.length) await this.s.bulkPutKcs(newKcs);
     await this.s.setMeta('enrolledCount', (await this.s.getAllCards()).length);
     return { newCards: newCards.length, newKcs: newKcs.length };
+  }
+
+  // Remove enrolled cards whose ids are no longer in the content bank (e.g. a
+  // question format was retired). KC mastery records are kept — the evidence
+  // they hold still applies to the surviving sibling cards. Returns the count.
+  async prune(validIds, now = Date.now()) {
+    const valid = validIds instanceof Set ? validIds : new Set(validIds);
+    const stale = (await this.s.getAllCards()).map(c => c.id).filter(id => !valid.has(id));
+    if (stale.length) {
+      await this.s.deleteCards(stale);
+      await this.s.setMeta('enrolledCount', (await this.s.getAllCards()).length);
+      await this.s.logReview({ id: null, correct: null, ts: now, pruned: stale.length });
+    }
+    return stale.length;
   }
 
   guessFor(type) { return this.p.bkt.pGuessByType[type] ?? this.p.bkt.pGuessByType.default; }

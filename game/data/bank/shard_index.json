@@ -1,7 +1,7 @@
 {
  "Fonologia": {
   "file": "fonologia.json",
-  "count": 168
+  "count": 70
  },
  "Grammatica A1": {
   "file": "grammatica-a1.json",
@@ -37,18 +37,18 @@
  },
  "Vocabolario A1": {
   "file": "vocabolario-a1.json",
-  "count": 1717
+  "count": 1224
  },
  "Vocabolario A2": {
   "file": "vocabolario-a2.json",
-  "count": 1185
+  "count": 884
  },
  "Vocabolario B1": {
   "file": "vocabolario-b1.json",
-  "count": 799
+  "count": 635
  },
  "Vocabolario B2": {
   "file": "vocabolario-b2.json",
-  "count": 98
+  "count": 63
  }
 }

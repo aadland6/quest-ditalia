@@ -66,27 +66,27 @@
  },
  "phon:geminate": {
   "label": "Consonanti doppie (geminate)",
-  "count": 86,
+  "count": 44,
   "kind": "phon"
  },
  "phon:s-z": {
   "label": "S sonora e sorda, z",
-  "count": 9,
+  "count": 6,
   "kind": "phon"
  },
  "phon:vocali": {
   "label": "Vocali aperte e chiuse",
-  "count": 31,
+  "count": 6,
   "kind": "phon"
  },
  "area:fonologia": {
   "label": "Fonologia",
-  "count": 168,
+  "count": 70,
   "kind": "area"
  },
  "phon:c-g": {
   "label": "C e g dure e dolci",
-  "count": 4,
+  "count": 2,
   "kind": "phon"
  },
  "area:lettura-a1": {
@@ -94,69 +94,69 @@
   "count": 189,
   "kind": "area"
  },
- "voc:cucina": {
-  "label": "Vocabolario: cucina",
-  "count": 364,
+ "voc:natura-animali": {
+  "label": "Vocabolario: natura animali",
+  "count": 156,
   "kind": "vocab"
  },
  "area:vocabolario-a1": {
   "label": "Vocabolario A1",
-  "count": 1717,
+  "count": 1224,
   "kind": "area"
- },
- "voc:natura-animali": {
-  "label": "Vocabolario: natura animali",
-  "count": 240,
-  "kind": "vocab"
- },
- "voc:verbi-comuni": {
-  "label": "Vocabolario: verbi comuni",
-  "count": 337,
-  "kind": "vocab"
  },
  "voc:citta-trasporti": {
   "label": "Vocabolario: citta trasporti",
-  "count": 228,
+  "count": 148,
   "kind": "vocab"
  },
- "voc:abbigliamento": {
-  "label": "Vocabolario: abbigliamento",
-  "count": 197,
+ "voc:cucina": {
+  "label": "Vocabolario: cucina",
+  "count": 233,
   "kind": "vocab"
  },
  "voc:lavoro-scuola": {
   "label": "Vocabolario: lavoro scuola",
-  "count": 146,
+  "count": 97,
   "kind": "vocab"
  },
  "voc:famiglia-persone": {
   "label": "Vocabolario: famiglia persone",
-  "count": 291,
+  "count": 200,
   "kind": "vocab"
  },
- "voc:tempo-numeri": {
-  "label": "Vocabolario: tempo numeri",
-  "count": 259,
+ "voc:abbigliamento": {
+  "label": "Vocabolario: abbigliamento",
+  "count": 136,
+  "kind": "vocab"
+ },
+ "voc:verbi-comuni": {
+  "label": "Vocabolario: verbi comuni",
+  "count": 209,
   "kind": "vocab"
  },
  "voc:corpo-salute": {
   "label": "Vocabolario: corpo salute",
-  "count": 236,
+  "count": 163,
   "kind": "vocab"
  },
  "voc:astratto-societa": {
   "label": "Vocabolario: astratto societa",
-  "count": 164,
+  "count": 96,
+  "kind": "vocab"
+ },
+ "voc:tempo-numeri": {
+  "label": "Vocabolario: tempo numeri",
+  "count": 152,
   "kind": "vocab"
  },
  "voc:casa": {
   "label": "Vocabolario: casa",
-  "count": 320,
+  "count": 208,
   "kind": "vocab"
  },
  "voc:tecnologia-ufficio": {
   "label": "Vocabolario: tecnologia ufficio",
-  "count": 8,
+  "count": 4,
   "kind": "vocab"
  },
  "area:grammatica-a2": {
@@ -201,17 +201,17 @@
  },
  "phon:gn-gli": {
   "label": "Suoni gn e gli",
-  "count": 19,
+  "count": 10,
   "kind": "phon"
  },
  "phon:accento": {
   "label": "Accento tonico",
-  "count": 24,
+  "count": 6,
   "kind": "phon"
  },
  "phon:sc": {
   "label": "Suono sc",
-  "count": 11,
+  "count": 6,
   "kind": "phon"
  },
  "area:lettura-a2": {
@@ -221,12 +221,12 @@
  },
  "area:vocabolario-a2": {
   "label": "Vocabolario A2",
-  "count": 1185,
+  "count": 884,
   "kind": "area"
  },
  "voc:strumenti-lavoro": {
   "label": "Vocabolario: strumenti lavoro",
-  "count": 10,
+  "count": 5,
   "kind": "vocab"
  },
  "area:grammatica-b1": {
@@ -286,7 +286,7 @@
  },
  "area:vocabolario-b1": {
   "label": "Vocabolario B1",
-  "count": 799,
+  "count": 635,
   "kind": "area"
  },
  "gra:discorso-indiretto": {
@@ -321,7 +321,7 @@
  },
  "area:vocabolario-b2": {
   "label": "Vocabolario B2",
-  "count": 98,
+  "count": 63,
   "kind": "area"
  },
  "voc:frequenza-nomi": {

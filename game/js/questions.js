@@ -34,6 +34,8 @@ export async function initQuestions() {
   await srs.init();
   const have = await srs.s.getAllCards();
   if (have.length < cards.length) await srs.enroll(cards);
+  // Drop cards for content removed from the bank (e.g. retired formats)
+  if (have.length) await srs.prune(new Set(cardArea.keys()));
   return srs;
 }
 

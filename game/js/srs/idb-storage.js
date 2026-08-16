@@ -40,6 +40,7 @@ export class IdbStorage {
   async putCard(c) { const tx = this.db.transaction('cards', 'readwrite'); tx.objectStore('cards').put(c); return this._done(tx); }
   async bulkPutCards(cs) { const tx = this.db.transaction('cards', 'readwrite'); const st = tx.objectStore('cards'); for (const c of cs) st.put(c); return this._done(tx); }
   async getAllCards() { return (await this._p(this._tx('cards', 'readonly').getAll())) || []; }
+  async deleteCards(ids) { const tx = this.db.transaction('cards', 'readwrite'); const st = tx.objectStore('cards'); for (const id of ids) st.delete(id); return this._done(tx); }
 
   async getKc(id) { return (await this._p(this._tx('kcs', 'readonly').get(id))) || null; }
   async putKc(k) { const tx = this.db.transaction('kcs', 'readwrite'); tx.objectStore('kcs').put(k); return this._done(tx); }

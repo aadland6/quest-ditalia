@@ -1,6 +1,6 @@
 // sw.js — offline support. App shell is precached; question shards and SRS data
 // are cached on first fetch (stale-while-revalidate for same-origin GETs).
-const VERSION = 'italiaquest-v1';
+const VERSION = 'italiaquest-v2';
 
 const SHELL = [
   './',
